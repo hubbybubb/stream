@@ -18,8 +18,8 @@ if uploaded_file is not None:
                        labels={
                            'y': 'Среднее количество нефти в резервуарах',
                            'x': 'Datum',
-                           'wide_variable_0':'Nafta'
-                           'wide_variable_1':'Nafta2'
+                           'wide_variable_0':'Nafta',
+                           'wide_variable_1':'Nafta2',
                            'variable': 'Proizvodnja'
                        })
         st.write(fig1)
