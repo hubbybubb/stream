@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.title('GRAFIK ZA DRUGA')
+st.title('DASHBOARD')
 st.write("""Upload file!""")
-uploaded_file = st.file_uploader('Choose a file')
+uploaded_file = st.file_uploader('Excel')
 if uploaded_file is not None:
     df = pd.read_excel(uploaded_file)
 
