@@ -33,5 +33,5 @@ if uploaded_file is not None:
                        })
         st.write(fig2)
         
-     except:
+    except:
         st.write('Fajl nije u pravom formatu! Pokusajte ponovo')
