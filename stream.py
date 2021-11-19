@@ -22,15 +22,7 @@ if uploaded_file is not None:
                            'wide_variable_1':'Nafta2',
                            'variable': 'Proizvodnja'
                        })
-        fig.update_layout(
-        xaxis_title = "Дата",
-        yaxis_title = "Среднее кол-во жидкости в резервуарах",
-        font = dict(
-        family = "Courier New, monospace",
-        size = 18,
-        color = "#7f7f7f"
-            )
-        )
+
         
         st.write(fig1)
 
