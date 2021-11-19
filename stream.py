@@ -7,14 +7,13 @@ st.write("""Upload file!""")
 uploaded_file = st.file_uploader('Excel')
 if uploaded_file is not None:
     df = pd.read_excel(uploaded_file)
+    x = df.Datum
+    y = df.ITRA
 
-x = df.Datum
-y = df.ITRA
-
-fig1 = px.line(y=y, x=x, template='plotly_dark', title='Grafik za Basova',
-               labels={
-                   'value': 'ITRA Bodovi',
-                   'x': 'Datum',
-                   'variable': 'Proizvodnja'
-               })
-st.write(fig1)
+    fig1 = px.line(y=y, x=x, template='plotly_dark', title='Grafik za Basova',
+                   labels={
+                       'value': 'ITRA Bodovi',
+                       'x': 'Datum',
+                       'variable': 'Proizvodnja'
+                   })
+    st.write(fig1)
