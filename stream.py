@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.title('NASLOVa')
+st.title('Primer Dashboard-a')
 st.write("""Upload file!""")
 uploaded_file = st.file_uploader('Excel')
 if uploaded_file is not None:
