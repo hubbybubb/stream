@@ -16,22 +16,32 @@ if uploaded_file is not None:
 
         fig1 = px.line(y=[y1,y12], x=x, template='plotly_dark', title='Среднее количество нефти в резервуарах',
                        labels={
-                           'y': 'Среднее количество нефти в резервуарах',
-                           'x': 'Datum',
+                           'value': 'Среднее количество нефти в резервуарах',
+                           'x': 'Дата',
                            'wide_variable_0':'Nafta',
                            'wide_variable_1':'Nafta2',
                            'variable': 'Proizvodnja'
                        })
+        fig.update_layout(
+        xaxis_title = "Дата",
+        yaxis_title = "Среднее кол-во жидкости в резервуарах",
+        font = dict(
+        family = "Courier New, monospace",
+        size = 18,
+        color = "#7f7f7f"
+            )
+        )
+        
         st.write(fig1)
 
 
         fig2 = px.line(y=[y2,y22], x=x, template='plotly_dark', title='Добыча нефти',
                        labels={
-                           'y': 'Среднее количество нефти в резервуарах',
-                           'x': 'Datum',
+                           'value': 'Добыча нефти',
+                           'x': 'Дата',
                            'variable': 'Proizvodnja'
                        })
         st.write(fig2)
         
     except:
-        st.write('Fajl nije u pravom formatu! Pokusajte ponovo')
+        st.write('Try again!')
