@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.title('Primer Dashboard-a')
-st.write("""Upload file!""")
+st.write("""Hehehe""")
 uploaded_file = st.file_uploader('Excel')
 if uploaded_file is not None:
     df = pd.read_excel(uploaded_file)
