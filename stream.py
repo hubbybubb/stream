@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.title('Primer Dashboard-a')
 st.write("""Upload file!""")
-df = pd.read_excel(r'C:\Test\Bas.xlsx')
+df = pd.read_excel(rb, 'C:\Test\Bas.xlsx')
 # uploaded_file = st.file_uploader('Excel')
 # if uploaded_file is not None:
 #     df = pd.read_excel(uploaded_file)
