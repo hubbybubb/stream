@@ -11,9 +11,7 @@ y1 = df.y1
 y12 = df.y12
 y2 = df.y2
 y22 = df.y22
-fig1 = px.line(y=[y1,y12], x=x, template='plotly_dark', title='Среднее количество нефти в резервуарах',
-                       labels={
-                           'value': 'Среднее количество нефти в резервуарах',
+fig1 = px.line(y=[y1,y12], x=x, template='plotly_dark', title='Среднее количество нефти в резервуарах', labels={'value': 'Среднее количество нефти в резервуарах',
                            'x': 'Дата',
                            'wide_variable_0':'Nafta',
                            'wide_variable_1':'Nafta2',
