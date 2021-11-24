@@ -9,6 +9,8 @@ add_selectbox = st.sidebar.selectbox(
     ("Email", "Home phone", "Mobile phone")
 )
 
+st.sidebar.button(Potvrdi, key=None, help=None, on_click=None, args=None, kwargs=None)
+
 option = st.selectbox(
      'Odaberite naftno polje: ',
     ('Velebit', 'Turija', 'Iđoš'))
