@@ -9,12 +9,6 @@ option = st.selectbox(
 
 st.write('Odabrali ste naftno polje ', option)
 
-if option == 'Velebit':
-     st.write('Bebisiter Milan')
-     
-if option == 'Turija':
-     st.write('BYE BABY')
-
 st.write("""Upload file!""")
 uploaded_file = st.file_uploader('Excel')
 if uploaded_file is not None:
