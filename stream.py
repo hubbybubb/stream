@@ -4,7 +4,7 @@ import plotly.express as px
 
 def clicky():
     if genre == 'Уклањање асфалтно-смоластих и парафинских наслага':
-        st.balloons
+        st.balloons()
         
     else:
         st.write('Netacan odgovor!')
