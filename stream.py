@@ -12,8 +12,8 @@ def clicky():
 st.title('Test kompetencija')
 
 add_selectbox = st.sidebar.selectbox(
-    "How would you like to be contacted?",
-    ("Email", "Home phone", "Mobile phone")
+    "Ime i prezime učesnika: ",
+    ("Nikola Nikolic", "Petar Petrovic", "Mika Mikic")
 )
 
 st.sidebar.button('Potvrdi', on_click = clicky)
