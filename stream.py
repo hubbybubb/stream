@@ -3,6 +3,12 @@ import pandas as pd
 import plotly.express as px
 
 st.title('Dashboard')
+
+add_selectbox = st.sidebar.selectbox(
+    "How would you like to be contacted?",
+    ("Email", "Home phone", "Mobile phone")
+)
+
 option = st.selectbox(
      'Odaberite naftno polje: ',
     ('Velebit', 'Turija', 'Iđoš'))
