@@ -7,7 +7,7 @@ option = st.selectbox(
      'Odaberite naftno polje: ',
     ('Velebit', 'Turija', 'Iđoš'))
 
-st.write(option)
+st.write('Odabrali ste naftno polje ', option)
 
 if option == 'Velebit':
      st.write('Bebisiter Milan')
