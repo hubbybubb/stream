@@ -9,7 +9,7 @@ def clicky():
     else:
         st.write('Netacan odgovor!')
 
-st.title('Dashboard')
+st.title('Test kompetencija')
 
 add_selectbox = st.sidebar.selectbox(
     "How would you like to be contacted?",
