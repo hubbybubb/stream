@@ -12,12 +12,10 @@ add_selectbox = st.sidebar.selectbox(
 st.sidebar.button('Potvrdi')
 
 genre = st.radio(
-"Топлотне методе се примењују за 
-",
+'Топлотне методе се примењују за ',
 ('Уклањање калцита', 'Уклањање хидрата', 'Уклањање асфалтно-смоластих и парафинских наслага', 'Уклањање каменца '))
 
-option = st.selectbox(
-     'Odaberite naftno polje: ',
+option = st.selectbox('Odaberite naftno polje: ',
     ('Velebit', 'Turija', 'Iđoš'))
 
 st.write('Odabrali ste naftno polje ', option)
