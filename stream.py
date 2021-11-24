@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.title('Dashboard')
 option = st.selectbox(
-     'How would you like to be contacted?',
+     'Odaberite naftno polje: ',
     ('Velebit', 'Turija', 'Iđoš'))
 
 st.write(option)
