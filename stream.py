@@ -27,7 +27,7 @@ if uploaded_file is not None:
         st.write(fig1)
 
 
-        fig2 = px.line(y=[y2,y22], x=x, template='plotly_dark', title='Добыча нефти',
+        fig2 = px.line(y=[y2,y22], x=x, template='plotly_dark', title='Добыча нефти',line_shape='spline',
                        labels={
                            'value': 'Добыча нефти',
                            'x': 'Дата',
