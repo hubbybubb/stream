@@ -3,6 +3,12 @@ import pandas as pd
 import plotly.express as px
 
 st.title('Dashboard')
+option = st.selectbox(
+     'How would you like to be contacted?',
+    ('Email', 'Home phone', 'Mobile phone'))
+
+st.write(option)
+
 st.write("""Upload file!""")
 uploaded_file = st.file_uploader('Excel')
 if uploaded_file is not None:
