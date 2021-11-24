@@ -14,7 +14,7 @@ if uploaded_file is not None:
         y2 = df.y2
         y22 = df.y22
 
-        fig1 = px.line(y=[y1,y12], x=x, template='plotly_dark', title='Среднее количество нефти в резервуарах',
+        fig1 = px.line(y=[y1,y12], x=x, template='plotly_dark', title='Среднее количество нефти в резервуарах', line_shape='spline',
                        labels={
                            'value': 'Среднее количество нефти в резервуарах',
                            'x': 'Дата',
