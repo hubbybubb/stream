@@ -5,7 +5,7 @@ import plotly.express as px
 st.title('Dashboard')
 option = st.selectbox(
      'How would you like to be contacted?',
-    ('Email', 'Home phone', 'Mobile phone'))
+    ('Velebit', 'Turija', 'Iđoš'))
 
 st.write(option)
 
