@@ -1,58 +1,30 @@
 import streamlit as st
+import pandas as pd
+import plotly.express as px
 
-
-def main():
-    # Register your pages
-    pages = {
-        "First page": page_first,
-        "Second page": page_second,
-    }
-
-    st.sidebar.title("App with pages")
-
-    # Widget to select your page, you can choose between radio buttons or a selectbox
-    page = st.sidebar.selectbox("Select your page", tuple(pages.keys()))
-    #page = st.sidebar.radio("Select your page", tuple(pages.keys()))
-
-    # Display the selected page with the session state
-    pages[page]()
-
-
-def page_first():
-    st.title("This is my first page")
-    # ...
-
-
-def page_second():
-    st.title("This is my second page")
-    # ...
-
-
-if __name__ == "__main__":
-# import streamlit as st
-# import pandas as pd
-# import plotly.express as px
-
-# def clicky():
+def clicky():
 #     if genre == 'Уклањање асфалтно-смоластих и парафинских наслага':
 #         st.write('Tačan odgovor!')
 #         st.balloons()
         
 #     else:
 #         st.write('Netacan odgovor!')
+      st.title('Test kompetencija')
+      st.write('Radi kod sad')
 
-# st.title('Test kompetencija')
 
-# add_selectbox = st.sidebar.selectbox(
-#     "Ime i prezime učesnika: ",
-#     ("Nikola Nikolic", "Petar Petrovic", "Mika Mikic")
-# )
+st.title('Test kompetencija')
 
-# st.sidebar.button('Potvrdi', on_click = clicky)
+add_selectbox = st.sidebar.selectbox(
+    "Ime i prezime učesnika: ",
+    ("Nikola Nikolic", "Petar Petrovic", "Mika Mikic")
+)
 
-# genre = st.radio(
-# 'Топлотне методе се примењују за ',
-# ('Уклањање калцита', 'Уклањање хидрата', 'Уклањање асфалтно-смоластих и парафинских наслага', 'Уклањање каменца '))
+st.sidebar.button('Potvrdi', on_click = clicky)
+
+genre = st.radio(
+'Топлотне методе се примењују за ',
+('Уклањање калцита', 'Уклањање хидрата', 'Уклањање асфалтно-смоластих и парафинских наслага', 'Уклањање каменца '))
 
 # option = st.selectbox('Odaberite naftno polje: ',
 #     ('Velebit', 'Turija', 'Iđoš'))
