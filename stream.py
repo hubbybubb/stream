@@ -2,38 +2,38 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-
-base="dark"
-primaryColor="purple"
-
-def mainy():
-        st.title('Kultura učenja')
-        st.write('Radi kod sad')
-# #     if genre == 'Уклањање асфалтно-смоластих и парафинских наслага':
-# #         st.write('Tačan odgovor!')
-# #         st.balloons()
+# def mainy():
+#         st.title('Kultura učenja')
+#         st.write('Radi kod sad')
+# # #     if genre == 'Уклањање асфалтно-смоластих и парафинских наслага':
+# # #         st.write('Tačan odgovor!')
+# # #         st.balloons()
         
-# #     else:
-# #         st.write('Netacan odgovor!')
+# # #     else:
+# # #         st.write('Netacan odgovor!')
 
-def testy():
-        st.title('Test kompetencija')
-        genre = st.radio(
-        'Топлотне методе се примењују за ',
-        ('Уклањање калцита', 'Уклањање хидрата', 'Уклањање асфалтно-смоластих и парафинских наслага', 'Уклањање каменца '))
-        st.write('Radi kod sad')
+# def testy():
+#         st.title('Test kompetencija')
+#         genre = st.radio(
+#         'Топлотне методе се примењују за ',
+#         ('Уклањање калцита', 'Уклањање хидрата', 'Уклањање асфалтно-смоластих и парафинских наслага', 'Уклањање каменца '))
+#         st.write('Radi kod sad')
 
-def resy():
-        st.title('Rezulati')
-        st.write('Radi kod sad')
-        st.metric
+# def resy():
+#         st.title('Rezulati')
+#         st.write('Radi kod sad')
+#         st.metric
       
-
+def Velebit():
+        st.write('Velebit grafici')
 
 add_selectbox = st.sidebar.selectbox(
     "Ime i prezime učesnika: ",
-    ("Nikola Nikolic", "Petar Petrovic", "Mika Mikic")
+    ("Velebit", "Petar Petrovic", "Mika Mikic")
 )
+
+if add_selectbox == "Velebit"
+        Velebit()
 
 st.sidebar.button('Potvrdi', on_click = mainy)
 st.sidebar.button('Započni testiranje', on_click = testy)
