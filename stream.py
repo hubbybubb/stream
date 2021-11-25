@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-def clicky():
-        st.title('Test kompetencija')
+def mainy():
+        st.title('Kultura učenja')
         st.write('Radi kod sad')
 # #     if genre == 'Уклањање асфалтно-смоластих и парафинских наслага':
 # #         st.write('Tačan odgovor!')
@@ -11,6 +11,17 @@ def clicky():
         
 # #     else:
 # #         st.write('Netacan odgovor!')
+
+def testy():
+        st.title('Test kompetencija')
+        genre = st.radio(
+        'Топлотне методе се примењују за ',
+        ('Уклањање калцита', 'Уклањање хидрата', 'Уклањање асфалтно-смоластих и парафинских наслага', 'Уклањање каменца '))
+        st.write('Radi kod sad')
+
+def resy():
+        st.title('Rezulati')
+        st.write('Radi kod sad')
       
 
 
@@ -21,11 +32,11 @@ add_selectbox = st.sidebar.selectbox(
     ("Nikola Nikolic", "Petar Petrovic", "Mika Mikic")
 )
 
-st.sidebar.button('Potvrdi', on_click = clicky)
+st.sidebar.button('Potvrdi', on_click = mainy)
+st.sidebar.button('Započni testiranje', on_click = testy)
+st.sidebar.button('Rezultati', on_click = resy)
 
-genre = st.radio(
-'Топлотне методе се примењују за ',
-('Уклањање калцита', 'Уклањање хидрата', 'Уклањање асфалтно-смоластих и парафинских наслага', 'Уклањање каменца '))
+
 
 # option = st.selectbox('Odaberite naftno polje: ',
 #     ('Velebit', 'Turija', 'Iđoš'))
