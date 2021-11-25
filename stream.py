@@ -2,15 +2,16 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# def clicky():
+def clicky():
+        st.title('Test kompetencija')
+        st.write('Radi kod sad')
 # #     if genre == 'Уклањање асфалтно-смоластих и парафинских наслага':
 # #         st.write('Tačan odgovor!')
 # #         st.balloons()
         
 # #     else:
 # #         st.write('Netacan odgovor!')
-#       st.title('Test kompetencija')
-#       st.write('Radi kod sad')
+      
 
 
 st.title('Test kompetencija')
@@ -20,7 +21,7 @@ add_selectbox = st.sidebar.selectbox(
     ("Nikola Nikolic", "Petar Petrovic", "Mika Mikic")
 )
 
-st.sidebar.button('Potvrdi')
+st.sidebar.button('Potvrdi', on_click = clicky)
 
 genre = st.radio(
 'Топлотне методе се примењују за ',
