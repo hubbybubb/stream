@@ -20,7 +20,7 @@ add_selectbox = st.sidebar.selectbox(
     ("Nikola Nikolic", "Petar Petrovic", "Mika Mikic")
 )
 
-# st.sidebar.button('Potvrdi', on_click = clicky)
+st.sidebar.button('Potvrdi')
 
 genre = st.radio(
 'Топлотне методе се примењују за ',
