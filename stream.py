@@ -29,15 +29,19 @@ def Velebit():
 
 add_selectbox = st.sidebar.selectbox(
     "Ime i prezime učesnika: ",
-    ("Velebit", "Petar Petrovic", "Mika Mikic")
+    ("Velebit", "Turija", "Elemir")
 )
 
 if add_selectbox == "Velebit":
         Velebit()
+if add_selectbox == "Turija":
+        Turija()
+if add_selectbox == "Elemir":
+        Elemir()
 
-st.sidebar.button('Potvrdi', on_click = mainy)
-st.sidebar.button('Započni testiranje', on_click = testy)
-st.sidebar.button('Rezultati', on_click = resy)
+# st.sidebar.button('Potvrdi', on_click = mainy)
+# st.sidebar.button('Započni testiranje', on_click = testy)
+# st.sidebar.button('Rezultati', on_click = resy)
 
 
 
