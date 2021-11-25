@@ -25,7 +25,13 @@ import plotly.express as px
 #         st.metric
       
 def Velebit():
-        st.write('Velebit grafici')
+        st.title('Velebit grafici')
+
+def Elemir():
+        st.title('Elemir grafici')
+        
+def Turija():
+        st.title('Turija grafici')
 
 add_selectbox = st.sidebar.selectbox(
     "Ime i prezime učesnika: ",
