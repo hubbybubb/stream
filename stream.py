@@ -25,7 +25,7 @@ def resy():
       
 
 
-st.title('Test kompetencija')
+#st.title('Test kompetencija')
 
 add_selectbox = st.sidebar.selectbox(
     "Ime i prezime učesnika: ",
