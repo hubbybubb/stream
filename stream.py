@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+[theme]
+base="dark"
+primaryColor="purple"
+
 def mainy():
         st.title('Kultura učenja')
         st.write('Radi kod sad')
@@ -24,8 +28,6 @@ def resy():
         st.write('Radi kod sad')
       
 
-
-st.title('Test kompetencija')
 
 add_selectbox = st.sidebar.selectbox(
     "Ime i prezime učesnika: ",
