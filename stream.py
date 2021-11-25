@@ -32,7 +32,7 @@ add_selectbox = st.sidebar.selectbox(
     ("Velebit", "Petar Petrovic", "Mika Mikic")
 )
 
-if add_selectbox == "Velebit"
+if add_selectbox == "Velebit":
         Velebit()
 
 st.sidebar.button('Potvrdi', on_click = mainy)
