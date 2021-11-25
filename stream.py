@@ -33,7 +33,8 @@ def Elemir():
 def Turija():
         st.title('Turija grafici')
 
-st.sidebox.title('Ovo je primer dashboarda')
+st.sidebox.text_area('Ovo je primer dashboarda')
+
 add_selectbox = st.sidebar.selectbox(
     "Odaberite naftno polje: ",
     ("Velebit", "Turija", "Elemir")
