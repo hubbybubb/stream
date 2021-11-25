@@ -26,6 +26,7 @@ def testy():
 def resy():
         st.title('Rezulati')
         st.write('Radi kod sad')
+        st.metric
       
 
 
