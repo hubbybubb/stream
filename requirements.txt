@@ -5,4 +5,3 @@ plotly.express
 openpyxl
 xlrd
 xlsxwriter
-os
