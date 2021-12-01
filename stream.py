@@ -14,6 +14,9 @@ from PIL import Image
 
 import plotly.figure_factory as ff
 
+st.beta_set_page_config(
+layout=“wide”,
+)
 
 slika=Image.open('1.png')
 st.set_page_config(page_title='CUP Dashboard',page_icon=slika)
