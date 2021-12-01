@@ -607,7 +607,7 @@ def IdjosPoMesecu():
   
 
 
-st.sidebar.image("slika.png")
+st.sidebar.image("slika.png",width=5)
 st.sidebar.markdown('------------------')
 #st.sidebar.text_area('')
 # st.header('DOBRODOSLI U MONITORING PROIZVODNJE NAFTE I GASA')
