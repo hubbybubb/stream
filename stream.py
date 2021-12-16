@@ -51,4 +51,4 @@ def admin():
   fig1=px.bar(df, x='Name',y='val',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",template="plotly_white")
   st.plotly_chart(fig1)
   
-admin()
+# admin()
