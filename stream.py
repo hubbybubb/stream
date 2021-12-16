@@ -34,6 +34,13 @@ st.write(str(rslt_df2.netacni))
 
 table = rslt_df2
 
-st.write(table.iat[0,3])
+osnove = table.iat[0,4]
+zakonska = table.iat[0,5]
+mehanicke = table.iat[0,6]
 
-fig1=px.bar(date,x="Datum",y="tacni",orientation="v",title="<b>Pracenje uspesnosti po testu</b>",color_discrete_sequence=["#0083B8"]*len(m),template="plotly_white")
+r = []
+r.append(int(osnove))
+r.append(int(zakonska))
+r.append(int(mehanicke))
+
+fig1=px.bar(x=['Osnove', 'Zakon', 'Meh'],y=r,orientation="v",title="<b>Pracenje uspesnosti po testu</b>",color_discrete_sequence=["#0083B8"]*len(m),template="plotly_white")
