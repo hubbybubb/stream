@@ -18,3 +18,5 @@ dataframe1 = pd.read_excel('1.xlsx')
 df = dataframe1.drop_duplicates(subset ="Name",
                      keep = False)
 st.selectbox("Meni",df)
+
+rslt_df = dataframe1[dataframe['Name'].isin(st.selectbox)]
