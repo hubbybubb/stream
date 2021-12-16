@@ -11,7 +11,7 @@ def admin_rang():
   total_result = pd.read_excel('1.xlsx', index_col=False)
   total_result.sort_values(by=['tacni'], inplace=True, ascending=False)
   rang = total_result.drop_duplicates(subset ="Name")
-  rang.reset_index()
+  rang.reset_index(inplace = True, drop = True)
   st.write(rang)
   
   
