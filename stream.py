@@ -25,13 +25,13 @@ def admin():
   name_list = []
   name_list.append(name)
   name_result = total_result[total_result['Name'].isin(name_list)]
-#   st.table(name_result)
+  st.table(name_result)
   date_search = name_result.Datum
   date = st.selectbox("Odaberite datum testa: ",date_search)
   date_list=[]
   date_list.append(date)
   result_final = name_result[name_result['Datum'].isin(date_list)]
-#   st.table(result_final)
+# st.table(result_final)
 
   table = result_final
 
