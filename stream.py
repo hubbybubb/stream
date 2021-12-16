@@ -9,8 +9,9 @@ import plotly.figure_factory as ff
 
 def admin_rang():
   total_result = pd.read_excel('1.xlsx', index_col=False)
-  rang = total_result.sort_values(by=['tacni'], inplace=True, ascending=False)
-  st.write(total_result)
+  total_result.sort_values(by=['tacni'], inplace=True, ascending=False)
+  rang = total_result.drop_duplicates(subset ="Name")
+  st.write(rang)
   
   
 
