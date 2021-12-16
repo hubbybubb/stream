@@ -47,4 +47,4 @@ r2=['Osnove', 'Zakon', 'Meh']
 df = pd.DataFrame(list(zip(r, r2)),
                columns =['Name', 'val'])
 
-fig1=px.bar(df, x='Name',y='val',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",color_discrete_sequence=["#0083B8"]*len(m),template="plotly_white")
+fig1=px.bar(df, x='Name',y='val',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",template="plotly_white")
