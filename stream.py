@@ -34,6 +34,6 @@ st.write(str(rslt_df2.netacni))
 
 table = rslt_df2
 
-st.write(str(table.Osnove))
+st.write(table.iat[0,3])
 
 fig1=px.bar(date,x="Datum",y="tacni",orientation="v",title="<b>Pracenje uspesnosti po testu</b>",color_discrete_sequence=["#0083B8"]*len(m),template="plotly_white")
