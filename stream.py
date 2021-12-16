@@ -23,6 +23,10 @@ y.append(x)
 rslt_df = dataframe1[dataframe1['Name'].isin(y)]
 st.write(rslt_df)
 x1 = rslt_df.Datum
-x = st.selectbox("Meni",x1)
-
+st.write()
+x2 = st.selectbox("Meni",x1)
+y2=[]
+y2.append(x2)
+rslt_df2 = rslt_df[rslt_df['Datum'].isin(y2)]
+st.write(rslt_df2)
 
