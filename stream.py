@@ -48,4 +48,4 @@ df = pd.DataFrame(list(zip(r, r2)),
                columns =['Name', 'val'])
 
 fig1=px.bar(df, x='Name',y='val',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",template="plotly_white")
-fig1.show()
+st.plotly_chart(fig1)
