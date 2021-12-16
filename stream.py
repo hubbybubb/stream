@@ -1,36 +1,31 @@
 import streamlit as st
-
 import pandas as pd
-
 import plotly.express as px
-
 import xlrd as xl
-
 import xlsxwriter
-
 import os
-
 from PIL import Image
-
 import plotly.figure_factory as ff
 
-def admin(): 
-  dataframe1 = pd.read_excel('1.xlsx', index_col=False)
-  df = dataframe1.drop_duplicates(subset ="Name")
-  x = st.selectbox("Meni",df)
-  st.write(x)
-  y = []
-  y.append(x)
-  rslt_df = dataframe1[dataframe1['Name'].isin(y)]
-  st.table(rslt_df)
-  x1 = rslt_df.Datum
-  x2 = st.selectbox("Meni",x1)
-  y2=[]
-  y2.append(x2)
-  rslt_df2 = rslt_df[rslt_df['Datum'].isin(y2)]
-  st.table(rslt_df2)
+def admin():
+#   results=view_all_results()
+# OVDE TREBA DA SE ZAMENI DATA FRAME
+  total_result = pd.read_excel('1.xlsx', index_col=False)
+  name_search = total_result.drop_duplicates(subset ="Name")
+  name = st.selectbox("Meni",name_search)
+  st.write(name)
+  name_list = []
+  name_list.append(name)
+  name_result = total_result[total_result['Name'].isin(name_list)]
+  st.table(name_result)
+  date_search = name_result.Datum
+  date = st.selectbox("Meni",date_search)
+  date_list=[]
+  date_list.append(date)
+  result_final = name_result[name_result['Datum'].isin(y2)]
+  st.table(result_final)
 
-  table = rslt_df2
+  table = result_final
 
   osnove = table.iat[0,4]
   zakonska = table.iat[0,5]
