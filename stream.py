@@ -54,6 +54,6 @@ def admin():
   fig1=px.bar(df, x='Sekcija',y='Bodovi',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",template="plotly_white")
   st.plotly_chart(fig1)
 
-st.title("Admin strana")
+st.title("ADMINISTRATOR")
 admin()
 admin_rang()
