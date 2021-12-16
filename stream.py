@@ -22,7 +22,7 @@ def admin():
   date = st.selectbox("Meni",date_search)
   date_list=[]
   date_list.append(date)
-  result_final = name_result[name_result['Datum'].isin(y2)]
+  result_final = name_result[name_result['Datum'].isin(date_list)]
   st.table(result_final)
 
   table = result_final
