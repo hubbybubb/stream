@@ -22,3 +22,4 @@ st.write(x)
 y = []
 y.append(x)
 rslt_df = dataframe1[dataframe1['Name'].isin(y)]
+st.write(rslt_df)
