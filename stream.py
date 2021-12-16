@@ -16,5 +16,5 @@ import plotly.figure_factory as ff
 
 dataframe1 = pd.read_excel('1.xlsx')
 df = dataframe1.drop_duplicates(subset ="Name",
-                     keep = False, inplace = True)
+                     keep = False)
 st.selectbox("Meni",df)
