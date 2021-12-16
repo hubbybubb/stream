@@ -32,6 +32,6 @@ st.table(rslt_df2)
 st.write(str(rslt_df2.tacni))
 st.write(str(rslt_df2.netacni))
 
-table = rslt_df2.T.tail(3, index=FALSE)
+table = rslt_df2.T.tail(3)
 st.write(table)
 fig1=px.bar(table, x=l, y=l ,orientation="v",title="<b>Pracenje uspesnosti po testu</b>",color_discrete_sequence=["#0083B8"]*len(m),template="plotly_white",)
