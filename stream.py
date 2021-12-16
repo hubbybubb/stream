@@ -10,7 +10,7 @@ import plotly.figure_factory as ff
 def admin_rang():
   total_result = pd.read_excel('1.xlsx', index_col=False)
   rang = total_result.sort_values(by=['tacni'], inplace=True, ascending=False)
-  st.write(rang)
+  st.write(total_result)
   
   
 
