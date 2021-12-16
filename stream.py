@@ -8,6 +8,7 @@ from PIL import Image
 import plotly.figure_factory as ff
 
 def admin_rang():
+  st.header("Rang lista korisnika")
   total_result = pd.read_excel('1.xlsx', index_col=False)
   total_result.sort_values(by=['tacni'], inplace=True, ascending=False)
   rang = total_result.drop_duplicates(subset ="Name")
@@ -17,6 +18,7 @@ def admin_rang():
   
 
 def admin():
+  st.header("Pretraga po imenu i testu")
 #   results=view_all_results()
 # OVDE TREBA DA SE ZAMENI DATA FRAME
   total_result = pd.read_excel('1.xlsx', index_col=False)
@@ -51,6 +53,7 @@ def admin():
 
   fig1=px.bar(df, x='Sekcija',y='Bodovi',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",template="plotly_white")
   st.plotly_chart(fig1)
-  
+
+st.title("Admin strana")
 admin()
 admin_rang()
