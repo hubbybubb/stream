@@ -40,7 +40,7 @@ def admin():
   df = pd.DataFrame(list(zip(r2, r)),
                  columns =['Sekcija', 'Bodovi'])
 
-  fig1=px.bar(df, x='Name',y='val',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",template="plotly_white")
+  fig1=px.bar(df, x='Sekcija',y='Bodovi',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",template="plotly_white")
   st.plotly_chart(fig1)
   
 admin()
