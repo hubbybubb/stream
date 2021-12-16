@@ -38,7 +38,7 @@ def admin():
 
   r2=['Osnove', 'Zakon', 'Meh']
   df = pd.DataFrame(list(zip(r2, r)),
-                 columns =['Name', 'val'])
+                 columns =['Sekcija', 'Bodovi'])
 
   fig1=px.bar(df, x='Name',y='val',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",template="plotly_white")
   st.plotly_chart(fig1)
