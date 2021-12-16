@@ -12,14 +12,14 @@ def admin():
 # OVDE TREBA DA SE ZAMENI DATA FRAME
   total_result = pd.read_excel('1.xlsx', index_col=False)
   name_search = total_result.drop_duplicates(subset ="Name")
-  name = st.selectbox("Meni",name_search)
+  name = st.selectbox("Odaberite korisnika: ",name_search)
 #   st.write(name)
   name_list = []
   name_list.append(name)
   name_result = total_result[total_result['Name'].isin(name_list)]
 #   st.table(name_result)
   date_search = name_result.Datum
-  date = st.selectbox("Meni",date_search)
+  date = st.selectbox("Odaberite datum testa: ",date_search)
   date_list=[]
   date_list.append(date)
   result_final = name_result[name_result['Datum'].isin(date_list)]
