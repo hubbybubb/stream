@@ -14,7 +14,7 @@ from PIL import Image
 
 import plotly.figure_factory as ff
 
-dataframe1 = pd.read_excel('1.xlsx', index=False)
+dataframe1 = pd.read_excel('1.xlsx', index_col=False)
 df = dataframe1.drop_duplicates(subset ="Name")
 x = st.selectbox("Meni",df)
 st.write(x)
