@@ -19,4 +19,4 @@ df = dataframe1.drop_duplicates(subset ="Name",
                      keep = False)
 x = st.selectbox("Meni",df)
 st.write(x)
-rslt_df = dataframe1[dataframe['Name'].isin(x)]
+rslt_df = dataframe1[dataframe['Name'].isin(str(x))]
