@@ -7,6 +7,13 @@ import os
 from PIL import Image
 import plotly.figure_factory as ff
 
+def admin_rang():
+  total_result = pd.read_excel('1.xlsx', index_col=False)
+  rang = total_result.sort_values(by=['tacni'], inplace=True, ascending=False)
+  st.write(rang)
+  
+  
+
 def admin():
 #   results=view_all_results()
 # OVDE TREBA DA SE ZAMENI DATA FRAME
@@ -44,3 +51,4 @@ def admin():
   st.plotly_chart(fig1)
   
 admin()
+admin_rang()
