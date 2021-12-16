@@ -44,7 +44,7 @@ r.append(int(zakonska))
 r.append(int(mehanicke))
 
 r2=['Osnove', 'Zakon', 'Meh']
-df = pd.DataFrame(list(zip(r, r2)),
+df = pd.DataFrame(list(zip(r2, r)),
                columns =['Name', 'val'])
 
 fig1=px.bar(df, x='Name',y='val',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",template="plotly_white")
