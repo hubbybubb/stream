@@ -21,7 +21,8 @@ st.write(x)
 y = []
 y.append(x)
 rslt_df = dataframe1[dataframe1['Name'].isin(y)]
+st.write(rslt_df)
 x1 = rslt_df.Datum
 x = st.selectbox("Meni",x1)
 
-st.write(rslt_df)
+
