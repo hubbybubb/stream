@@ -43,4 +43,8 @@ r.append(int(osnove))
 r.append(int(zakonska))
 r.append(int(mehanicke))
 
-fig1=px.bar(x=['Osnove', 'Zakon', 'Meh'],y=r,orientation="v",title="<b>Pracenje uspesnosti po testu</b>",color_discrete_sequence=["#0083B8"]*len(m),template="plotly_white")
+r2=['Osnove', 'Zakon', 'Meh']
+df = pd.DataFrame(list(zip(r, r2)),
+               columns =['Name', 'val'])
+
+fig1=px.bar(df, x='Name',y='val',orientation="v",title="<b>Pracenje uspesnosti po testu</b>",color_discrete_sequence=["#0083B8"]*len(m),template="plotly_white")
