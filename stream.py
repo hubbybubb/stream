@@ -29,7 +29,5 @@ y2=[]
 y2.append(x2)
 rslt_df2 = rslt_df[rslt_df['Datum'].isin(y2)]
 st.write(rslt_df2)
-st.write(rslt_df2.tacni)
-st.write(rslt_df2.netacni)
-
-fig1=px.bar(m1,x=m1.index,y=int("0"),orientation="v",title="<b>Rezultati poslednjeg testa</b>",color_discrete_sequence=["#0083B8"]*len(m),template="plotly_white",)
+st.write(str(rslt_df2.tacni))
+st.write(str(rslt_df2.netacni))
