@@ -55,8 +55,7 @@ def admin():
   st.plotly_chart(fig1)
   
   
-  fig = px.bar_polar(df, r="Sekcija", theta="Bodovi",
-                   color="strength", template="plotly_dark")
+  fig = px.bar_polar(df, r="Sekcija", theta="Bodovi")
   fig.show()
   st.plotly_chart(fig)
 
