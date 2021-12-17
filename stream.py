@@ -55,7 +55,7 @@ def admin():
   st.plotly_chart(fig1)
   
   
-  fig = px.bar_polar(df, r="Bodovi", theta="Sekcija",template="plotly_dark")
+  fig = px.bar_polar(df, r="Bodovi", theta="Sekcija",template="plotly_dark", color_discrete_sequence= px.colors.sequential.Plasma_r)
   fig.show()
   st.plotly_chart(fig)
 
