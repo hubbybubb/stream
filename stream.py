@@ -409,8 +409,6 @@ def admin():
         with col1:
 
           
-       
-          
           table = result_final
 
           sales=table[["Osnove",'Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema']]
