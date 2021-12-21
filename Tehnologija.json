@@ -1,0 +1,566 @@
+[
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Sta od navedenog moze biti izvor vode za sistem odrzavanja lezisne energije? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Otvorene vodene povrsine (reke, jezera, mora), podzemne vode, slojna voda, voda iz vodonosnih slojeva nalazista.",
+            "Otvorene vodene povrsine (reke, jezera, mora) i podzemne vode",
+            "Vodonosni slojevi nalazista",
+            "Otvorene vodene povrsine (reke, jezera, mora) i industrijska otpadna voda"
+        ],
+        "Tacan": "Otvorene vodene povrsine (reke, jezera, mora), podzemne vode, slojna voda, voda iz vodonosnih slojeva nalazista."
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koji je glavni cilj kiselinske obrade injekcione busotine? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecanje propusnosti sloja u pribusotinskoj zoni",
+            "Stvaranje visoko propusnog kanala u pribusotinskoj zoni busotine",
+            "Povecanje radijusa busotine",
+            "Povecanje kkd pumpne opreme"
+        ],
+        "Tacan": "Povecanje propusnosti sloja u pribusotinskoj zoni"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "U kojim jedinicama se meri gustina nafte? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kg/m3",
+            "Kg/cm2",
+            "M3/kg",
+            "M2/s "
+        ],
+        "Tacan": "Kg/m3"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Za sta je predvidjena sabirno-otpremna stanica (sos)? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za sabiranje, separaciju, merenje i dalje transportovanja smese vode i nafte",
+            "Za sabiranje proizvedenog busotinskog fluida",
+            "Za separaciju proizvedenog busotinskog fluida i odvajanje vode",
+            "Za separaciju, utilizaciju gasa i dalje transportovanje nafte "
+        ],
+        "Tacan": "Za sabiranje, separaciju, merenje i dalje transportovanja smese vode i nafte"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Cemu sluze taloznici?  ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za razdvajanje emulzije na naftu i lezisnu vodu",
+            "Za razdvajanje rastvorenog gasa i nafte",
+            "Za duboku dehidraciju i odsoljavanje, zahvaljujuci elektricnom polju",
+            "Za stabilizaciju nafte "
+        ],
+        "Tacan": "Za razdvajanje emulzije na naftu i lezisnu vodu"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koja se oprema primenjuje u procesu izdvajanja gasa iz nafte na odredjenom pritisku i temperaturi? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Eparator",
+            "Transformator",
+            "Varijator",
+            "Degazator "
+        ],
+        "Tacan": "Eparator"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Sta je desalinizacija nafte? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Proces otklanjanja mineralnih (uglavnom hloridnih) soli iz proizvedenog busotinskog fluida",
+            "Proces otklanjanja lezisne vode iz proizvedenog busotinskog fluida",
+            "Proces otklanjanja mehanickih primesa iz proizvedenog busotinskog fluida",
+            "Proces deemulgacije nafte "
+        ],
+        "Tacan": "Proces otklanjanja mineralnih (uglavnom hloridnih) soli iz proizvedenog busotinskog fluida"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "U kom se stanju nalaze mineralne soli u nafti?  ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U kristalastom",
+            "U rastvorenom",
+            "U cvrstom",
+            "U gasovitom "
+        ],
+        "Tacan": "U kristalastom"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koja se hemikalija koristi za razbijanje hidrata formiranih u gasovodima? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Metanol",
+            "Inhibitor korozije",
+            "Neutralizator",
+            "Deemulgator "
+        ],
+        "Tacan": "Metanol"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Osnovna namena stanice za primarno izdvajanje vode?  ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Primarno odvajanje slobodne vode",
+            "Smanjenje pulsacije ulaznog fluida",
+            "Primarna degazacija",
+            "Priprema separisane lezisne vode "
+        ],
+        "Tacan": "Primarno odvajanje slobodne vode"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Na racun izmene kog broja parametara regulacioni ventil regulise protok radnog medijuma kroz svoj unutrasnji presek?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Jednog",
+            "Dva",
+            "Tri",
+            "Jednog, sa periodicnom korekcijom  drugog parametra"
+        ],
+        "Tacan": "Jednog"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Regulaciona armatura je predvidjena za regulisanje kojih parametara?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Protoka, pritiska, nivoa",
+            "Protoka, pritiska, brzine",
+            "Protoka, pritiska",
+            "Pritiska, nivoa"
+        ],
+        "Tacan": "Protoka, pritiska, nivoa"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Za koje potrebe se moze koristiti gas posle prvog stepena separacije? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za grejace, kotlarnice, dezurne gorionike i produvavanje sistema baklji",
+            "Za produvavanje sistema baklji",
+            "Kao lozivi gas za grejace i kotlarnice",
+            "Kao lozivi gas za dezurne gorionike sistema baklji "
+        ],
+        "Tacan": "Za grejace, kotlarnice, dezurne gorionike i produvavanje sistema baklji"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koje je od navedenih postrojenja namenjeno za degazaciju proizvedenog busotinskog fluida i za otpremu fluida na dalju pripremu? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sabirna stanica",
+            "Sabirna stanica sa primarnim odvajanjem slobodne vode",
+            "Centralna sabirna stanica za pripremljenu naftu",
+            "Modularna pumparnica za utiskivanje vode na grmu busotina "
+        ],
+        "Tacan": "Sabirna stanica"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Na kojoj lokaciji se vrsi priprema nafte uz obavljanje procesa duboke dehidracije i odsoljavanja? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Stanica za pripremu nafte",
+            "Sabirna stanica sa primarnim odvajanjem slobodne vode",
+            "Sabirna stanica",
+            "Stanica za pripremu gasa "
+        ],
+        "Tacan": "Stanica za pripremu nafte"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Pri kom sadrzaju disperzne faze, u zapreminskim %, naftne emulzije spadaju u visokokoncentrovane? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Iznad 74",
+            "Do 74",
+            "Do 0,2",
+            "Od 47 do 95"
+        ],
+        "Tacan": "Iznad 74"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Za koje svrhe je namenjen separator u primarnoj separaciji? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za odvajanje rastvorenog gasa od nafte",
+            "Za odvajanje vode od nafte",
+            "Za razdvajanje emulzije",
+            "Za smanjenje pritiska separacije"
+        ],
+        "Tacan": "Za odvajanje rastvorenog gasa od nafte"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Gde se nalazi tecna faza u separatoru?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U donjoj zoni ",
+            " u gornjoj zoni ",
+            " u sredini ",
+            " nema pravila"
+        ],
+        "Tacan": "U donjoj zoni "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Gde se u separatoru nalazi gas?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "  u gornjoj zoni ",
+            " u donjoj zoni ",
+            " u sredini ",
+            " nema pravila"
+        ],
+        "Tacan": "  u gornjoj zoni "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Za sta se uglavnom koristi grejanje na sabirno otpremnoj stanici?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za efikasno raslojavanje emulzije nafte i vode",
+            "Za potpuniju degazaciju nafte",
+            "Za obezbedjivanje optimalnog rezima transporta proizvedenog fluida",
+            "Za odsoljavanje"
+        ],
+        "Tacan": "Za efikasno raslojavanje emulzije nafte i vode"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koja je namena sistema baklji? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za obezbedjenje bezbednosti kod kontinuiranih, povremenih i havarijskih ispustanja gorivog gasa i pare i njihovo naknadno spaljivanje",
+            "Za obezbedjenje bezbednosti kod kontinuiranih, povremenih i havarijskih ispustanja negorivog gasa i pare i njihovo naknadno spaljivanje ",
+            "Za propisane tehnoloskim pravilnikom kontunuirana, periodicna i havarijska ispustanja gasa i pare",
+            "Svi odgovori su tacni"
+        ],
+        "Tacan": "Za obezbedjenje bezbednosti kod kontinuiranih, povremenih i havarijskih ispustanja gorivog gasa i pare i njihovo naknadno spaljivanje"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Sta predstavlja deemulgator?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hemijski reagens za razdvajanje emulzije nafte i vode ",
+            " hemijski reagens za razdvajanje emulzije gasa i vode ",
+            " hemijski reagens za razdvajanje emulzije gasa i nafte ",
+            " sve navedeno"
+        ],
+        "Tacan": "Hemijski reagens za razdvajanje emulzije nafte i vode "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koja supstanca se koristi za razbijanje vodenih hidrata u gasu",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Metanol ",
+            " vodonik-sulfid ",
+            " ugljen-dioksid ",
+            " trietilenglikol"
+        ],
+        "Tacan": "Metanol "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Zbog kog razloga dolazi do pojave emulzije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Usled dva nemesljiva fluida ",
+            " usled visoke temperature mesanja ",
+            " usled neadekvatne eksploatacije ",
+            " usled visoke eksploatacije lezista"
+        ],
+        "Tacan": "Usled dva nemesljiva fluida "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Gas koji se sastoji od 98-99% metana i sadrzaj homologa metana je manji od 5% - zove se?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Suvi ",
+            " vlazni ",
+            " poluvazni ",
+            " polusuvi"
+        ],
+        "Tacan": "Suvi "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Sta predstavlja gas?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smesu najlaksih ugljovodonika ",
+            " smesu teskih ugljovodika ",
+            " smesu srednjeteskih ugljovodonika ",
+            " smesu i lakih i teskih ugljovodonika"
+        ],
+        "Tacan": "Smesu najlaksih ugljovodonika "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koje delovanje je najefikasnije u fazi razaranja zastitnih obloga vodonaftne emulzije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hemijski reagensi ",
+            " zagrevanje ",
+            " elektricna polja ",
+            " mesanje"
+        ],
+        "Tacan": "Hemijski reagensi "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koje supstance iz sastava nafte su osnovni stabilizator vodonaftnih emulzija?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smole i asfalteni ",
+            " parafini ",
+            " cerezini ",
+            " aromaticni "
+        ],
+        "Tacan": "Smole i asfalteni "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koje supstance sadrzi gas koji se naziva kiselim?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "So2 i H2S ",
+            " argon, helijum, vodonik-sulfid ",
+            " voda, vodonik-sulfid ",
+            " so, so2, voda"
+        ],
+        "Tacan": "So2 i H2S "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Neophodan uslov za korozivnost i so2 i n2\u0405: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Prisustvo vode/vlage. ",
+            " prisustvo metana. ",
+            " visok pritisak. ",
+            " nizak pritisak."
+        ],
+        "Tacan": "Prisustvo vode/vlage. "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Karakteristican miris \"na pokvarena jaja\" ima",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vodoniksulfid. ",
+            " ugljendioksid. ",
+            " vodena para. ",
+            " metan."
+        ],
+        "Tacan": "Vodoniksulfid. "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Od kojih parametara gasa zavisi temperatura formiranja hidrata?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Od pritiska, sastava gasa ",
+            " od sadrzaja vode, pritiska ",
+            " od sadrzaja vode,sastava gasa ",
+            " od pritiska, sadrzaja ugljovodonicnog kondenzata"
+        ],
+        "Tacan": "Od pritiska, sastava gasa "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Da li je dozvoljeno da dospe tecnost na usis kompresorske opreme?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nije dozvoljeno",
+            "Dozvoljeno je maksimalno 10 miligrama na m3",
+            "Dozvoljeno je maksimalno 50 miligrama na m3",
+            "Dozvoljeno je maksimalno 100 miligrama na m3"
+        ],
+        "Tacan": "Nije dozvoljeno"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Sta je kriticna temperatura gasa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Temperatura gasa pri kojoj se on ni pri kojem pritisku ne utecnjava ",
+            " tacka kljucanja gasa ",
+            " temperatura gasa, iznad koje svi fizicko-hemijski parametri gasa ostaju nepromenjeni ",
+            " temperatura pocetka razlaganja prirodnog gasa"
+        ],
+        "Tacan": "Temperatura gasa pri kojoj se on ni pri kojem pritisku ne utecnjava "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Na koji nacin se menja viskoznost prirodnog gasa sa povecanjem pritiska i temperature?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se ",
+            " smanjuje se ",
+            " zavisi od sastava gasa ",
+            " zavisi od opreme kroz koju gas protice"
+        ],
+        "Tacan": "Povecava se "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Kako se menja efikasnost hemijskog deemulgatora prilikom zagrevanja naftne emulzije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Raste",
+            "Opada",
+            "Ne menja se",
+            "Efikasnost se ne moze utvrditi"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Osnovna busotinska oprema injekcione busotine za utiskivanje vode je :",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tubing i paker ",
+            " tubing i gasno sidro ",
+            " gasno sidro i pumpa ",
+            " sve navedeno"
+        ],
+        "Tacan": "Tubing i paker "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Da li se koristi esp pumpa za potrebe utiskivanja vode u injekcionoj busotini",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Da ",
+            " ne ",
+            " esp se koristi samo za proizvodne naftne busotine",
+            ""
+        ],
+        "Tacan": "Da "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "U kom slucaju se ugradjuju filteri na injekcionim busotinama ?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kod rastresitih, nestabilnih stena",
+            "Kada je dubina vodonosnog horizonta veca od 100 m",
+            "Kada je dubina vodonosnog horizonta manja od 100 m",
+            "Filteri se ugradjuju na zahtev narucioca "
+        ],
+        "Tacan": "Kod rastresitih, nestabilnih stena"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Navedite najrasprostranjeniji nacin ponovnog uspostavljanja injektivnosti kod injekcionih busotina.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kiselinska obrada",
+            "Hidraulicno frakturiranje sloja",
+            "Obrada gelom",
+            "Termicka obrada pribusotinske zone"
+        ],
+        "Tacan": "Kiselinska obrada"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Da li je potrebno ispitivanje hermeticnosti pumpe posle zamene zaptivnog elementa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Potrebno je u svakom slucaju",
+            "Nije neophodno",
+            "Potrebno je samo po nalogu servisnog osoblja",
+            "Potrebno je u zavisnosti od tipa pumpe"
+        ],
+        "Tacan": "Potrebno je u svakom slucaju"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Kako se menjaju karakteristike rada pumparnice prilikom ukljucivanja pumpi u redni rad:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se napor kod istih vrednosti dotoka",
+            "Povecava se dotok bez povecanja napora",
+            "Smanjuje se napor kod istih vrednosti dotoka",
+            "Ne menjaju se ni napor ni dotok"
+        ],
+        "Tacan": "Povecava se napor kod istih vrednosti dotoka"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Kako se menja rezim rada pumparnice kod ukljucivanja pumpi u rezim paralelnog rada sa dovoljnom propusnom sposobnoscu kolektora?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se dotok bez povecanja napora",
+            "Povecava se napor bez porasta dotoka",
+            "Povecavaju se napor i dotok",
+            "Ne menjaju se ni napor ni dotok"
+        ],
+        "Tacan": "Povecava se dotok bez povecanja napora"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koji su osnovni zahtevi prema sistemu za odrzavanje lezisnog pritiska?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sistem za odrzavanje lezisnog pritiska treba da omoguci pripremu vode, zapreminu utiskivanja vode i pritisak injektiranja, merenje utiskivanja",
+            "Sistem za odrzavanje lezisnog pritiska treba da omoguci sakupljanje vode, pripremu i dopremanje na sos",
+            "Sistem za odrzavanje lezisnog pritiska treba da omoguci sakupljanje vode, raspodelu utiskivanja vode po busotinama",
+            "Sistem za odrzavanje lezisnog pritiska treba da omoguci utiskivanje vode u proizvodne busotine"
+        ],
+        "Tacan": "Sistem za odrzavanje lezisnog pritiska treba da omoguci pripremu vode, zapreminu utiskivanja vode i pritisak injektiranja, merenje utiskivanja"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Na kom uredjaju se prepoznaje problem smanjenja kolicine utiskivanja  busotine za injektiranje vode?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Manometra ",
+            " termometra ",
+            " tubing ventilu ",
+            " svi odgovori su tacni"
+        ],
+        "Tacan": "Manometra "
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Koje od nabrojanih varijanti mogu biti svrstane u ciljeve delovanja na naftni sloj utiskivanjem vode? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecanje lezisnog pritiska",
+            "Povecanje iskoriscenja nafte iz sloja",
+            "Povecanje tempa degazacije proizvedenog fuida",
+            "Zbrinjavanje otpadnih"
+        ],
+        "Tacan": "Povecanje lezisnog pritiska"
+    },
+    {
+        "Sekcija": "Tehnologija pripreme",
+        "Pitanje": "Sta spada u prirodne emulgatore koje dovode do stvaranja stabilnih emulzija?  ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smole",
+            "Asfalteni",
+            "Nafteni",
+            "Vodonik"
+        ],
+        "Tacan": "Smole"
+    }
+]

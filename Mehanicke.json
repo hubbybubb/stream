@@ -1,0 +1,2798 @@
+[
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Pre pustanja ESP sistema u rad u slucaju niskog statickog nivo-a, koliko mora iznositi nivo fluida iznad prijemu ESP sistema da bi se oprema bezbedno pustila u rad?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "100 m",
+            "200 m",
+            "300 m",
+            "400 m"
+        ],
+        "Tacan": "200 m"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U intervalu rada sistema ESP iskrivljenje kanala busotine u odnosu na vertikalu ne sme biti vece od:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "30",
+            "40",
+            "50",
+            "60"
+        ],
+        "Tacan": "60"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Prilikom izvodjenja toplotne obrade ESP, koja je maksimalna temperatura radnog fluida koja se primenjuje u NIS a.d.?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "100oC ",
+            "120oC ",
+            "150oC",
+            "90oC "
+        ],
+        "Tacan": "90oC "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kada se ne moze raditi direktna cirkulacija ESP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ukoliko su radna kola pumpe zapusena",
+            "Ukoliko je protivpovratni ventil hermetican",
+            "Ukoliko je cirkulaciona spojnica zatvorena",
+            "Ukoliko je izolacija niska"
+        ],
+        "Tacan": "Ukoliko je protivpovratni ventil hermetican"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se menja dinamicki nivo kod zapusenosti ESP kamencom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Opada",
+            "Raste",
+            "Ne menja se",
+            "U pocetku raste pa opada"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Ukoliko dodje do zastoja ESP sistema usled nedovoljnog opterecenja i registruje se struja koja je jednaka struju praznog hoda koju aktivnost je prvo potrebno preduzeti prema algoritmu za reakciju na VSP ESP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Postavljanje dizne",
+            "Povecanje F",
+            "Doliv",
+            "Ispitivanje hermeticnosti"
+        ],
+        "Tacan": "Doliv"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Busotina ima zastoj po visokoj temperaturi, nakon pokretanja pumpe nije ostvarena proizvodnja,  prema algoritmu za reakciju na VSP ESP sistema sta treba uraditi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Prevesti busotinu u periodicni rezim rada",
+            "Iskljuciti pumpu",
+            "Proveriti napor i korigovati F",
+            "Proveriti prohodnost tubinga"
+        ],
+        "Tacan": "Proveriti napor i korigovati F"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na osnovu prakse u NIS a.d. koja inklinometrija ispunjava uslov za ugradnju DP na klipnim sipkama?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ugao manji od 25  i DLeg manji od 3 /30 m",
+            "Ugao manji od 25  i DLeg manji od 6 /30 m",
+            "Ugao manji od 30  i DLeg manji od 3 /30 m",
+            "Ugao manji od 30  i DLeg manji od 6 /30 m"
+        ],
+        "Tacan": "Ugao manji od 30  i DLeg manji od 6 /30 m"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kojom brzinom je potrebno vrsiti spustanje DP na klipnim sipkama u kosu busotinu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "0,1 m/s",
+            "0,25 m/s",
+            "1 m/min",
+            "0,5 m/min"
+        ],
+        "Tacan": "0,25 m/s"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na osnovu VSP algoritma za DP na Ks u slucaju sumnje na nehermeticnost potisnog ventila ili prekid Ks, sta treba raditi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Analizu rada podzemne opreme",
+            "Proveriti da li je snimljeno minimalno opterecenje manje od tezine Ks uronjenih u fluid",
+            "Toplotnu obradu busotine",
+            "Indirektnu cirkulaciju"
+        ],
+        "Tacan": "Proveriti da li je snimljeno minimalno opterecenje manje od tezine Ks uronjenih u fluid"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na osnovu VSP algoritma za DP na Ks u slucaju da je test ventila zadovoljavajuci a tezina fluida nije, sta treba raditi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Repozicioniranje klipa",
+            "Toplotnu obradu busotine",
+            "Proveru hermeticnosti radom pumpe",
+            "Doliv "
+        ],
+        "Tacan": "Proveru hermeticnosti radom pumpe"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Ukoliko je lezisni pritisak manji od hidrostatickog, a insert DP ima problema sa \"gas lock\"-om, sta treba uraditi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Direktnu cirkulaciju ",
+            "Indirektnu cirkulaciju",
+            "Povecati broj obrtaja",
+            "Repozicionirati klip"
+        ],
+        "Tacan": "Repozicionirati klip"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta je specificna potrosnja gasa u gas liftu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odnos kolicine proizvedenog gasa i proizvedenog fluida",
+            "Odnos proizvedenog fluida i proizvedenog gasa",
+            "Odnos  kolicine utisnutog gasa i kolicine proizvedenog fluida ",
+            "Odnos proizvedenog gasa i kolicine proizvedenog fluida"
+        ],
+        "Tacan": "Odnos  kolicine utisnutog gasa i kolicine proizvedenog fluida "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kod povremenog gas lifta u kom trenutku je najveci dinamicki pritisak na dnu busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kada fluid dodje na povrsinu",
+            "Dinamicki pritisak je konstantan tokom liftiranja",
+            "Kad pocne utiskivanje gasa",
+            "Nista od navedenog"
+        ],
+        "Tacan": "Kad pocne utiskivanje gasa"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kod J-20 gas lift ventila koji su nedostaci u odnosu na R-20 gas lift ventile?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nisu namenjeni za vece proizvodnje",
+            "Nisu efikasni za liftiranje emulzija",
+            "Za vadjenje potreban remont",
+            "Nepouzdan rad"
+        ],
+        "Tacan": "Za vadjenje potreban remont"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se menja efikasnost gas lifta kod povecanja kolicine utiskivanja gasa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se do odredjenog momenta, zatim opada",
+            "U slucaju povecanja kolicine utisnutog gasa, proizvodnja nafte ce uvek rasti",
+            "Ostaje nepromenjena",
+            "Smanjuje se do odredjenog momenta, zatim raste"
+        ],
+        "Tacan": "Povecava se do odredjenog momenta, zatim opada"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Ukoliko imamo komunikaciju izmedju tubinga i kezinga kod povremenog gas lift-a koji je moguci uzrok ove nepravilnosti u radu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zacepljen ventil",
+            "Mala proizvodnja po ciklusu",
+            "PP ventil na GL ventilu nije funkcionalan",
+            "Nizak injekcioni pritisak"
+        ],
+        "Tacan": "PP ventil na GL ventilu nije funkcionalan"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Obelezi pravilan redosled opreme koja se ugradjuje na tubingu u busotinu opremljenu zavojnom pumpom od dna busotine prema vrhu:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Torzioni anker, stator pumpe, rotor, stoper spojnica, kratki komad tubinga, \"D\" sediste, tubing",
+            "Torzioni anker, stoper spojnica, stator pumpe, kratki komad tubinga, \"D\" sediste, tubing",
+            "\"Tag bar\", Torzioni anker, elastomer, kratki komad tubinga, \"D\" sediste, tubing",
+            "Torzioni anker, \"tag bar\", rotor, \"pup joint\", \"D\" sediste, tubing"
+        ],
+        "Tacan": "Torzioni anker, stoper spojnica, stator pumpe, kratki komad tubinga, \"D\" sediste, tubing"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Pri probnom radu zavojne pumpe sa povrsinskim motorom, pravilan rad opreme definise:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rotacija pumpe suprotno smeru kazaljke na satu",
+            "Rad pumpe na maksimalnom broju obrtaja",
+            "Rotacija pumpe u smeru kazaljke na satu gledano odozgo",
+            "Zatvoren zasun na pravcu EU"
+        ],
+        "Tacan": "Rotacija pumpe u smeru kazaljke na satu gledano odozgo"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Ukoliko pri radu zavojne pumpe dodje do prestanka proizvodnje, a pumpa ne podize pritisak i konstatovan je pad opterecenja sta moze biti uzrok ove pojave?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Slab dotok",
+            "Problem sa regulatorom frekvencije",
+            "Prekid klipnih sipki",
+            "Visoka viskoznost fluida"
+        ],
+        "Tacan": "Prekid klipnih sipki"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U slucaju da je konstatovan uticaj gasa na rad PCP pumpe sta je potrebno uraditi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecati pritisak na tubingu i povecati broj obrtaja",
+            "Smanjiti pritisak na kezingu i broj obrtaja",
+            "Povecati broj obrtaja",
+            "Pritvoriti tubing ventil"
+        ],
+        "Tacan": "Smanjiti pritisak na kezingu i broj obrtaja"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Ukoliko je pogresno pozicioniran rotor u statoru zavojne pumpe sa povrsinskim motorom, sta se radi u cilju otklanjanja problematike?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjuje se brzina rotacije pumpe",
+            "Direktna cirkulacija pumpe",
+            "Indirektna cirkulacija pumpe",
+            "RNO"
+        ],
+        "Tacan": "RNO"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Desifrujte PEM 125-117:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Potapajuci elektromotor, sekcioni; Nominalni napon - 1250V; Precnik kucista -117mm",
+            "Potapajuci elektromotor, sekcioni; Nominalni napon - 1250V; Precnik vratila rotora -11.7mm",
+            "Potapajuci elektromotor, sekcioni; Snaga motora - 125kW; Precnik kucista -117mm",
+            "Potapajuci elektromotor, sekcioni; Precnik kucista - 125; Snaga motora-117mm"
+        ],
+        "Tacan": "Potapajuci elektromotor, sekcioni; Snaga motora - 125kW; Precnik kucista -117mm"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja vrednost mikrotvrdoce tvrdih cestica je dozvoljena za ESP (Mosova skala)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "1.0",
+            "7.0",
+            "5.0",
+            "10.0"
+        ],
+        "Tacan": "5.0"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja je maksimalna dozvoljena vrednost Dog-Leg-a iu intervalu ugradnje ESP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "3  / 10 m",
+            "3' / 10 m",
+            "3  / 30 m",
+            "3' / 30 m"
+        ],
+        "Tacan": "3' / 10 m"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Pre pustanja ESP sistema u rad u slucaju niskog statickog nivoa, koliko mora iznositi pritisak na prijemu ESP sistema da bi se oprema bezbedno pustila u rad?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "100 m",
+            "200 m",
+            "300 m",
+            "400 m"
+        ],
+        "Tacan": "200 m"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se menja kapacitet ESP sistema u zavisnosti od promene frekvencije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kvadratna zavisnost",
+            "Obrnuto proporcialno",
+            "Eksponencijalna zavisnost",
+            "U direktnoj srazmeri"
+        ],
+        "Tacan": "U direktnoj srazmeri"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Po kojoj zavisnosti se menja napor ESP usled izmene frekvencije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Eksponencijalno",
+            "Kvadratnoj",
+            "Linearno",
+            "Logaritamskoj"
+        ],
+        "Tacan": "Kvadratnoj"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da bi se izbegao loma vratila u procesu dizajniranja PO potrebno obratiti paznju na?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Izbora materijala, precnik i tipa motora",
+            "Protektor, snagu motora i proizvodnju",
+            "Izbora materijala, precnik i proizvodnju",
+            "Izbora materijala, frekvenciju i tipa aksijalnog lezaja"
+        ],
+        "Tacan": "Izbora materijala, precnik i proizvodnju"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Proverom istorijata dinamograma, testa ventila i proracuna  utvrdjivano je odstupanja Maksimalnog i Minimalnog opterecenja, sumnja se na nehermeticnost tubinga, na osnovu algoritma za reakciju na VSP za busotine opremljene DP na Ks koja je prva aktivnost koju treba preduzeti?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Reusedanje",
+            "Repozicioniranje",
+            "Ispitivanje H pomocu 9 MGR pumpe",
+            "Provera podizanja pritiska na glavi radom pumpe"
+        ],
+        "Tacan": "Provera podizanja pritiska na glavi radom pumpe"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na osnovu testa ventila ukoliko registrovano opterecenje glatke sipke ne raste mozemo zakljuciti da je sklop\nusisnog ventila:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ukazuje na nehermetican tubing",
+            "Hermetican",
+            "Nehermetican",
+            "Ukazuje na odvrtanje kompozicije"
+        ],
+        "Tacan": "Hermetican"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Vrednost Slippage odnosno kolicina curenja fluida izmedju zazora cilindra i klipa u slucaju povecanja diferencijalnog pritiska se?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjuje",
+            "Ostaje ista jer slippge ne zavisi od deltaP",
+            "Povecava se",
+            "Zavisi od tipa kacaljke"
+        ],
+        "Tacan": "Povecava se"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta je specificna potrosnja gasa u gasliftu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odnos kolicine proizvedenog gasa i proizvedenog fluida",
+            "Odnos proizvedenog fluida i proizvedenog gasa",
+            "Odnos  kolicine utisnutog gasa i kolicine proizvedenog fluida ",
+            "Odnos proizvedenog gasa i kolicine proizvedenog fluida"
+        ],
+        "Tacan": "Odnos  kolicine utisnutog gasa i kolicine proizvedenog fluida "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Ukoliko motor nije u radu a ponovnim pokretanjem je doslo do zastoja u radu EM nakon par sekundi sta je potrebno uraditi u cilju potvrde ispravnosti EM?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Promeniti SU",
+            "Pustiti EM u rad bez kaiseva",
+            "Promeniti EM",
+            "Pustite EM u kontra smeru"
+        ],
+        "Tacan": "Pustiti EM u rad bez kaiseva"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Ukoliko motor nije u radu a ponovnim pokretanjem je doslo do zastoja u radu EM nakon par minuta, SU pokazuje visoke vrednosti struje, pored bubrenja elastomera, neadekvatnog precnika rotora sta jos moze ukazivat na problem u radu PCP pumpe?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Uticaj gasa",
+            "Lose pozicioniranje rotora u statoru - nisko pozicioniranje",
+            "Los dizajn PO",
+            "Prekid kompozicije"
+        ],
+        "Tacan": "Lose pozicioniranje rotora u statoru - nisko pozicioniranje"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Od cega najvise zavisi velicina space outa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Broja obrtaja, dubine ugradnje pumpe i precnika Ks",
+            "Temperature, kapaciteta pumpe i kompozicije Ks",
+            "Kompozicije Ks, Temperature i gustine fluida",
+            "Temperature, viskoznosti fluida i  dinamickog nivoa "
+        ],
+        "Tacan": "Temperature, kapaciteta pumpe i kompozicije Ks"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Objasniti oznaku PCP pumpe 13E1300-HR.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "13- kapacitet PCP pumpe pri 100 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima",
+            "13- kapacitet PCP pumpe pri 200 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima",
+            "13- kapacitet PCP pumpe pri 1000 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima",
+            "13- kapacitet PCP pumpe pri 1300 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima"
+        ],
+        "Tacan": "13- kapacitet PCP pumpe pri 100 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Gde se ugradjuje Tag bar-a i koja je njegova uloga u sastavu kompozicije PCP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tag bar se ugradjuje ispod statora i glavna uloga mu je da se omoguci pravilno pozicioniranje rotora unutar statora.",
+            "Tag bar se ugradjuje ispod rotora i glavna uloga mu je da se omoguci pravilno pozicioniranje statora.",
+            "Neugradjuje se",
+            "Tag bar se ugradjuje ispod statora i glavna uloga mu je da se omoguci napor"
+        ],
+        "Tacan": "Tag bar se ugradjuje ispod statora i glavna uloga mu je da se omoguci pravilno pozicioniranje rotora unutar statora."
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja je uloga ankera u sastavu kompozicije PCP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Glavna uloga ankera je da spreci rotiranje tubinga u desno usled prenosa obrtnog momenta sa pumpe, kao i da ogranici vibracije. ",
+            "Glavna uloga ankera je da spreci rotiranje tubinga u levo usled prenosa obrtnog momenta sa pumpe, kao i da ogranici vibracije. ",
+            "Glavna uloga ankera je da ogranici vibracije. ",
+            "Glavna uloga ankera je da omoguci proizvodnju, kao i da ogranici vibracije. "
+        ],
+        "Tacan": "Glavna uloga ankera je da spreci rotiranje tubinga u desno usled prenosa obrtnog momenta sa pumpe, kao i da ogranici vibracije. "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kratki komad tubinga koji se ugradjuje iznad PCP pumpe je veceg precnika u odnosu na ostatak kompozicije tubinga:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Da",
+            "Ne",
+            "Isti je",
+            "Neugradjuje se"
+        ],
+        "Tacan": "Da"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "PCP/ESPCP pumpe su pogodne za proizvodnju visoko viskoznih fluida sa visokim sadrzajem mehanickih primesa:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Da",
+            "Ne",
+            "Isto je",
+            "Neugradjuje se kod problematike sa mehanickim primesama"
+        ],
+        "Tacan": "Da"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "ESP is what type of pump?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Centrifugal ",
+            "Reciprocal",
+            "Positive displacement",
+            "None of these"
+        ],
+        "Tacan": "Centrifugal "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sucker Rod Pump is what type of pump?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Centrifugal ",
+            "Reciprocal",
+            "Positive displacement",
+            "None of these"
+        ],
+        "Tacan": "Positive displacement"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "The downhole electric motor that powers the ESP pump is located at the top of the pump assembly.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "",
+            ""
+        ],
+        "Tacan": "Netacno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Which is not correct? The power cable for ESP pump is:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Is strapped to the outside of the tubing",
+            "Is run inside of the tubing",
+            "Penetrates the wellhead",
+            "Provides electricity to the motor"
+        ],
+        "Tacan": "Is run inside of the tubing"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Reservoir fluids containing free gas can cause SRP to gas-lock",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "",
+            ""
+        ],
+        "Tacan": "Tacno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "For ESP: the ___________ rotates , the ___________ is stationary",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Impeller / Diffuser",
+            "Diffuser / Impeller",
+            "Stage / Diffuser",
+            "Impeller / Stage"
+        ],
+        "Tacan": "Impeller / Diffuser"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sucker Rod Pumps are designed to:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Chemically separate oil and water from produced reservoir fluids, Lift reservoir fluids to the surface artificially",
+            "Create a drawdown between wellbore pressure and reservoir pressure, Lift reservoir fluids to the surface artificially",
+            "Lift reservoir fluids to the surface artificially",
+            "Increase wellbore pressure relative to reservoir pressure"
+        ],
+        "Tacan": "Create a drawdown between wellbore pressure and reservoir pressure, Lift reservoir fluids to the surface artificially"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "What should be known to calculate the theoretical pump displacement rate? (select all that apply)",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pump size, Pumping speed",
+            "Free gas at pump intake ",
+            "Effective plunger stroke length, Pump size, Pumping speed",
+            "Pumping speed, Free gas at pump intake, Pump size"
+        ],
+        "Tacan": "Effective plunger stroke length, Pump size, Pumping speed"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Explain the main principles of Gas Lift application?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Gas is injecting through operating gas lift valve in order to reduce friction.",
+            "Fluid density is reducing above operating valve",
+            "",
+            ""
+        ],
+        "Tacan": "Fluid density is reducing above operating valve"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Lubrikator je: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Uredjaj koji omogucava da se spustaju i vade bilo koji alati u aktivnoj busotini pri postojanju pritiska na uscu",
+            "Uredjaj koji omogucava da se spustaju i vade bilo koji alati u aktivnoj busotini ako na uscu nema pritiska",
+            "Uredjaj koji omogucava da se spustaju i vade bilo koji alati za izvodjenje gfk u aktivnoj busotini ako nema pritiska na uscu",
+            "Uredjaj koji omogucava vrsenje perforacije na depresiji "
+        ],
+        "Tacan": "Uredjaj koji omogucava da se spustaju i vade bilo koji alati u aktivnoj busotini pri postojanju pritiska na uscu"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Oprema erupcionog uredjaja ne sadrzi: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tubinsku pumpu",
+            "Eksploatacionu kolonu",
+            "Tubing cevi",
+            "Erupcioni uredjaj "
+        ],
+        "Tacan": "Tubinsku pumpu"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako talozenje parafina u cevovodima utice na njihovu propusnu moc?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjuje je ",
+            " dovodi do korozije i poboljsanja propusne moci ",
+            " nema efekta ",
+            ""
+        ],
+        "Tacan": "Smanjuje je "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li je moguca upotreba sistema ESP  pumpe bez separatora za gas ukoliko slobodni sadrzaj gasa u busotinskom fluidu iznosi 15%? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Da, moguce je",
+            "Ne, nije moguce",
+            "Ne, treba primenjivati dispergator",
+            "Zavisi od zavodnjenja busotinskog fluida "
+        ],
+        "Tacan": "Da, moguce je"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Ugao odstupanja kanala busotine od vertikale u zoni ESP ne sme biti veci od   ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "0 stepeni",
+            "30 stepeni",
+            "45 stepeni",
+            "90 stepeni"
+        ],
+        "Tacan": "0 stepeni"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na koji vremenski period je potrebno zaustaviti sistem ESP radi hladjenja, ako dotok nije dovoljan posle 1 sata rada?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "A 1,5 sat",
+            "Na 1 sat",
+            "Na 2 sata",
+            "Na pola sata"
+        ],
+        "Tacan": "A 1,5 sat"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koje se mere obavljaju sa uljem pem u kvaru? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni",
+            "Vizuelno se odredjuje nivo zaprljanosti ulja",
+            "Odredjuje se dielektricna cvrstoca",
+            "Vizuelna kontrola prisustva vode "
+        ],
+        "Tacan": "Svi odgovori su tacni"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Gde u busotini je moguce talozenje neorganskih soli pri eksploataciji busotine u slozenim uslovima? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni",
+            "U pribusotinskoj zoni sloja",
+            "Na usisu i na radnim organima ESP",
+            "U tubingu i na opremi na uscu busotine "
+        ],
+        "Tacan": "Svi odgovori su tacni"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja je namena dispergatora u kompoziciji ESP ?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za dovodjenje toka fluida do tankog disperznog stanja",
+            "Za ciscenje toka fluida od mehanickih necistoca",
+            "Za razdvajanje tecnosti i gasa, i izbacivanje gasa u kezing",
+            "Za zgusnjavanje gasa "
+        ],
+        "Tacan": "Za dovodjenje toka fluida do tankog disperznog stanja"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja je namena gasnog separatora u kompoziciji ESr ?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za razdvajanje tecnog fluida i gasa i izbacivanje gasa u kezing",
+            "Za zgusnjavanje gasa",
+            "Za odvajanje mehanickih necistoca",
+            "Za merenje gasa "
+        ],
+        "Tacan": "Za razdvajanje tecnog fluida i gasa i izbacivanje gasa u kezing"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta je to pritisak zasicenja nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pritisak pri kojem iz fluida pocinje da se izdvaja gas",
+            "Pritisak pri kojem nafta pocinje da se zasicuje vodom",
+            "Pritisak pri kojem nafta pocinje da se zasicuje suvim gasom",
+            "Pritisak pri kojem se menjaju svojstva nafte "
+        ],
+        "Tacan": "Pritisak pri kojem iz fluida pocinje da se izdvaja gas"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li ce se promeniti radna struja ESP ako se poveca radna frekvencija? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Promenice se",
+            "Nece se promeniti",
+            "Struja ce  postati pulsirajuca",
+            "Struja ce postati konstantna "
+        ],
+        "Tacan": "Promenice se"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koju aktivnost treba prvo preduzeti ako nema potisa pumpe ?  ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ispitivanje hermeticnosti tubinga",
+            "Ispiranje ESP",
+            "Zaustavljanje mernog uredjaja",
+            "Pregled povrsinske elektroopreme "
+        ],
+        "Tacan": "Ispitivanje hermeticnosti tubinga"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja hemijska metoda je najefikasnija u pogledu sprecavanja stvaranja naslaga neorganskih soli u procesu kontinuirane eksploatacije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibiranje kamenca",
+            "Kiselinsko ispiranje",
+            "Kisela kupka",
+            "Metoda azotne obrade "
+        ],
+        "Tacan": "Inhibiranje kamenca"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Do koje dubine se preporucuje izvoditi kontrolni manevar (sabloniranje) busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Do dubine intervala napucavanja",
+            "Na dubinu kompozicije ESP",
+            "Na dubinu kompozicije ESP minus 50 metara",
+            "Do dna busotine "
+        ],
+        "Tacan": "Do dubine intervala napucavanja"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Ukoliko je kapacitet pumpe posle startovanja manji od nominalne produktivnosti iste, tada je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Eksploatacija ESP je zabranjena",
+            "Vrsi se ispiranje ESP",
+            "Vrsi se smanjenje precnika dizne",
+            "Busotina se zaustavlja  na akumulaciju "
+        ],
+        "Tacan": "Eksploatacija ESP je zabranjena"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Do koje granice je dozvoljeno smanjenje dinamickog nivoa? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ne nize maksimalnih dozvoljenih vrednosti u zavisnosti od napora ugradjenog uredjaja u busotini(navodi se u karti vnr)",
+            "Ne nize ulaznih otvora prijemnog modula",
+            "Ne nize protivpovratnog ventila tubinga",
+            "Ne nize polovine od dubine ugradnje ESP "
+        ],
+        "Tacan": "Ne nize maksimalnih dozvoljenih vrednosti u zavisnosti od napora ugradjenog uredjaja u busotini(navodi se u karti vnr)"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U sastavu  ESP hidrozastita je namenjena za: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sprecavanja prodiranja lezisnog fluida u pem, nadoknadu promene kolicine ulja u unutrasnjoj supljini od temperature elektromotora",
+            "Sprecavanja prodiranja lezisnog fluida u separator za gas, kompenzovanja promene kolicine ulja u unutrasnjoj supljini od temperature elektromotora",
+            "Sprecavanja prodiranja lezisnog  fluida kablovski prikljucak, kompenzovanja promene kolicine ulja u unutrasnjoj supljini od temperature elektromotora",
+            "Sprecavanje dotoka slojne vode u sekcije ESP"
+        ],
+        "Tacan": "Sprecavanja prodiranja lezisnog fluida u pem, nadoknadu promene kolicine ulja u unutrasnjoj supljini od temperature elektromotora"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Za sta se koristi protivpovratni ventil u sastavu kompozicije ESP? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za sprecavanje izlivanja fluida iz tubinga pri zaustavljanju i odredjivanju hermeticnosti tubinga",
+            "Za vrsenje indirektne cirkulacije ESP",
+            "Za vrsenje direktne cirkulacije ESP",
+            "Za dolivanje fluida u tubing"
+        ],
+        "Tacan": "Za sprecavanje izlivanja fluida iz tubinga pri zaustavljanju i odredjivanju hermeticnosti tubinga"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Zbog cega je potrebno odrediti sastav taloga neorganskih soli? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zbog izbora hemijskog reagensa za uklanjanje i inhibiranje taloga",
+            "Zbog procene stetnog uticaja na opremu",
+            "Zbog sastavljanja zapisnika o istrazi otkazivanja ESP",
+            "Za izracunavanje skin-faktora "
+        ],
+        "Tacan": "Zbog izbora hemijskog reagensa za uklanjanje i inhibiranje taloga"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Za sta je predvidjen ispusni ventil u sastavu kompozicije ESP? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za ispustanje fluida iz tubinga pri izvlacenju ESP sistema i za olaksavanje gusenja",
+            "Za odredjivanje zone nehermeticnosti tubinga",
+            "Za olaksavanje rezima rada pumpe",
+            "Za izdvajanje slobodnog gasa "
+        ],
+        "Tacan": "Za ispustanje fluida iz tubinga pri izvlacenju ESP sistema i za olaksavanje gusenja"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li je dozvoljeno ponovno koriscenje tubing prirubnice pri ugradnji ESP ? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Samo nakon ponovne defektoskopije",
+            "Samo za ponovni remont",
+            "Dozvoljeno za plitke busotine",
+            "Dozvoljeno ako preostali resurs  (vek trajanja) dozvoljava njegovu dalju upotrebu "
+        ],
+        "Tacan": "Samo nakon ponovne defektoskopije"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li je prilikom startovanja sistema ESP dozvoljen rad sistema na radnoj struji koja je veca od nominalne snage struje?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dozvoljeno je",
+            "Nije dozvoljeno",
+            "Nije dozvoljen na busotinama posle hfs",
+            "Nije dozvoljen na busotinama posle kiselinske obrade"
+        ],
+        "Tacan": "Dozvoljeno je"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li je dozvoljeno koriscenje pem -22 bez dovoljnog dotoka za hladjenje u roku od 1 sata?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dozvoljeno je",
+            "Nije dozvoljeno",
+            "Nije dozvoljeno kada je radna vrednost snage struje niza od nominalne",
+            "Nije dozvoljeno ako je sadrzaj mehanickih necistoca 200 mg/l"
+        ],
+        "Tacan": "Dozvoljeno je"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li je dozvoljeno koriscenje sistema ESP -250-1950 sa diznom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dozvoljeno je",
+            "Nije dozvoljeno",
+            "Dozvoljeno je samo kada je staticki nivo veci od 1000 m",
+            "Nije dozvoljeno kada je radna vrednost struje niza od nominalne"
+        ],
+        "Tacan": "Dozvoljeno je"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Merenje otpora izolacije sistema \"kabl-motor\" prilikom ugradnje ESP pumpe se vrsi na svakih:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "300 m",
+            "100 m",
+            "500 m",
+            "Merenje se vrsi pre pocetka i na kraju ugradnje"
+        ],
+        "Tacan": "300 m"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako utice hrapavost povrsine busotinske opreme na proces stvaranja kamenca?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na hrapavoj povrsini se obrazuje veca kolicina cestica tvrde faze nego sto je to slucaj sa glatkom povrsinom",
+            "Na hrapavoj povrsini se obrazuje manja kolicina cestica tvrde faze nego sto je to slucaj sa glatkom povrsinom",
+            "Stanje povrsine ne utice na talozenje",
+            "Stanje povrsine ne utice bitno na talozenje"
+        ],
+        "Tacan": "Na hrapavoj povrsini se obrazuje veca kolicina cestica tvrde faze nego sto je to slucaj sa glatkom povrsinom"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako komponente nafte kao sto su asfalteni, smole, parafini, uticu na talozenje neorganskih soli? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pojacavaju intenzitet talozenja",
+            "Usporavaju talozenje",
+            "Ne uticu na talozenje",
+            "Uticaj zavisi od zapreminskog sadrzaja materije"
+        ],
+        "Tacan": "Pojacavaju intenzitet talozenja"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako izbeci intenzivno talozenje soli za vreme urezimljavanja ESP pumpe?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Putem dodavanja inhibitora talozenja kamenca u fluid gusenja",
+            "Uz pomoc kiselinskog ispiranja",
+            "Uz pomoc kiselinske kupke",
+            "Uz pomoc povecanja vremena urezimljavanja "
+        ],
+        "Tacan": "Putem dodavanja inhibitora talozenja kamenca u fluid gusenja"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se menja vrednost dinamickog nivoa ESP pumpe kada se smanji radna frekvencija?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Poveca se",
+            "Smanji se",
+            "Nece doci do promena",
+            "Smanji se kratkotrajno"
+        ],
+        "Tacan": "Poveca se"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se menja depresija na sloju prilikom povecanja dinamickog nivoa u busotini?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Raste",
+            "Smanjuje se",
+            "Stabilizuje se",
+            "Ostaje nepromenjena"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se menja kapacitet ESP sa promenom frekvencije struje?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Direktno proporcionalno",
+            "Obrnuto proporcionalno",
+            "Prema kvadratnoj zavisnosti",
+            "Prema eksponentu "
+        ],
+        "Tacan": "Direktno proporcionalno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se procenjuje velicina protoka koji hladi pem?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Razlika izmedju izmerene dnevne proizvodnje na mernom uredjaju i tempa ispumpavanja (zapreminskog protoka) fluida iz kezinga",
+            "Zbir izmerene dnevne proizvodnje na mernom mestu i tempa ispumpavanja (zapreminski protok) fluida iz kezinga",
+            "Razlika izmedju merenja proizvodnje na amu i tempa porasta fluida u kezingu",
+            "Jednaka je zapreminskom protoku na mernom uredjaju"
+        ],
+        "Tacan": "Razlika izmedju izmerene dnevne proizvodnje na mernom uredjaju i tempa ispumpavanja (zapreminskog protoka) fluida iz kezinga"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se proverava pravilnost obrtanja ESP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Prema velicini potisa, dinamickom pritisku u tubingu u radnoj struji",
+            "Prema velicini potisa, pritisku na dnu busotine",
+            "Prema velicini potisa, pritisku u kezingu",
+            "Prema velicini potisa, napora, opterecenju pem"
+        ],
+        "Tacan": "Prema velicini potisa, dinamickom pritisku u tubingu u radnoj struji"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se polaze energetski kabel od upravljacke stanice do usca busotine? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na izdignutoj konstrukciji ili na specijalnim metalnim drzacima - stubovima",
+            "Na drvenim stubovima",
+            "Na zemlji",
+            "Direktno po tankvani "
+        ],
+        "Tacan": "Na izdignutoj konstrukciji ili na specijalnim metalnim drzacima - stubovima"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se rasporedjuje gasno-tecna faza u separatoru za gas?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tecnost, posto je teza, odlazi na periferiju, a gas se sakuplja u centralnom delu i odvodi se u kezing",
+            "Tecnost, posto je teza, odlazi u centralni deo, a gas se sakuplja na periferiji i odlazi u kezing",
+            "Gasno-tecna faza se u separatoru za gas se ravnomerno rasporedjuje",
+            "Deoba gasno-tecne faze se odvija uz povecanje zapremine mehura od donjeg prema gornjem delu"
+        ],
+        "Tacan": "Tecnost, posto je teza, odlazi na periferiju, a gas se sakuplja u centralnom delu i odvodi se u kezing"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kolika je maksimalna dozvoljena koncentracija cvrstih cestica u proizvodnom busotinskom fluidu uz pomoc ESP u izvedbi otpornoj na habanje? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "500 mg/l",
+            "200 mg/l",
+            "2000 mg/l",
+            "100 mg/l"
+        ],
+        "Tacan": "500 mg/l"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Cime je uslovljeno visestruko povecanje rizika od smanjenja otpora izolacije prilikom izvodjenja operacija spustanja i izvlacenja? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Poremecajem brzine ugradnje",
+            "Ugibanjem kabla od vodjice do kotura",
+            "Velikim gabaritom ESP",
+            "Odsustvom naloga za remont "
+        ],
+        "Tacan": "Poremecajem brzine ugradnje"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kakav uticaj ima slobodan gas na usisu sistema ESP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Negativan uticaj na rad ESP",
+            "Pozitivan uticaj  na rad  ESP",
+            "Ne utice na rad ",
+            "Uticaj zavisi od sastava gasa "
+        ],
+        "Tacan": "Negativan uticaj na rad ESP"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kakvu cirkulaciju treba izvrsiti pri smanjenju kapaciteta pumpe ESP (bez protivpovratnog ventila) na busotini nakon hidraulickog frakturiranja? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Direktnu cirkulaciju",
+            "Indirektnu cirkulaciju",
+            "Kombinovanu",
+            "Kiselinsku cirkulaciju "
+        ],
+        "Tacan": "Direktnu cirkulaciju"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kakvu cirkulaciju treba izvrsiti pri samnjenju kapaciteta ESP za 15-20%, pumpa je opremljena protivporatnim ventilom? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Indirektnu  cirkulaciju",
+            "Direktnu cirkulaciju",
+            "Kombinovanu",
+            "Nema smisla vrsiti cirkulaciju "
+        ],
+        "Tacan": "Indirektnu  cirkulaciju"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kakvu cirkulaciju treba izvrsiti pri smanjenju kapaciteta ESP pri talozenju kamenca? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kiselinsku cirkulaciju",
+            "Direktnu cirkulaciju",
+            "Indirektnu cirkulaciju",
+            "Kombinovanu "
+        ],
+        "Tacan": "Kiselinsku cirkulaciju"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Po kojoj zavisnosti se menja napor ESP u odnosu na promenu frekvencije struje? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kvadratnoj",
+            "Linearnoj",
+            "Kubnoj",
+            "Logaritamskoj "
+        ],
+        "Tacan": "Kvadratnoj"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Po kojoj formuli se racuna napor ESP u zavisnosti od frekvencije struje, ako je  Fp - radna frekvencija struje, Hz, Fp - industrijska frekvencije struje, Hz, nr - proracunski napor, m; H - nominalni napor, m?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nr=n*(Fp/Fp)^2",
+            "Nr=(Fp/Fr)/n",
+            "Nr=(Fp*Fr*n)^2",
+            "Nr=n/(Fp*Fr)^2"
+        ],
+        "Tacan": "Nr=n*(Fp/Fp)^2"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Po kojoj formuli se racuna snaga koju trosi ESP u zavisnosti od frekvencije struje, ako je Fp-radna frekvencija struje, Hz, Fp-industrijska frekvencija ,Hz, W-snaga koju trosi ESP pri Fp? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Wp=W*(Fp/Fp)^3",
+            "Wp=Fp/Fp*W^2",
+            "Wp=W/(Fp/Fp)^3",
+            "Wp=W/(Fp*Fp)^3"
+        ],
+        "Tacan": "Wp=W*(Fp/Fp)^3"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Pri kojoj minimalnoj vrednosti otpora izolacije je moguce pustanje u rad ESP?? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            " 5 m\u03a9",
+            "15 M\u03a9",
+            "20 M\u03a9",
+            "25 m\u03a9"
+        ],
+        "Tacan": " 5 m\u03a9"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kapacitet ESP prema tempu smanjenja dinamickog nivoa u busotini se moze racunati po formuli (ako je Qesp - kapacitet ESP, m3/dan; Sk-povrsina prstenastog prostora, m2; dH-promena dinamickog nivoa, m; t-vreme ispumpavanja izmedju dva merenja nivoa, minute; 1440-broj minuta za 24 casa)",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Qesp=1440*Sa*dH/t",
+            "Qesp=1440/Sa*dH/t",
+            "Qesp=1440*Sa*dH*t",
+            "Qesp=Sa*dH*t/1440"
+        ],
+        "Tacan": "Qesp=1440*Sa*dH/t"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li je dozvoljeno ukljucivati transformator bez uzemljenja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zabranjeno je",
+            "Dozvoljeno je",
+            "Ukljucivanje se vrsi po nahodjenju elektromontera",
+            "Ukljucivanje se vrsi po nahodjenju rukovodioca pogona "
+        ],
+        "Tacan": "Zabranjeno je"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li je dozvoljeno pustanje u rad sistema ESP kod negativnog rezultata ispitivanja hermeticnosti tubinga?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dozvoljeno je",
+            "Nije dozvoljena",
+            "Rezultat ispitivanja hermeticnosti ne utice na rad sistema ESP",
+            "Dozvoljeno je samo kada je staticki nivo veci od 1000 m"
+        ],
+        "Tacan": "Dozvoljeno je"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Desifrujte: pems-125-117: (prim.prev.: ruska skracenica u prevodu potapajuci tj. dubinski elektromotor)",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Potapajuci elektromotor, sekcijski; snaga motora - 125kW; precnik kucista-117mm",
+            "Potapajuci elektromotor, otporan na koroziju; snaga motora dvigatel\u044f - 125kW; precnik kucista -117mm",
+            "Potapajuci elektromotor, sekcijski; snaga motora - 117kW; precnik kucista-125mm",
+            "Potapajuci elektromotor, otporan na koroziju; snaga motora - 117kW; precnik kucista-125mm"
+        ],
+        "Tacan": "Potapajuci elektromotor, sekcijski; snaga motora - 125kW; precnik kucista-117mm"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Desifrujte: u\u042dcn5a-60-2000: (prim.prev.: ruska skracenica od ruskih reci, u prevodu elektricna centrifugalna pumpa ESP)",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Elektricna centrifugalna pumpa, grupa gabarita 5a; potis 60 m3/dan; napor 2000m",
+            "Elektricna centrifugalna pumpa, blok-modul, grupa gabarita 60, dubina ugradnje 2000m",
+            "Elektricna centrifugalna pumpa, serije 5a, grupa gabarita 60; potis 2000m3/dan",
+            "Elektricna centrifugalna pumpa snage 60 kW, dubina ugradnje 2000m"
+        ],
+        "Tacan": "Elektricna centrifugalna pumpa, grupa gabarita 5a; potis 60 m3/dan; napor 2000m"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Rast pritiska u kezingu pri urezimljavanju ESP je posledica toga sto: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Poceo je dotok fluida iz sloja u busotinu",
+            "Nema dovoljno snage u gasnom separatoru",
+            "Tubing nije hermetican",
+            "Protivpovratni ventil na erupcionom uredjaju je neispravan "
+        ],
+        "Tacan": "Poceo je dotok fluida iz sloja u busotinu"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koliko cesto treba kontrolisati radne parametre ESP? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ajmanje 1 put dnevno",
+            "Najmanje 2 puta dnevno",
+            "Najmanje 1 put mesecno",
+            "Najmanje 1 put nedeljno "
+        ],
+        "Tacan": "Ajmanje 1 put dnevno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li treba povecavati frekvenciju struje pri urezimljavanju ESP kod podataka analize kvc (koncentracija suspendovanih cestica) 450 mg/l?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ne treba ako ima dovoljno napora na pumpi ",
+            "Treba",
+            "Treba zbog brzog ispumpavanja fluida gusenja",
+            "Treba zbog pojave gasa u kezingu "
+        ],
+        "Tacan": "Ne treba ako ima dovoljno napora na pumpi "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li treba vrsiti analizu gasa u vazdusnoj sredini pri ugradnji ESP? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Treba",
+            "Ne treba",
+            "Treba ako je prisutan vodonik-sulfid",
+            "Treba pri brzini vetra manje od 10 m/s"
+        ],
+        "Tacan": "Treba"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li treba vrsiti kontrolne manevre u busotini pri povecanju tipa i dimenzija ESP? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Da",
+            "Ne",
+            "Samo u slucajevima promene dubine ugradnje",
+            "Samo u slucajevima kada su zabelezena ogranicenja zastitne kolone "
+        ],
+        "Tacan": "Da"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Navedite tacnu definiciju. gusenje busotine je?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Stvaranje ravnomernih uslova pritiska u sistemu busotina-sloj putem zamene busotinskog fluida fluidom sa zadatim svojstvima za bezbedno izvodjenje tehnoloskih operacija u busotini",
+            "Zamena busotinskog fluida fluidom manje gustine za stvaranje bezbednih uslova za proizvodnju lezisnog fluida",
+            "Stvaranje povoljnih uslova u busotini za izazivanje dotoka lezisnog fluida putem dodavanja tehnoloskog fluida u busotinu",
+            "Zatvaranje busotine na uscu za sprecavanje prodora nafte, gasa i vode i/ili otvorene erupcije "
+        ],
+        "Tacan": "Stvaranje ravnomernih uslova pritiska u sistemu busotina-sloj putem zamene busotinskog fluida fluidom sa zadatim svojstvima za bezbedno izvodjenje tehnoloskih operacija u busotini"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta od nabrojanog ne ulazi u sastav ESP? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Reduktor",
+            "Pem",
+            "ESP",
+            "Upravljacka stanica za ESP"
+        ],
+        "Tacan": "Reduktor"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta od predlozenog treba preduzeti ako je pri urezimljavanju ESP utvrdjeno da je dotok fluida manji za 30% od kapaciteta ESP? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ugraditi diznu",
+            "Izvrsiti ispiranje ESP",
+            "Izvrsiti reviziju povrsinske opreme",
+            "Izvrsiti zamenu ESP "
+        ],
+        "Tacan": "Ugraditi diznu"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta treba preduzeti na busotini koja je popunjena fluidom za  gusenje, ako pri pustanju u rad ESP dolazi do iskljucivanja zbog visoke temperature na usisu pumpe? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Potrebno je fluid za gusenje zameniti fluidom manje gustine",
+            "Potrebno je postaviti vecu zastitu za temperaturu iskljucivanja",
+            "Potrebno je fluid za gusenje zameniti fluidom vece gustine",
+            "Potrebno je iskljuciti temperaturnu zastitu"
+        ],
+        "Tacan": "Potrebno je fluid za gusenje zameniti fluidom manje gustine"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta je neophodno preduzeti pri prekidu potisa na ESP pri urezimljavanju? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odmah zaustaviti rad ESP",
+            "Obavestiti tehnologa pogona za proizvodnju nafte i gasa, i cekati dalja uputstva",
+            "Smanjenjem precnika dizne uspostaviti potis",
+            "Cekati da se potis pojavi "
+        ],
+        "Tacan": "Odmah zaustaviti rad ESP"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta je potrebno primenjivati u slucaju stvaranja naslaga soli na busotinskoj opremi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitore talozenja soli",
+            "Inhibitore korozije",
+            "Razdeljivace-rastvore za gusenje ",
+            "Busotinske grejace "
+        ],
+        "Tacan": "Inhibitore talozenja soli"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta treba uraditi ako pri urezimljavanju ESP bude utvrdjeno da je dotok fluida manji za 50% od kapaciteta ESP? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotinu treba prebaciti na periodicni rezim eksploatacije",
+            "Busotinu je potrebno zaustaviti",
+            "Potrebno je primeniti frekventni varijator",
+            "Potrebno je promeniti metodu eksploatacije"
+        ],
+        "Tacan": "Busotinu treba prebaciti na periodicni rezim eksploatacije"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta je to cos(Fi) kod proracuna kapaciteta ESP ?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odnos aktivne snage prema punoj",
+            "Odnos aktivne snage prema reaktivnoj",
+            "Odnos reaktivne snage prema aktivnoj",
+            "Kosinus ugla izmedju struje i napona"
+        ],
+        "Tacan": "Odnos aktivne snage prema punoj"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta je to gasni faktor? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zapremina gasa u jedinici zapremine nafte",
+            "Odnos kolicine proizvedene nafte i proizvedenog gasa",
+            "Proizvodnja gasa iz busotine na dan",
+            "Prisustvo gasa odgovarajuceg sastava "
+        ],
+        "Tacan": "Zapremina gasa u jedinici zapremine nafte"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta od navedenog moze dovesti do zaglave ESP ?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni",
+            "Mehanicke necistoce i talozi kamenca",
+            "Prekoracenje vrednosti intenziteta iskrivljenja busotine iznad dozvoljenih u intervalu ugradnje ESP",
+            "Nekvalitetna montaza ESP "
+        ],
+        "Tacan": "Svi odgovori su tacni"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako parafin utice na rad esp-a",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Negativno ",
+            " pozitivno ",
+            " dinamicki ",
+            " svi odgovori su tacni. "
+        ],
+        "Tacan": "Negativno "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako gas utice na rad esp-a",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Negativno ",
+            " olaksava rad ",
+            " pozitivno ",
+            " povecava proizvodnju "
+        ],
+        "Tacan": "Negativno "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Gde se postavlja gas-separator u kompoziciji ESP sistema?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Iznad pem (potapajuceg elektromotora) a ispod pumpe ",
+            " ispod pem ",
+            " ispod pp ventila ",
+            " na spoju c spojnice i tubinga"
+        ],
+        "Tacan": "Iznad pem (potapajuceg elektromotora) a ispod pumpe "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Pomocu koje opreme se vrsi kontinualno doziranje hemikalije na usis ESP-a?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dozir pumpa ",
+            " sistem podrzavanja lezisnog pritiska ",
+            " agregat ca-320 ",
+            " dizna"
+        ],
+        "Tacan": "Dozir pumpa "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Do cega moze da dovede stvaranje naslaga kamenca na ESP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zaglava, lom vratila, smanjenje karakteristika napora-protoka ",
+            " smanjenje dinamickog pritiska na dnu busotine i prekoracenje hidrodinamicke ravnoteze (balansa) sistema gasa i fluida ",
+            " intenzivno izdvajanje gasa i smanjenje temperature u sloju i kanalu busotine ",
+            " svi odgovori su tacni."
+        ],
+        "Tacan": "Zaglava, lom vratila, smanjenje karakteristika napora-protoka "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako ce se promeniti dinamicki pritisak (tubing pritisak) kod smanjenja precnika dizne?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecace se ",
+            " smanjice se ",
+            " varirace ",
+            " nece se promeniti"
+        ],
+        "Tacan": "Povecace se "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se menja dinamicki nivo kod zaprljanosti ESP sistem naslagama kamenca?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se ",
+            " opada ",
+            " ne menja se ",
+            " menja se, ali neznatno "
+        ],
+        "Tacan": "Povecava se "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U kom delu radnog intervala je preporucljivo birati rezim rada ESP sistema za busotine sa povecanim sadrzajem suspendovanih cestica?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            " u desnoj zoni ",
+            " u levoj zoni ",
+            " u sredisnjoj zoni ",
+            " nije propisano"
+        ],
+        "Tacan": " u desnoj zoni "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sipke sa strugacima-centralizerima koriste se za:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zastitu kolone tubinga od habanja na krivinama trajektorije, zastite od naslaga parafina",
+            "Skidanje parafina sa zidova tubinga",
+            "Preventivno, da ne dodje do loma kompozicije klipnih sipki",
+            "Nema pravilnog odgovora"
+        ],
+        "Tacan": "Zastitu kolone tubinga od habanja na krivinama trajektorije, zastite od naslaga parafina"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Za konekciju balansne grede dubinske pumpe sa dve paralelne kretace koje rade je potrebna:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Traverza",
+            "Stojka",
+            "Krivaja",
+            "Vesalica glatke sipke"
+        ],
+        "Tacan": "Traverza"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Za smanjenje frekvencije obrtaja elektromotora dubinske pumpe prilikom prenosa obrtnog kretanja na krivaju, koristi se:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Reduktor",
+            "Balans greda",
+            "Kretaca",
+            "Remenice"
+        ],
+        "Tacan": "Reduktor"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sema principa rada dubinske pumpe sa klipnim sipkama obuhvata:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nadzemni pogon, kompoziciju klipnih sipki koja pokrece dubinsku pumpu zapreminskog tipa, pumpu sa dodatnom opremom",
+            "Cilindar - klip-ventili- delove za ugradnju \u2013 gasno sidro",
+            "Nadzemni pogon, kolonu sa klipnim sipkama za pokretanje u rad hidraulicke dubinske pumpe",
+            "Cilindar - klip-ventili-brave (za ugradne pumpe) - spojni i ugradni elementi "
+        ],
+        "Tacan": "Nadzemni pogon, kompoziciju klipnih sipki koja pokrece dubinsku pumpu zapreminskog tipa, pumpu sa dodatnom opremom"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kacaljka je namenjena je za:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pretvaranje rotacionog kretanja elektromotora u naizmenicno kretanje kuke za klipne sipke",
+            "Za hermetizaciju klipnjace na uscu busotine",
+            "Prenos rotacionog kretanja elektromotora u rotaciono kretanje reduktora i klipnih sipki",
+            "Stvaranje optimalnog pritiska na uscu busotine"
+        ],
+        "Tacan": "Pretvaranje rotacionog kretanja elektromotora u naizmenicno kretanje kuke za klipne sipke"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Dubinska pumpa se sastoji od:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Jednodelnog nepokretnog cilindra \u2013 pokretnog metalnog klipa \u2013 jednostrukog usisnog i potisnog ventila \u2013 sklopa za pricvrscivanje pumpi u tubingu",
+            "Jednodelnog pokretnog cilindra - nepokretnog metalnog klipa - jednostrukih usisnih i potisnih ventila \u2013 sklopa za pricvrscivanje pumpi u tubingu",
+            "Jednodelnog pokretnog cilindra \u2013 pokretnog metalnog klipa \u2013 dvostrukih usisnih i potisnih ventila \u2013 sklopa za pricvrscivanje pumpi u tubingu",
+            "Svi odgovori su tacni"
+        ],
+        "Tacan": "Jednodelnog nepokretnog cilindra \u2013 pokretnog metalnog klipa \u2013 jednostrukog usisnog i potisnog ventila \u2013 sklopa za pricvrscivanje pumpi u tubingu"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Automatska spojnica se montira na sledecem delu kolone sipki:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na donjem kraju kolone sipki",
+            "Na gornjem delu cilindra insert- pumpe",
+            "Na donjem delu kolone tubinga",
+            "Na gornjem delu klipa insert-pumpe"
+        ],
+        "Tacan": "Na donjem kraju kolone sipki"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Automatska spojnica je namenjena za:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Automatsko spajanje kolone sipki sa plunzerom pumpe",
+            "Automatsko spajanje plunzera insert- pumpe i cilindra",
+            "Automatsko spajanje kolone sipki",
+            "Automatsko spajanje insert-pumpe i kolone tubinga"
+        ],
+        "Tacan": "Automatsko spajanje kolone sipki sa plunzerom pumpe"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Pri kretanju klipa dubinske pumpe na gore:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Otvara se usisni ventil i zatvara se potisni ventil",
+            "Otvara se potisni ventil i zatvara se usisni ventil",
+            "Zapremina medju ventilima se smanjuje i fluid koji je dospeo u cilindar preliva se u zonu iznad klipa ",
+            "Zapremina medju ventilima se sabija i tecnost koja ulazi u cilindar pretace se u zonu nad klipom"
+        ],
+        "Tacan": "Otvara se usisni ventil i zatvara se potisni ventil"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Desifrujte: 20-125-RHBM-10-4-3:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ugradna klipna pumpa \u2013 unutrasnji precnik 1 1/4 cola (31,8 mm) \u2013 cilindar sa debelim zidom duzine 10 stopa (3,05 m) \u2013 dva 1,5-stopna nastavka (po 493 mm) \u2013 4-stopni plunzer (1,295 m) \u2013 donje mehanicko kacenje \u2013 postavljanje tubinga precnika 2 3/8 cola",
+            "Cevna pumpa \u2013 unutrasnji precnik 1 1/4 cola (31,8 mm) \u2013 cilindar sa tankim zidom duzine 10 stopa (3,05 m) \u2013 dva 1,5 stopna nastavka (po 493 mm) \u2013 4\u2013stopni plunzer (1,295 m) \u2013 donje mehanicko kacenje \u2013 postavljanje tubinga precnika 2 3/8 cola (60,3 mm)",
+            "Plivajuci cilindar sa donjim kacenjem \u2013 unutrasnji precnik 1 1/2 cola (31,8 mm) \u2013 cilindar sa debelim zidom duzine 10 stopa (3,05 m) \u2013 dva 1,5-stopna nastavka (po 493 mm) \u2013 4-stopni plunzer (1,295 m) \u2013 donje mehanicko kacenje \u2013 postavljanje tubinga precnika 2 3/8 cola",
+            "Stacionarni cilindar sa donjim kacenjem \u2013 unutrasnji precnik 1 1/4 cola (31,8 mm) \u2013 cilindar sa debelim zidom duzine 10 stopa (3,05 m) \u2013 dva 1,5-stopna nastavka (po 493 mm) \u2013 4-stopni plunzer (1,295 m) \u2013 donje mehanicko kacenje \u2013 postavljanje tubinga precnika 2 3/8 cola"
+        ],
+        "Tacan": "Ugradna klipna pumpa \u2013 unutrasnji precnik 1 1/4 cola (31,8 mm) \u2013 cilindar sa debelim zidom duzine 10 stopa (3,05 m) \u2013 dva 1,5-stopna nastavka (po 493 mm) \u2013 4-stopni plunzer (1,295 m) \u2013 donje mehanicko kacenje \u2013 postavljanje tubinga precnika 2 3/8 cola"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kod niskog statickog nivoa u busotini pred izazivanje dotoka dp neophodno je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dopuniti busotinu do usta",
+            "Smanjiti duzinu hoda glatke sipke",
+            "Smanjiti broj hodova",
+            "Svi odgovori su tacni"
+        ],
+        "Tacan": "Dopuniti busotinu do usta"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sa cime je povezana razlika u duzini hoda klipa i duzini hoda glatke sipke?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni",
+            "Sa deformacijom kolone sipki",
+            "Sa deformacijom kolone tubinga",
+            ""
+        ],
+        "Tacan": "Svi odgovori su tacni"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Osnovni instrument za dobijanja informacija o radu dubinske  pumpe je: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dinamometar",
+            "Sonolog",
+            "Amu",
+            "Manometar na uscu"
+        ],
+        "Tacan": "Dinamometar"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Prilikom pustanja u rad dubinske pumpe sa klipnim sipkama, posle pojavljivanja dotoka na uscu busotine, radi se provera hermeticnosti tubinga pod pritiskom: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Najmanje 40 mra",
+            "Najmanje 30 mra",
+            "Najmanje 50 mra",
+            "Najmanje 60mra"
+        ],
+        "Tacan": "Najmanje 40 mra"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta ne obuhvata kontrola rada busotine, opremljene dp?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odredjivanje otpora izolacije",
+            "Dinamometrija, merenje proizvodnje fluida",
+            "Merenje pritiska na ustima, kezingu i vodovima, merenje dinamickog nivoa",
+            "Uzimanje uzoraka za odredjivanje zavodnjenosti i sadrzaja ksc, odredjivanje koeficijenta produktivnosti"
+        ],
+        "Tacan": "Odredjivanje otpora izolacije"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na odsustvo curenja fluida u dubinskoj pumpi prilikom interpretacije dinamograma ukazuje: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Paralelne linije ocitavanja opterecenja i rasterecenja sipki ",
+            "Normalne linije jedne na drugu ocitavanja opterecenja i rasterecenja sipki",
+            "Paralelne linije koje odgovaraju  opterecenja pri hodu klipa na gore",
+            "Paralelne linije koje odgovaraju  opterecenja pri hodu klipa na dole"
+        ],
+        "Tacan": "Paralelne linije ocitavanja opterecenja i rasterecenja sipki "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Teski niz za klipne sipke treba primenjivati kod: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni",
+            "Kidanja ili okretanja donjeg dela kolone sa sipkom",
+            "Postojanja usedanja klipa tokom prolaza",
+            "Velikih hidraulicnih otpora u ventilima"
+        ],
+        "Tacan": "Svi odgovori su tacni"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Posle pustanja u rezim busotine sa dubinskom pumpom posle jednog dana potrebno je uraditi: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Merenje dinamickog nivoa, merenje proizvodnje, uraditi analizu procenta vode i sadrzaja mehanickih primesa, podneti zahtev za balansiranje pogona dubinske pumpe; ocitati dinamogram, ocitati tokogram",
+            "Merenje dinamickog nivoa, merenje proizvodnje, ocitati tokogram",
+            "Merenje dinamickog nivoa, merenje proizvodnje, uzimanje uzoraka za sprovodjenje hemijske analize",
+            "Uzimanje uzoraka za sprovodjenje hemijske analize fluida, a takodje na sadrzaj mehanickih primesa, uraditi balansiranje pogona dp"
+        ],
+        "Tacan": "Merenje dinamickog nivoa, merenje proizvodnje, uraditi analizu procenta vode i sadrzaja mehanickih primesa, podneti zahtev za balansiranje pogona dubinske pumpe; ocitati dinamogram, ocitati tokogram"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U kojoj je tacki se ugradjuje dinamograf prilikom ocitavanja dinamograma?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            " u tacki vesanja klipnih sipki",
+            "U tacki spajanja plunzera sa kolonom sipki",
+            "U tacki pricvrscivanja (fiksiranja) sajle sa glavom kacaljke",
+            "Svi odgovori su tacni "
+        ],
+        "Tacan": " u tacki vesanja klipnih sipki"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Prilikom izvlacenja insert dubinske pumpe: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni",
+            "Pumpu je potrebno podizati na sipkama bez izvlacenja kolone cevi",
+            "Pumpu je potrebno podizati na sipkama uz izvlacenje kolone cevi kada je potrebno eliminisanje curenja u cevima, ciscenje ili zamena sedista sa bravom",
+            "Pumpu je potrebno podizati na sipkama uz izvlacenje kolone cevi kada je potrebna ugradnja dodatne opreme (ventil-blokator, anker, dubinski dozator itd)  "
+        ],
+        "Tacan": "Svi odgovori su tacni"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U kom polozaju treba da se nalazi kurbla (krivaja) sa kontrategovima prilikom zaustavljanja kacaljke radi daljeg remonta i odrzavanja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            " u donjem",
+            "U gornjem",
+            "Dozvoljene su sve  varijante, ako je kacaljka u ravnotezi",
+            "U srednjem"
+        ],
+        "Tacan": " u donjem"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": " navedite razloge smanjenja proizvodnje dubinske pumpe u odnosu na proracunatu. ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni",
+            "Elasticni nastavak i skracenje sipki i cevi",
+            "Nedovoljna zapunjenost tecnoscu cilindra pumpe",
+            "   habanja cevi"
+        ],
+        "Tacan": "Svi odgovori su tacni"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kod slabog koeficijenta zapunjenosti klipne pumpe (gas) preporucuje se:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjiti broj hodova i povecati duzinu hoda glatke sipke",
+            "Povecati broj hodova uz smanjenje duzine hoda glatke sipke",
+            "Periodicno zaustavljati pumpu radi obnavljanja dinamickog nivoa",
+            "Izvuci pumpu i ugraditi pumpu veceg kapaciteta sa gasnim ankerom "
+        ],
+        "Tacan": "Smanjiti broj hodova i povecati duzinu hoda glatke sipke"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se menja napor dubinske pumpe sa klipnim sipkama kada se smanji duzina hoda klipa? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ostaje nepromenjen",
+            "Povecava se",
+            "Smanjuje se linearno",
+            "Smanjuje je u kvadratnoj zavisnosti "
+        ],
+        "Tacan": "Ostaje nepromenjen"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se proverava hermeticnost para \"sediste-kuglica\" ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Proverava se na vakuum instrumentu, hermeticno je ako se u toku od 10 sekundi  ne uoci pad pritiska",
+            "Proverava se na vakuum instrumentu, hermeticno je ako se u toku od 5 sekundi ne uoci pad pritiska",
+            "Proverava se na vakuum instrumentu, hermeticno je ako se u toku od 15 sekundi ne uoci pad pritiska",
+            "Proverava se na vakuum instrumentu, hermeticno je ako se u toku od 30 sekundi ne uoci pad pritiska "
+        ],
+        "Tacan": "Proverava se na vakuum instrumentu, hermeticno je ako se u toku od 10 sekundi  ne uoci pad pritiska"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na kom pritisku i temperaturi se proverava hermeticnost cilindra u sklopu sa usisnim ventilom i klipova sa potisnim ventilom? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Temperaturi od 20 s i pritisku od r=190at",
+            "Temperaturi od 10 s i pritisku od r=200at",
+            "Temperaturi od 25 s i pritisku od r=250at",
+            ""
+        ],
+        "Tacan": "Temperaturi od 20 s i pritisku od r=190at"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Teoretka produktivnost dubinske pumpe sa klipnim sipkama se odredjuje na osnovu formule: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Qt=1440 * F * n * Lpl  gde je, F  -  povrsina poprecnog preseka klipa; n  -  broj duplih hodova u minuti; Lpl  -  duzina hoda klipa",
+            "Qt=1440 * F * n * k    gde je, F  -  povrsina poprecnog preseka cilindra; n  -  broj duplih hodova u minuti; k  -  koeficijent potisa pumpe",
+            "Qt=1440 * Dpl * n * Lpl  gde je,  Dpl -  precnik poprecnog preseka klipa; n  -  broj duplih hodova u minuti; Lpl  -  duzina hoda klipa",
+            "Qt=86400 * Dpl * n * Lpl  gde je, Dpl -  precnik poprecnog preseka klipa; n  -  broj duplih hodova u minuti; Lpl  -  duzina hoda klipa "
+        ],
+        "Tacan": "Qt=1440 * F * n * Lpl  gde je, F  -  povrsina poprecnog preseka klipa; n  -  broj duplih hodova u minuti; Lpl  -  duzina hoda klipa"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koeficijent popunjenosti klipne pumpe  je: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odnos efektivne duzine hoda klipa i fakticke vrednosti",
+            "Odnos faktickog potisa pumpe i njegove proracunske vrednosti racunajuci gubitak hoda klipa na elasticne deformacije dp i tubinga",
+            "Odnos faktickog potisa pumpe i njegove proracunske vrednosti racunajuci gubitak  hoda klipa na elasticne deformacije dp i tubinga",
+            "Nema tacnog odgovora  "
+        ],
+        "Tacan": "Odnos efektivne duzine hoda klipa i fakticke vrednosti"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Prilikom ocitavanja dinamograma (prijem busotine posle tkrb) nisko nasedanje klipa (udar) je praceno: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pojavom u donjem levom uglu dinamograma \"petlje\" ili \"jezicka\"",
+            "Pojavom u donjem desnom uglu dinamograma \"petlje\" ili \"jezicka\"",
+            "Pojavom u gornjem desnom uglu dinamograma \"petlje\" ili \"jezicka\"",
+            "Nema tacnog odgovora "
+        ],
+        "Tacan": "Pojavom u donjem levom uglu dinamograma \"petlje\" ili \"jezicka\""
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kakvoj vrsti pumpi pripada dubinska klipna pumpa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zapreminska pumpa ",
+            " turbinska pumpa ",
+            " centrifugalna pumpa ",
+            " kombinacija zapreminske i turbinske pumpe"
+        ],
+        "Tacan": "Zapreminska pumpa "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Pogonski uredjaj za dubinsko pumpanje cini?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kacaljka ",
+            " drive head ",
+            " elektromotor na glavi busotine ",
+            " dubinski motor"
+        ],
+        "Tacan": "Kacaljka "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na koji nacin se prati rad dubinske pumpe?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dinamografom ",
+            " pracenjem pritisaka tubing/kezing ",
+            " ponasanjem kacaljke ",
+            " sonologom"
+        ],
+        "Tacan": "Dinamografom "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta je teoretski dinamogram?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dinamogram dobijen simulacijom rada dp ",
+            " proracunati dinamogram na dubini ugradnje pumpe ",
+            " zamisljeni idealni dinamogram idealnog sistema ",
+            " dinamogram korigovan podacima sa merenja sonologom"
+        ],
+        "Tacan": "Dinamogram dobijen simulacijom rada dp "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kompozicija dubinske pumpe sa klipnim sipkama obuhvata:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Cilindar - plunzer - ventili - brave (za ugradne pumpe) - delovi za prikljucak i montazu",
+            "Cilindar - plunzer - ventili",
+            "Cilindar - plunzer - ventili - brava (za ugradne pumpe) - pumpa-kacaljka - kolona sipki",
+            "Cilindar - plunzer - ventili - delovi za ugradnju - gasno sidro"
+        ],
+        "Tacan": "Cilindar - plunzer - ventili - brave (za ugradne pumpe) - delovi za prikljucak i montazu"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na koji nacin se upravlja kolicinom pumpanja kod dp?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Promenom parametara rada pumpe - duzine hoda klipa i promenom broja hodova ",
+            " iskljucivo promenom duzine hoda ",
+            " zamenom pume vecom ili manjom ",
+            " zamenom kacaljke sa vecom nosivosti"
+        ],
+        "Tacan": "Promenom parametara rada pumpe - duzine hoda klipa i promenom broja hodova "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta utice na izbor tipa pumpe za datu busotinu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Precnik proizvodnog tubinga, dubina ugradnje, projektovana kolicina proizvedenog fluida, tip i karakteristike kacaljke, karakteristike lezisnog fluida ",
+            " trajektorija busotine ",
+            " nosivost kacaljke i trajektorija busotine ",
+            " mesto usedanja pumpe, tip sedista u zavisnosti od pozicije pakera"
+        ],
+        "Tacan": "Precnik proizvodnog tubinga, dubina ugradnje, projektovana kolicina proizvedenog fluida, tip i karakteristike kacaljke, karakteristike lezisnog fluida "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Busotina u dubinskom pumpanju nije na merenju proizvela nista. sta cemo prvo uraditi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Snimiti dinamogram ",
+            " iskljuciti kacaljku da ne trosi struju ",
+            " ispitati rad pumpe zatvaranjem ventila na naftovodu ",
+            " promeniti broj hodova kacaljke postavljanjem druge remenice"
+        ],
+        "Tacan": "Snimiti dinamogram "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Vesanje sipke na glavi busotine sa dubinskom pumpom se sastoji od:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vesanja za sajlu, gornje i donje traverze",
+            "Zaptivnog mehanizma, vesanja gornjeg i donjeg traverza, glave balansera (konjske glave)",
+            "Lucne glave i tela balans-grede iz jednog bloka",
+            "Nema tacnog odgovora"
+        ],
+        "Tacan": "Vesanja za sajlu, gornje i donje traverze"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Dubinska pumpa na klipnim sipkama se oprema gasnim sidrom ako je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Procenat slobodnog gasa na usisu pumpe veci od 10% ",
+            " procenat slobodnog gasa na usisu pumpe veci od 25% ",
+            " koncentracija mehanickih necistoca u lezisnom fluidu veca od 1,3 g/l ",
+            " procenat slobodnog gasa u usisu pumpe veci od 10% i koncentracija mehanickih necistoca u lezisnom fluidu preko 1,3 g/l"
+        ],
+        "Tacan": "Procenat slobodnog gasa na usisu pumpe veci od 10% "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Cemu sluze centralizeri za klip sipke?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za zastitu kolone sipki i tubinga od mehanicke dotrajalosti (habanja tubinga) ",
+            " za inhibiranja korozije zida tubinga ",
+            " radi sprecavanja odvrtanja kolone sipki ",
+            " za smanjenje negativnog uticaja gasa na kolonu tubinga"
+        ],
+        "Tacan": "Za zastitu kolone sipki i tubinga od mehanicke dotrajalosti (habanja tubinga) "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U sastav dubinske pumpe sa klipnim sipkama ne ulazi ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hidrozastita ",
+            " reduktor ",
+            " usisni ventil ",
+            " klip"
+        ],
+        "Tacan": "Hidrozastita "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta znaci \"taging\"?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kontakt klipa i usisnog sklopa u donjoj mrtvoj tacki ",
+            " nasedanje klipa prilikom rada na necistoce u cilindru ",
+            " kacenje klipne sipke na ostecenje u tubingu ",
+            " obelezavanje pumpe brojem pre ugradnje"
+        ],
+        "Tacan": "Kontakt klipa i usisnog sklopa u donjoj mrtvoj tacki "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Osnovi princip rada busotine sa gasliftom:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjenje pritiska na dnu busotine putem smanjenja gustine smese gasa i tecnosti u kanalu busotine (u tubingu) prilikom utiskivanja gasa kroz radni ventil",
+            "Obezbedjenje istiskivanja tecnosti iz kanala busotine putem utiskivanja gasa pod visokim pritiskom",
+            "Stvaranje dodatnog natpritiska na dnu busotine putem utiskivanja gasa pod visokim pritiskom",
+            "Osiguranje protoka iz busotine putem promene pritiska zasicenja lezisne nafte prilikom utiskivanja gasa"
+        ],
+        "Tacan": "Smanjenje pritiska na dnu busotine putem smanjenja gustine smese gasa i tecnosti u kanalu busotine (u tubingu) prilikom utiskivanja gasa kroz radni ventil"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U busotini sa gas-liftom koristi se nekoliko ventila rasporedjenih po dubini busotine u cilju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Obezbedjivanja starta busotine kada postoje ogranicenja vezano za pritisak utiskivanja gasa",
+            "Obezbedjenja ravnomernog dotoka gasa u busotinu radi osiguranja stabilnog protoka gasa",
+            "Minimiziranja potrosnje gasa u slucaju normalnog rezima rada busotine",
+            "Radi sigurnosti i obezbedjenja rada busotine u slucaju otkaza jedne od klapni"
+        ],
+        "Tacan": "Obezbedjivanja starta busotine kada postoje ogranicenja vezano za pritisak utiskivanja gasa"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kroz koje ventile pri pravilnom odabiru kompozicije gaslifta treba da se dovodi gas u tubing nakon urezimljavanja? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Samo kroz radni ventil",
+            "Kroz startne ventile",
+            "Kroz cirkulacione ventile",
+            "Kroz sve ventile istovremeno"
+        ],
+        "Tacan": "Samo kroz radni ventil"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Cirkulacioni ventil namenjen je za: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za privremenu komunikaciju tubinga sa prstenastim prostorom (koristi se prilikom zamene rastvora gline vodom, gusenja busotine pri krb, obrade pribusotinske zone sloja, inhibiranja)",
+            "Za uvodjenje gasa u dizalicu pri eksploataciji busotine u rezimu gaslifta, u cilju postizanja optimalnog pritiska na dnu busotine",
+            "Za startovanje busotine u slucaju kada gornji ventili za pokretanje ne propustaju utisnuti gas u kolonu tubinga",
+            "Kod busotine koja se eksploatise u rezimu gaslifta ta vrsta ventila se ne koristi "
+        ],
+        "Tacan": "Za privremenu komunikaciju tubinga sa prstenastim prostorom (koristi se prilikom zamene rastvora gline vodom, gusenja busotine pri krb, obrade pribusotinske zone sloja, inhibiranja)"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Po karakteru uvodjenja radnog agensa razlikuju se direktno i povratno utiskivanje. sta se podrazumeva pod povratnim utiskivanjem gasa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Utiskivanje komprimovanog gasa direktno u kolonu tubinga i odvodjenje mesavine gasa i tecnosti iz prstenastog prostora proizvodne busotine",
+            "Utiskivanje komprimovanog gasa direktno u prstenasti prostor i odvodjenje mesavine gasa i tecnosti iz tubinga proizvodnih busotina",
+            "Periodicno utiskivanje komprimovanog gasa u tubing i prstenasti prostor u cilju stvaranja promenljive depresije na produktivni sloj i povecanja kin (koeficijent iskoriscenja nafte)",
+            "Komprimovani gas se moze uvoditi iskljucivo u prstenasti prostor"
+        ],
+        "Tacan": "Utiskivanje komprimovanog gasa direktno u kolonu tubinga i odvodjenje mesavine gasa i tecnosti iz prstenastog prostora proizvodne busotine"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Po karakteru uvodjenja radnog agensa razlikuju se direktno i povratno utiskivanje. sta se podrazumeva pod direktnim utiskivanjem gasa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Utiskivanje komprimovanog gasa neposredno u prstenasti prostor i ispumpavanje mesavine gasa i tecnosti iz tubinga proizvodne busotine",
+            "Utiskivanje komprimovanog gasa neposredno u kolonu tubinga i ispumpavanje mesavine gasa i tecnosti iz prstenastog prostora proizvodne busotine",
+            "Periodicno utiskivanje komprimovanog gasa u tubing i prstenasti prostor u cilju stvaranja promenljive depresije na produktivni sloj i povecanja kin",
+            "Komprimovani gas se moze dovoditi iskljucivo u prstenasti prostor"
+        ],
+        "Tacan": "Utiskivanje komprimovanog gasa neposredno u prstenasti prostor i ispumpavanje mesavine gasa i tecnosti iz tubinga proizvodne busotine"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Najefikasnija tacka za utiskivanje gasa (s aspekta povecanja proizvodnje fluida) u busotini sa gasliftom (pod inace jednakim uslovima)",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sto je moguce nize u busotini",
+            "Dobija se iz uslova da je pritisak u kanalu busotine jednak pritisku zasicenja u rezimu rada",
+            "Na dubini 500 m",
+            "Na dubini 1000 m"
+        ],
+        "Tacan": "Sto je moguce nize u busotini"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sadrzaj gasa u nafti na pritisku zasicenja i gasni faktor busotine:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sadrzaj gasa u nafti moze biti manji od gasnog faktora busotine",
+            "Sadrzaj gasa u nafti moze biti veci od gasnog faktora busotine",
+            "Jedna je te ista vrednost, uvek  se kolicinski podudaraju",
+            "Nikada se ne podudaraju"
+        ],
+        "Tacan": "Sadrzaj gasa u nafti moze biti manji od gasnog faktora busotine"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako zavisi pritisak na dnu busotine od potrosnje gasa za utiskivanje kroz radni ventil ?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ritisak na dnu busotine  sa povecanjem potrosnje gasa za utiskivanje  pada do odredjene vrednosti, zatim  sa povecanjem potrosnje raste",
+            "Pritisak na dnu busotine pada sa povecanjem potrosnje gasa za utiskivanje",
+            "Pritisak na dnu busotine ne zavisi od potrosnje gasa za utiskivanje",
+            "Pritisak na dnu busotine sa povecanjem potrosnje gasa za utiskivanje raste do odredjene vrednosti, zatim sa povecanjem potrosnje pada"
+        ],
+        "Tacan": "Ritisak na dnu busotine  sa povecanjem potrosnje gasa za utiskivanje  pada do odredjene vrednosti, zatim  sa povecanjem potrosnje raste"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li je staticki pritisak na dnu proizvodne busotine veci nego dinamicki pritisak na dnu busotine? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Da",
+            "Ne",
+            "Iste",
+            "Ponekad, da, ponekad, ne"
+        ],
+        "Tacan": "Da"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U kom od prikazanih slucajeva je potrebno utiskivati manje gasa da bi se postigla ciljna vrednost pritiska na dnu busotine, pri ostalim istim uslovima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pri zavodnjenosti 10%",
+            "Pri zavodnjenosti 25%",
+            "U oba slucaja potrebna je ista kolicina gasa",
+            "Zavodnjenost ne utice na pritisak na dnu busotine i na potreban protok utiskivanja gasa"
+        ],
+        "Tacan": "Pri zavodnjenosti 10%"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja tvrdnja je tacna po pitanju povezanosti izmedju pritiska na izlazu iz ventila za gaslift i protoka gasa kroz njega pri konstantnom pritisku na ulazu u ventil? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sto je pritisak na izlazu iz ventila za gaslift nizi do odredjene vrednosti, to je veci protok gasa (brzina isticanja). nakon prevazilazenja granice, koja je uslovljena dostizanjem brzine protoka gasa brzine zvuka, protok gasa kroz ventil ostaje konstantan cak i pri daljem smanjenju izlaznog pritiska.",
+            "Sto je nizi pritisak na izlazu,to je veci protok gasa bez obzira na to da li brzina protoka gasa dostize brzinu zvuka. najveci protok gasa u busotini dostize se pri izlaznom pritisku iz ventila 1 atm.",
+            "Sto je visi pritisak na izlazu iz ventila za gaslift, to je veci protok gasa. upravo ovaj uslov i odredjuje izbor i postavljanje ventila.",
+            "Protok ne zavisi od izlaznog pritiska. kljucni parametri su gustina gasa koji se utiskuje, pritisak utiskivanja i koeficijent superkompresibilnosti."
+        ],
+        "Tacan": "Sto je pritisak na izlazu iz ventila za gaslift nizi do odredjene vrednosti, to je veci protok gasa (brzina isticanja). nakon prevazilazenja granice, koja je uslovljena dostizanjem brzine protoka gasa brzine zvuka, protok gasa kroz ventil ostaje konstantan cak i pri daljem smanjenju izlaznog pritiska."
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja tvrdnja je tacna u pogledu veze izmedju pritiska na ulazu u ventil i potrosnje gasa kroz njega pri konstantnom pritisku na izlazu iz ventila? ovde se ima u vidu slucaj kada je razlika pritiska na ulazu u ventil i izlaza uvek pozitivna.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sto je veci pritisak na ulazu u ventil za gaslift to je veci protok gasa.",
+            "Sto je manji pritisak na ulazu u ventil za gaslift, to je veci protok gasa",
+            "Protok gasa ne zavisi od pritiska na ulazu",
+            "Protok gasa se povecava pri povecanju pritiska na ulazu u ventil do odredjene vrednosti. ova vrednost se odredjuje brzinom zvuka. posle ove vrednosti, dalje povecanje ulaznog pritiska nece dovesti do povecanja brzine protoka gasa kroz ventil."
+        ],
+        "Tacan": "Sto je veci pritisak na ulazu u ventil za gaslift to je veci protok gasa."
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koji tipovi ventila se primenjuju za pustanje busotine koja radi u rezimu gaslifta? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Mogu se primenjivati svi navedeni ventili",
+            "Ventili za gaslift sa komorom sa mehom",
+            "Radni ventili",
+            "Cirkulacioni ventil, slepi cepovi "
+        ],
+        "Tacan": "Mogu se primenjivati svi navedeni ventili"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako su povezani pritisci otvaranja i zatvaranja ventila sa mehom u busotini koja radi u rezimu gaslifta? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pritisak otvaranja je veci od pritiska zatvaranja",
+            "Pritisak otvaranja je manji od pritiska zatvaranja",
+            "Pritisci otvaranja i zatvaranja su isti",
+            "Pritisak otvaranja je manji ili jednak pritisku zatvaranja "
+        ],
+        "Tacan": "Pritisak otvaranja je veci od pritiska zatvaranja"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta moze da se dogodi sa busotinom koja radi u rezimu gaslifta sa direktnim utiskivanjem, ako se poveca pritisak u prstenstom prostoru? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ve navedeno",
+            "Mogu da se otvore ventili za pokretanje",
+            "Povecace se protok gasa utiskivanja",
+            "Povecace se proizvodnja fluida"
+        ],
+        "Tacan": "Ve navedeno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Od cega zavisi pritisak u rebrastoj komori gaslift ventila?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Od utisnute kolicine gasa, svojstava i od temperature",
+            "Iskljucivo od kolicine utisnutog gasa i temperature",
+            "Iskljucivo od temperature",
+            "Od svojstava gasa koji prolazi kroz kanale ventila pri eksploataciji "
+        ],
+        "Tacan": "Od utisnute kolicine gasa, svojstava i od temperature"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sa kojim ciljem se busotine koje se eksploatisu u rezimu konstantnog gaslifta prevode na periodicni? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U cilju smanjenja specificne potrosnje gasa koji se utiskuje",
+            "U cilju povecanja proizvodnje",
+            "U cilju smanjenja pritiska na dnu busotine",
+            "U cilju sprovodjenja periodicnih ispitivanja"
+        ],
+        "Tacan": "U cilju smanjenja specificne potrosnje gasa koji se utiskuje"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Na osnovu koje zavisnosti se moze proceniti potencijal busotine koja radi u rezimu gaslifta? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zavisnosti obima proizvodnje fluida od protoka gasa utiskivanja kroz radni ventil",
+            "Zavisnosti pritiska na dnu busotine od obima proizvodnje fluida (krive lifta)",
+            "Zavisnosti protoka gasa utiskivanja od pritiska utiskivanja",
+            "Zavisnosti linearnog pritiska od pritiska utiskivanja "
+        ],
+        "Tacan": "Zavisnosti obima proizvodnje fluida od protoka gasa utiskivanja kroz radni ventil"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta se moze odrediti uz pomoc merenja raspodele pritiska i temperature po kanalu busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ventili kroz koje se odvija utiskivanje gasa",
+            "Pritisci punjenja mehova u ventilima za pokretanje",
+            "Udeo tecnosti i udeo gasa u kanalu busotine",
+            "Sve nabrojano "
+        ],
+        "Tacan": "Ventili kroz koje se odvija utiskivanje gasa"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": " dubinska busotinska oprema treba da obezbedi ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve navedeno",
+            "Pouzdanu i bezbednu eksploataciju busotine",
+            "Mogucnost koriscenja alata na zici za zamenu gaslift ventila",
+            "Pouzdano razdvajanje kolone i prstenastog prostora busotine "
+        ],
+        "Tacan": "Sve navedeno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Periodicnost kontrole protoka aktivnog gasa pri radu busotine sa gasliftom, koja radi u konstantnom rezimu ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Minimum jednom mesecno",
+            "Jednom nedeljno",
+            "Jednom dnevno",
+            "Kvartalno "
+        ],
+        "Tacan": "Minimum jednom mesecno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Zamenu ventila potrebno je vrsiti na sledeci nacin: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Izvlacenje ventila pocev od donjih vretena, a ugradnju od gornjih",
+            "Izvlacenje ventila pocev od gornjih vretena, a ugradnju od donjih",
+            "Izvlacenje i ugradnju ventila pocev od donjih vretena",
+            "Izvlacenje i ugradnju ventila pocev od gornjih vretena "
+        ],
+        "Tacan": "Izvlacenje ventila pocev od donjih vretena, a ugradnju od gornjih"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Zabranjeno je izvoditi radove sa uredjajem u slucaju ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve navedeno",
+            "Neispravnosti eruptivne armature",
+            "Nehermeticnosti kompozicije podzemne opreme",
+            "Nepostojanja podataka o parametrima kompozicije gaslifta "
+        ],
+        "Tacan": "Sve navedeno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U jedno od sredstava kontrole stanja i obezbedjenja efikasne eksploatacije busotina koje rade u rezimu gaslifta spada: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dijagnostika ventila za gaslift po pitanju curenja, nepravilno podesenog pritiska punjenja",
+            "Prikupljanje podataka iz upravljacke stanice i analiza potrosnje energije",
+            "Prevodjenje busotine iz proizvodne u injekcionu",
+            "Busenje horizontalnih busotina "
+        ],
+        "Tacan": "Dijagnostika ventila za gaslift po pitanju curenja, nepravilno podesenog pritiska punjenja"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Prema nacinu ugradnje razlikujemo sledece gas-lift ventile?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vadljive i nevadljive. ",
+            " radne. ",
+            " rasteretne. ",
+            " ventili kod kojih je meh ispunjen azotom."
+        ],
+        "Tacan": "Vadljive i nevadljive. "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se naziva metoda eksploatacije naftnih busotina, pri kojoj se podizanje fluida iz sloja na povrsinu vrsi pomocu komprimovanog gasa koji se utiskuje u tubing kroz  kroz ventile? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Gas-lift. ",
+            " dubinsko pumpanje na klipnim sipkama. ",
+            " klip-lift. ",
+            " mehanicka."
+        ],
+        "Tacan": "Gas-lift. "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koliko je ventila neophodno da bi busotina radila?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Jedan ",
+            " minimum 2 ",
+            " na svakih 10 m ispod ocekivanog dinamickog nivoa ",
+            " sto vise to bolje"
+        ],
+        "Tacan": "Jedan "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja je razlika izmedju radnog i rasteretnih ventila?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rasteretni ventili sluze da se postigne rasterecenje busotine i dostigne radni ventil ",
+            " ventili su razlicite konstrukcije ",
+            " rasteretni su vadljivi a radni nije ",
+            " rasteretni sluze za gusenje busotine"
+        ],
+        "Tacan": "Rasteretni ventili sluze da se postigne rasterecenje busotine i dostigne radni ventil "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja su dva glavna faktora za dizajn gas lift sistema?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Radni gas lift ventil treba da bude ugradjen na najvecu dubinu mogucu i pritisak utiskivanja mora da bude visi od dinamickog proizvodnog pritiska u istoj tacki ",
+            " spec tezina nafte mora da bude niza od 0.880 i busotina na granici eruptivnog rada ",
+            " busotina mora da ima gas iz gasne kape ",
+            " lezisni pritisak mora da bude visi od hidrostatickog"
+        ],
+        "Tacan": "Radni gas lift ventil treba da bude ugradjen na najvecu dubinu mogucu i pritisak utiskivanja mora da bude visi od dinamickog proizvodnog pritiska u istoj tacki "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kod gaslift proizvodnje u sastav potapajuce opreme ulazi: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vreteno (mandrel) i gaslift ventil ",
+            " elektromotor ",
+            " kompresor ",
+            " vreteno (mandrel)"
+        ],
+        "Tacan": "Vreteno (mandrel) i gaslift ventil "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sastav opreme kod gaslift metode eksploatacije busotina:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kompresorska stanica, gasna distributivna mreza, gasna sabirna mreza, sistem za pripremu gasa, busotinska oprema ",
+            " kompresorska stanica, gasna sabirna mreza, sistem za pripremu gasa, busotinska oprema. ",
+            " kompresorska stanica, gasna distributivna mreza, sistem za pripremu gasa, busotinska oprema ",
+            " kompresorska stanica, gasna distributivna mreza, gasna sabirna mreza, sistem za pripremu gasa, busotinska oprema, dizna"
+        ],
+        "Tacan": "Kompresorska stanica, gasna distributivna mreza, gasna sabirna mreza, sistem za pripremu gasa, busotinska oprema "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Princip rada gaslift metode se sastoji u:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjenju hidrostatickog pritiska u tubingu ",
+            " zasicenju nafte gasom ",
+            " fluidu ",
+            " utiskivanju gasa u kezing busotine"
+        ],
+        "Tacan": "Smanjenju hidrostatickog pritiska u tubingu "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Po kom principu rade gas lift ventili?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Gas lift ventil ima u sebi komoru pod pritiskom. nakon dostizanja pritiska viseg od onog u komori ventila, ventil se otvara i gas se utiskuje u tbg. ",
+            " imaju oprugu koja otvara ventil kada se utiskuje gas ",
+            " ovek su otvoreni, prakticno su pp ventili ",
+            " gl ventil je teoretski dizna "
+        ],
+        "Tacan": "Gas lift ventil ima u sebi komoru pod pritiskom. nakon dostizanja pritiska viseg od onog u komori ventila, ventil se otvara i gas se utiskuje u tbg. "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja je razlika izmedju sedista ventila sa spoljnje strane tubinga i mandrela (ventili sa unutrasnje strane tubinga?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Mandreli imaju svrhu da omoguce zamenu gl ventila bez vadjenja kompletne kompozicije tubinga alatom na zici kroz proizvodni tubing ",
+            " mandreli se koriste kod kezinga manjih precnika ",
+            " razlika je iskljucivo od proizvodjaca ",
+            " mandreli se koriste kada se gas utiskuje kroz tubing"
+        ],
+        "Tacan": "Mandreli imaju svrhu da omoguce zamenu gl ventila bez vadjenja kompletne kompozicije tubinga alatom na zici kroz proizvodni tubing "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Od cega zavisi pritisak u komori sa mehom ventila za gaslift?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Od utisnute kolicine gasa, svojstava i od temperature",
+            "Iskljucivo od kolicine utisnutog gasa i temperature",
+            "Iskljucivo od temperature",
+            "Od svojstava gasa koji prolazi kroz kanale ventila pri eksploataciji"
+        ],
+        "Tacan": "Od utisnute kolicine gasa, svojstava i od temperature"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sa kojim ciljem se busotine koje se eksploatisu u rezimu konstantnog gaslifta prevode na periodicni?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U cilju smanjenja protoka gasa utiskivanja po jedinici",
+            "U cilju povecanja proizvodnje",
+            "U cilju smanjenja pritiska na dnu busotine",
+            "U cilju sprovodjenja periodicnih ispitivanja"
+        ],
+        "Tacan": "U cilju smanjenja protoka gasa utiskivanja po jedinici"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kom tipu pumpi pripada pcp?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Apreminska pumpa ",
+            " turbinska pumpa ",
+            " centrifugalna pumpa ",
+            " kombinacija zapreminske i turbinske pumpe"
+        ],
+        "Tacan": "Apreminska pumpa "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U kojim slucajevima se vrsi zamena remenica?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve nabrojano je tacno ",
+            " usled dotrajalosti kanala zupcastog kaisnog prenosnika ",
+            " frakture (pukotina) u glavcini na tocku ",
+            " dotrajalost opreme"
+        ],
+        "Tacan": "Sve nabrojano je tacno "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja energija pokrece rad pcp sitem",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Elektricna ",
+            " mehanicka ",
+            " dinamicka ",
+            " nista od navedenog"
+        ],
+        "Tacan": "Elektricna "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta je elastomer?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vrsta gume (polimer) koja se nalazi u statoru pcp ",
+            " metal koji je ugradjen u stator pcp ",
+            " aditiv koji se dozira u busotinu ",
+            " primesa "
+        ],
+        "Tacan": "Vrsta gume (polimer) koja se nalazi u statoru pcp "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Za koje busotine se koristi ugradnja klipnih vijcanih pumpi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vertikalne i koso-usmerene busotine sa viskoznom naftom i manjim dotokom fluida ",
+            " vertikalne sa viskoznom naftom i manjim dotokom fluida ",
+            " vertikalne i koso-usmerene busotine sa manjim dotokom fluida ",
+            " vertikalne i koso-usmerene busotine sa viskoznom naftom i manjim dotokom fluida i visokim sadrzajem vode"
+        ],
+        "Tacan": "Vertikalne i koso-usmerene busotine sa viskoznom naftom i manjim dotokom fluida "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta predstavlja rotor pcp pumpe?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Spiralno vratilo od celika ",
+            " ravno vratilo od celika ",
+            " spiralno vratilo od plastike sa radnim kolima ",
+            " vratilo od metala koje je ugradjeno u stator"
+        ],
+        "Tacan": "Spiralno vratilo od celika "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Visoka temperatura elektromotora ukazuje na:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve nabrojano je tacno ",
+            " istrosenost lezajeva ",
+            " ostecenje reduktora ",
+            " nizak nivo ulja u reduktoru"
+        ],
+        "Tacan": "Sve nabrojano je tacno "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Znakovi kidanja ili odvrtanja sipke klipne vijcaste pumpe",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su netacni ",
+            " uredjaj funkcionise bez izmena ",
+            " temperatura motora je redovna ",
+            " dinamicki nivo je smanjen "
+        ],
+        "Tacan": "Svi odgovori su netacni "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Za skidanje i ugradnju gaslift ventila koristi se: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Alat na zici i brigada podzemnog remonta ",
+            " gaslift ventil se ne menja u toku citavog roka eksploatacije  ",
+            " svi odgovori su tacni",
+            ""
+        ],
+        "Tacan": "Alat na zici i brigada podzemnog remonta "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Za proracun gaslift kompozicije neophodno je znati: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni ",
+            " koeficijent proizvodnje busotine ",
+            " lezisni pritisak ",
+            " duzinu tubinga"
+        ],
+        "Tacan": "Svi odgovori su tacni "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se uzima u obzir rastvorljivost gasa kod prostog proracuna gaslift kompozicije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ne uzima se u obzir ",
+            " preko pokazatelja adijabate  ",
+            " preko koeficijenta rastvorljivosti gasa u nafti ",
+            " preko jednacine stanja gasa "
+        ],
+        "Tacan": "Ne uzima se u obzir "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "U busotini na uzlaznom toku mesavine gasa i tecnosti kakav je odnos stvarnog sadrzaja gasa i zapreminskog protoka gasa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Stvarni sadrzaj gasa je manji od zapreminskog protoka gasa. ukoliko nema proklizavanja gasa (relativna brzina gasa jednaka je nuli), vrednosti parametara su iste",
+            "Stvarni sadrzaj gasa je veci od zapreminskog protoka gasa. ukoliko nema proklizavanja gasa (relativna brzina gasa jednaka je nuli), vrednosti parametara su iste",
+            "Stvarni sadrzaj gasa veci je od zapreminskog protoka gasa. vrednosti se uvek poklapaju",
+            "Parametri ne koreliraju medjusobno"
+        ],
+        "Tacan": "Stvarni sadrzaj gasa je manji od zapreminskog protoka gasa. ukoliko nema proklizavanja gasa (relativna brzina gasa jednaka je nuli), vrednosti parametara su iste"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta treba uzeti u obzir pri projektovanju parametara kompozicije gaslif?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve navedeno",
+            "Sukcesivno otvaranje-zatvaranje ventila za pokretanje",
+            "Potencijalno smanjenje proizvodnje tecnosti pri znatnom protoku komprimovanog gasa.",
+            "Kolebanja maksimalnog pritiska utiskivanja"
+        ],
+        "Tacan": "Sve navedeno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Kako se moze odrediti kroz koje ventile se vrsi utiskivanje gasa pomocu merenja distribucije pritiska i temperature u kanalu busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na sve nabrojane nacine",
+            "Po nagloj promeni gradijenta temperature na dubini gde je postavljen ventil",
+            "Po nagloj promeni gradijenta pritiska na dubini gde je postavljen ventil",
+            "Merenjem pritiska i temperature u kanalu busotine nemoguce ne odrediti da li je ventil otvoren ili zatvoren"
+        ],
+        "Tacan": "Na sve nabrojane nacine"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Izaberite pretpostavke prelaska na periodicni gaslift:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve naedeno",
+            "Visok protok gasa po jedinici pri konstantnom gasliftu",
+            "Nizak lezisni pritisak",
+            "Niska vrednost faktora produktivnosti"
+        ],
+        "Tacan": "Sve naedeno"
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije ",
+        "Pitanje": "Cemu sluze skreperi na klipnim sipkama?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za mehanicko ciscenje unutrasnje povrsine tubinga od naslaga parafina ",
+            " za smanjenje zateznih opterecenja na kolonu sipki i tubinga ",
+            " za mehanicko ciscenje pribusotinske zone od naslaga parafina ",
+            " za smanjenje negativnog uticaja mehanickih necistoca na kolonu tubinga u pribusotinskoj zoni "
+        ],
+        "Tacan": "Za mehanicko ciscenje unutrasnje povrsine tubinga od naslaga parafina "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije ",
+        "Pitanje": "Koje prioritetne radnje treba izvrsiti kod smanjenja dnevne proizvodnje fluida ispod 75% od vrednosti rezima ili nepostojanja proizvodnje u busotinama koje su opremljene  dpks?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Proveriti rad automatskih grupnih mernih uredjaja (amu) i povrsinske opreme i snimiti dinamogram ",
+            " uraditi paket karotaznih merenja i hdm na busotini ",
+            " uraditi paket karotaznih merenja i hdm na busotini ",
+            " uraditi podzemni remont busotine "
+        ],
+        "Tacan": "Proveriti rad automatskih grupnih mernih uredjaja (amu) i povrsinske opreme i snimiti dinamogram "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Navedite razloge zbog kojih ESP moze da radi slabije od predvidjenog kapaciteta.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "1. nepravilno odabran ESP sistem; 2. nehermeticnost tbg; 3. zaprljanost gs i ESP sistema ",
+            " 1. obrnuta rotacija; 2.  eruptivan rad kroz pumpu; 3.  zacepljenja pumpe ",
+            " 1. obrnuta rotacija; 2. kidanje kabla; 3. zacepljenja pumpe ",
+            " 1. obrnuta rotacija; 2. nehermeticnost tbg; 3.  povecanje frekvencije"
+        ],
+        "Tacan": "1. nepravilno odabran ESP sistem; 2. nehermeticnost tbg; 3. zaprljanost gs i ESP sistema "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koje svojstvo emulzije nafte i vode predstavlja otezavajuci faktor u radu ESP sistema?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Visok viskozitet ",
+            " velika korozivna aktivnost ",
+            " visok gasni faktor (gor) ",
+            " svi odgovori su tacni"
+        ],
+        "Tacan": "Visok viskozitet "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta od nabrojanog spada u obavezne elemente kablovskog voda esp?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Glavni ravan ili okrugli napojni kabl i uvodni kabl sa spojnicom  ",
+            " napojni okrugli kabel, bubanj i plasticna spojnica ",
+            " bubanj, bakarna zica specijalno oklopljena i ravan oklopljen uvodni kabel ",
+            " vod kabla sa optickim vlaknima, bubanj i potapajuca dizna"
+        ],
+        "Tacan": "Glavni ravan ili okrugli napojni kabl i uvodni kabl sa spojnicom  "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koja oprema u konstrukciji ESP sistema je namenjena za sprecavanje prodora lezisnog fluida u potapajuci elektromotor? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hidroprotektor ",
+            " protivpovratni ventil ",
+            " ispusni ventil ",
+            " dispergator"
+        ],
+        "Tacan": "Hidroprotektor "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Cemu sluzi gas-separator u sklopu kompozicije ESP sistema?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za usitnjavanje gasnih mehurica kako bi se gasna faza dovela do odrzivog (homogenog) stanja. ",
+            " za povecanje pritiska i razlaganja dela gasa u nafti ",
+            " sprecava talozenje kamenca na radna kola ",
+            " svi odgovori su tacni "
+        ],
+        "Tacan": "Za usitnjavanje gasnih mehurica kako bi se gasna faza dovela do odrzivog (homogenog) stanja. "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Koji parametri mogu da se evidentiraju koriscenjem telemetrijskog senzora, koji ulazi u sastav ESP sistema?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Temperatura ulja potapajuceg elektromotora, pritisak na usisu pumpe ",
+            " temperatura i pritisak fluida na usisu pumpe, procenat vode ",
+            " temperatura i pritisak fluida na usisu pumpe, proizvodnja ",
+            " temperatura i pritisak ulja potapajuceg elektromotora, nivo kvc (kolicina suspendovanih cestica)"
+        ],
+        "Tacan": "Temperatura ulja potapajuceg elektromotora, pritisak na usisu pumpe "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sa kojom opremom se povezuje pcp pumpa prilikom montaze?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sa tubingom ",
+            " sa kolonom sipki ",
+            " sa kontrategom ",
+            " sa krivajnim mehanizmom"
+        ],
+        "Tacan": "Sa tubingom "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sa kojom opremom se povezuje rotor pcp pumpe prilikom montaze?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sa kolonom sipki ",
+            " sa tubing cevima ",
+            " sa kontrategom ",
+            " sa krivajnim mehanizmom"
+        ],
+        "Tacan": "Sa kolonom sipki "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li pcp pumpe sadrze gasni separator u kompoziciji?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zavisi od kolicine gasa u busotini ",
+            " da ",
+            " ne ",
+            " zavisi od % vode u fluidu"
+        ],
+        "Tacan": "Zavisi od kolicine gasa u busotini "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Propustanje proizvedenog fluida kroz zaptivnu glavu glatke sipke:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nije dozvoljeno ",
+            " dozvoljeno je ",
+            " dozvoljeno je u kolicini najvise 2 l/ 24h ",
+            " svi odgovori su netacni "
+        ],
+        "Tacan": "Nije dozvoljeno "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Gde se ugradjuje ispusni ventil pumpe ESP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Iznad pp ventila ",
+            " ispod motora ",
+            " ispod pumpi ",
+            " nema pravila"
+        ],
+        "Tacan": "Iznad pp ventila "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Sta predstavlja osnovni razlog razaranja busotinskih i sabirnih cevovoda?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Korozija ",
+            " parafin ",
+            " emulzija ",
+            " sve ponudjeno"
+        ],
+        "Tacan": "Korozija "
+    },
+    {
+        "Sekcija": "Mehanicke metode eksploatacije",
+        "Pitanje": "Da li je dozvoljena eksploatacija cevovoda kojima je istekao nominalni ili proracunski rok?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dozvoljeno ako se dobije dozvola na propisan nacin ",
+            " nije dozvoljeno ",
+            " ne utice proracunski rok na eksploataciju ",
+            " nista od ponudjenog"
+        ],
+        "Tacan": "Dozvoljeno ako se dobije dozvola na propisan nacin "
+    }
+]

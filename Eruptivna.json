@@ -1,0 +1,626 @@
+[
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Usled pada pritiska kroz diznu sta se desava sa brzinom protoka?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjuje se",
+            "Raste",
+            "Ostaje ista",
+            "Nema uticaj na brzinu strujanja"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Sta se desava ukoliko se ugradi tubing veceg precnika od optimalnog u eruptivnu busotinu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Produzuje se period eruptivnog rada",
+            "Povecava se iskoriscenje lezista",
+            "Povecava se zaostajanje tecne faze",
+            "Smanjuje se gubitak energije u busotini"
+        ],
+        "Tacan": "Povecava se zaostajanje tecne faze"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "U cilju analize sila i naprezanja u sistemu tubing paker koristi se?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Paker envelopa",
+            "Dijagram triaksijalnih sila",
+            "NACE monogram",
+            "Jednacina Stendinga"
+        ],
+        "Tacan": "Dijagram triaksijalnih sila"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Ukoliko eruptivna busotina ima problem sa talozenjem neorganskih taloga tacka utiskivanja inhibitora u tubingu treba da bude:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ispod Pb",
+            "Iznad Pb",
+            "Pb ne utice",
+            "Nista od navedenog"
+        ],
+        "Tacan": "Ispod Pb"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Na osnovu postulata integriteta busotine koliko sigurnosnih barijera treba da ima ER busotina ne racunajuci dubinski i povrsinski sigurnosni ventil?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "6.0",
+            "7.0",
+            "5.0",
+            "4.0"
+        ],
+        "Tacan": "5.0"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Koja struktura protoka je najpovoljnija za eksploataciju gasnih busotina sa prisustvom tecne faze?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Talasasta",
+            "Mehuricasta",
+            "Cepolika",
+            "Maglicasta"
+        ],
+        "Tacan": "Maglicasta"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Koja metoda za proracun kriticne brzine protoka se koristi kada je pritisak na tubingu manji od 80 bara?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tarner",
+            "Li",
+            "Koleman",
+            "Vogel"
+        ],
+        "Tacan": "Koleman"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Koji dijagram je potreban da bi se odabrao odgovarajuci paker pri opremanju ER busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dijagram P/T",
+            "Paker envelopa",
+            "Dijagram sila",
+            "Dijagram ocekivanih pritisaka"
+        ],
+        "Tacan": "Paker envelopa"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Sta se desava sa viskozitetom lezisnog fluida pri zavodnjenju od 50-60% u slucaju formiranja emulzije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Visestruko se povecava",
+            "Povecava se linearno",
+            "Smanjuje se prema linearnoj zavisnosti",
+            "Visestruko se smanjuje"
+        ],
+        "Tacan": "Visestruko se povecava"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Za odredjivanje potencijala busotine u slucaju pada pritiska na dnu busotine ispod pritiska zasicenja potrebno je koristiti sledeci odnos:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni",
+            "Formulu vogela",
+            "Darsijev zakon",
+            "Formulu fetkovica"
+        ],
+        "Tacan": "Svi odgovori su tacni"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Kako se menja produktivnost busotine u slucaju povecanja viskoziteta lezisnog fluida?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjuje se",
+            "Povecava se",
+            "Ostaje nepromenjen",
+            "Moze i da raste, i da opada"
+        ],
+        "Tacan": "Smanjuje se"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Koeficijent produktivnosti busotine je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odnos dnevne proizvodnje busotine i depresije",
+            "Odnos dnevne proizvodnje busotine i pritiska na dnu",
+            "Odnos pritiska na dnu i depresije",
+            "Odnos dnevne proizvodnje busotine i lezisnog pritiska "
+        ],
+        "Tacan": "Odnos dnevne proizvodnje busotine i depresije"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Zona anomalno visokog slojnog pritiska se odlikuje velicinom slojnog pritiska, koji je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Veci od hidrostatickog pritiska stuba fluida u busotini",
+            "Manji od hidrostatickog pritiska stuba fluida u busotini",
+            "Jednak hidrostatickom pritisku stuba fluida u busotini",
+            "Ne premasuje hidrostaticki pritisak stuba fluida u busotini"
+        ],
+        "Tacan": "Veci od hidrostatickog pritiska stuba fluida u busotini"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Eruptivna metoda proizvodnje se odvija zahvaljujuci:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Lezisnoj energiji",
+            "Elektricnoj energiji",
+            "Energiji elektricne centrifugalne pumpe",
+            "Energiji dubinske pumpe sa klipnim sipkama"
+        ],
+        "Tacan": "Lezisnoj energiji"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Radna tacka sistema busotine - sloj u nodalnoj analizi - je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacka preseka ipr i vlp krive",
+            "Svaka tacka na indikatorskom dijagramu",
+            "Tacka koja odgovara tehnoloskom rezimu rada busotine",
+            "Gornja tacka na indikatorskom dijagramu"
+        ],
+        "Tacan": "Tacka preseka ipr i vlp krive"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Za sta se primenjuje dijagram faznog stanja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za opis promene svojstava fluida prilikom prelaska iz lezisnih uslova na povrsinske",
+            "Za predvidjanje gasnog faktora",
+            "Za opis faznog stanja fluida u zavisnosti od temperature",
+            "Svi odgovori su ispravni"
+        ],
+        "Tacan": "Za opis promene svojstava fluida prilikom prelaska iz lezisnih uslova na povrsinske"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Kako se menja proizvodnja eruptivne busotine u slucaju povecanja zavodnjenosti proizvedenog fluida?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjuje se",
+            "Povecava se",
+            "Nece se promeniti u svakom slucaju",
+            "Proizvodnja eruptivne busotine ne zavisi od zavodnjenja fluida"
+        ],
+        "Tacan": "Smanjuje se"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Navedite tacnu definiciju. efektivni gasni faktor je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Prosecna kolicina slobodnog gasa duz stuba proizvodne busotine, svedena na atmosferski pritisak i standardnu temperaturu, po jedinici mase fluida",
+            "Kolicina gasa, svedena na standardne uslove, po 1 toni degazirane nafte pri smanjenju pritiska do atmosferskog u procesu degazacije",
+            "Kolicina gasa potrebna za podizanje jedne tone slojnog fluida, svedena na atmosferski pritisak i standardnu temperaturu",
+            "Kolicina gasa potrebna za podizanje jednog kubnog metra slojnog fluida, svedena na atmosferski pritisak i standardnu temperaturu"
+        ],
+        "Tacan": "Prosecna kolicina slobodnog gasa duz stuba proizvodne busotine, svedena na atmosferski pritisak i standardnu temperaturu, po jedinici mase fluida"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Metoda nodalne analize se bazira na sledecim principima:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            " u jednoj tacki postoji samo jedan pritisak. ulaz u nodalnu tacku je jednak izlazu iz cvora",
+            "Gustina nafte ne zavisi od pritiska. gustina gasa raste linijski sa pritiskom",
+            "Propusna moc cevovoda ne zavisi od propusne moci drugih cevovoda koji ulaze u cvor. oticanje iz cvora jednako je dotoku u cvor",
+            "Nema tacnih odgovora"
+        ],
+        "Tacan": " u jednoj tacki postoji samo jedan pritisak. ulaz u nodalnu tacku je jednak izlazu iz cvora"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Indikatorske krive (IPR krive) opisuje sledece:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zavisnost izmedju pritiska na dnu busotine i proizvodnje",
+            "Odnos izmedju lezisnog pritiska i proizvodnje",
+            "Odnos izmedju lezisnog pritiska i perioda (stadijuma) proizvodnje",
+            "Zavisnost izmedju proizvodnje i perioda proizvodnje"
+        ],
+        "Tacan": "Zavisnost izmedju pritiska na dnu busotine i proizvodnje"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Metode , hajgedorna i braun i duns and ross se koriste za izracunavanje:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Protok nafte i gasa u busotini",
+            "Protok gasa a u busotinskim cevovodima",
+            "Viskoznosti vodo-naftne smese",
+            "Strujanja nafte i vode u busotinama"
+        ],
+        "Tacan": "Protok nafte i gasa u busotini"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Vogel i fetkovic su razradili pristup odredjivanju potencijala busotine za kolektor koji ima sledece karakteristike toka:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Visefazni tok",
+            "Jednofazni tok",
+            "Gasni tok",
+            "Tok nafte i vode"
+        ],
+        "Tacan": "Visefazni tok"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Sta se desava sa fluidom dok prolazi kroz diznu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se brzina toka i pada pritisak",
+            "Povecava se pritisak toka i pada brzina",
+            "Povecava se brzina",
+            "Povecava se pritisak"
+        ],
+        "Tacan": "Povecava se brzina toka i pada pritisak"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Kakvu zavisnost ima karakteristika kompozicije za eruptivni rad?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zavisi od konkretnih uslova",
+            "Obrnuto proporcionalnu",
+            "Direktno proporcionalnu",
+            "Kvadratnu"
+        ],
+        "Tacan": "Zavisi od konkretnih uslova"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Donja tacka krive VLP odgovara",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Minimalnom pritisku na dnu busotine za podizanje fluida iz busotine",
+            "Minimalnom pritisku busotine u eruptivnom radu",
+            "Maksimalnoj kolicini slobodnog gasa u liftu",
+            "Maksimalnoj proizvodnji koja je moguca kod prirodnog eruptivnog rada"
+        ],
+        "Tacan": "Minimalnom pritisku na dnu busotine za podizanje fluida iz busotine"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Sta predstavlja metoda merenja \"kpp\" (kriva porasta pritiska)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Merenja rasta pritiska na dnu busotine prilikom zaustavljanja eruptivne busotine",
+            "Merenje smanjenja pritiska na dnu busotine tokom pustanja busotine u eruptivni rad",
+            "Merenje rasta pritiska na dnu busotine prilikom prebacivanja busotine sa manje dizne na vecu",
+            "Merenje smanjenja pritiska na dnu busotine prilikom prebacivanja busotine sa vece dizne na manju"
+        ],
+        "Tacan": "Merenja rasta pritiska na dnu busotine prilikom zaustavljanja eruptivne busotine"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Znak uspostavljanja rezima rada je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Postojanost dnevne proizvodnje i pritiska",
+            "Postojanost dnevne proizvodnje i temperature",
+            "Postojanost pritiska i temperature ",
+            ""
+        ],
+        "Tacan": "Postojanost dnevne proizvodnje i pritiska"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Minimalan broj promene rezima rada busotine za izradu ipr-a metodom vogela",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Jedan",
+            "Dva",
+            "Tri",
+            "Cetiri"
+        ],
+        "Tacan": "Jedan"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Dinamicki nivo u busotini se u odnosu na staticki nalazi:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ispod",
+            "Iznad",
+            "Poklapaju se",
+            "Medju ovim velicinama nema uzajamne veze"
+        ],
+        "Tacan": "Ispod"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Koja energija pokrece rad gasne busotine:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Lezisna ",
+            " mehanicka ",
+            " elektricna ",
+            " kosmicka"
+        ],
+        "Tacan": "Lezisna "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Kako se regulise proizvodnja gasne busotine:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ostavljanjem dizne odredjenog promera ",
+            " povecanjem lezisne energije ",
+            " doziranjem hemikalija ",
+            " sve navedeno"
+        ],
+        "Tacan": "Ostavljanjem dizne odredjenog promera "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Sta je aofp",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dnevna proizvodnja pri maksimalno mogucoj depresiji ",
+            " dnevna proizvodnja pri minimalno mogucoj depresiji ",
+            " dnevna proizvodnja busotine pri pritisku na dnu busotine jednakom pritisku zasicenja ",
+            " nema tacnog odgovora"
+        ],
+        "Tacan": "Dnevna proizvodnja pri maksimalno mogucoj depresiji "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Ukupni obim fluida na usisu pumpe sastoji se od sledecih obima? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nafte, lezisne vode i slobodnog gasa ",
+            " nafte, lezisne vode i rastvorenog gasa ",
+            " nafte i lezisne vode ",
+            " svi odgovori su tacni "
+        ],
+        "Tacan": "Nafte, lezisne vode i slobodnog gasa "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Pritisak na dnu eruptivne busotine  ne zavisi od: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kolicine ventila na erupcionom uredjaju ",
+            " svojstava proizvodnog fluida ",
+            " velicine pritiska na uscu busotine ",
+            " konstrukcije kolone tubinga i opreme ugradjene u njoj "
+        ],
+        "Tacan": "Kolicine ventila na erupcionom uredjaju "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Koji pritisak utice na rad busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni ",
+            " lezisni pritisak ",
+            " pritisak na dnu busotine ",
+            " pritisak na uscu (na tubingu) i linijski (u cevovodu)"
+        ],
+        "Tacan": "Svi odgovori su tacni "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Radni pritisak erupcionog uredjaja treba da bude: ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ne veci od pritiska ispitivanja hermeticnosti eksploatacione kolone ",
+            " treba da bude maksimalan po indikatorskoj krivoj ",
+            " ne manji od pritiska ispitivanja hermeticnosti eksploatacione kolone ",
+            " svi odgovori su tacni"
+        ],
+        "Tacan": "Ne veci od pritiska ispitivanja hermeticnosti eksploatacione kolone "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Proizvodnja eruptivnom metodom se odvija zahvaljujuci sledecem vidu energije:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Lezisnoj energiji ",
+            " Elektricnoj energiji ",
+            " energiji sistema ESP ",
+            " energiji dubinske pumpe sa klipnim sipkama"
+        ],
+        "Tacan": "Lezisnoj energiji "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Regulisanje rezima rada eruptivne busotine se vrsi pomocu:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dizne ",
+            " frekventnog regulatora ",
+            " ventila ili slavina (zasuna) ",
+            " svi odgovori su tacni"
+        ],
+        "Tacan": "Dizne "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Navedite opremu koja se primenjuje za izolovanje kezinga?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Paker ",
+            " nipl ",
+            " cirkulaciona spojnica ",
+            " dubinski sigurnosni ventil"
+        ],
+        "Tacan": "Paker "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Uslov eruptiranja busotine se moze izraziti na sledeci nacin, ako je rusc - pritisak na uscu; rdno - pritisak na dnu busotine; rlez - lezisni pritisak:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rlez > rusce + rdno ",
+            " rlez< rusce + rdno ",
+            " rlez = rusce + rdno ",
+            " rdno vise ili jednako rlez"
+        ],
+        "Tacan": "Rlez > rusce + rdno "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Koji uredjaj sprecava nekontrolisanu erupciju kod nehermeticnosti ili ostecenja opreme usta busotine na aktivnoj proizvodnoj busotini?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sigurnosni uredjaj ",
+            " nipl uredjaj ",
+            " cirkulaciona spojnica ",
+            " paker"
+        ],
+        "Tacan": "Sigurnosni uredjaj "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Produktivnost sistema busotina-sloj pri eksploataciji eruptivne busotine moze da ogranicava sledeci faktor:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovorui su tacni",
+            "Visoki skin-faktor",
+            "Mali precnik tubinga",
+            "Turbulentnost u pribusotinskoj zoni"
+        ],
+        "Tacan": "Svi odgovorui su tacni"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Kako se menja kolicina proizvedenog fluida iz eruptivne busotine sa povecanjem pritiska na ustima busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjuje se ",
+            " povecava se ",
+            " ne zavisi od pritiska na ustima ",
+            " povecava se neznatno"
+        ],
+        "Tacan": "Smanjuje se "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Proizvodnju sistema busotina-sloj prilikom eksploatacije busotine eruptivnom metodom moze da ogranici sledeci faktor:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni ",
+            " visok skin-faktor ",
+            " mali precnik tubinga ",
+            " turbulentnost u pribusotinskoj zoni sloja"
+        ],
+        "Tacan": "Svi odgovori su tacni "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Kolika treba da bude vrednost slojnog pritiska u odnosu na hidrostaticki pritisak u stubu busotine kako bi busotina mogla  da radi eruptivnom metodom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Slojni pritisak trebalo bi da bude veci ",
+            " hidrostaticki pritisak u stubu busotine trebalo bi da bude veci ",
+            " pritisak na dnu busotine trebalo bi da bude veci ",
+            " vrednosti ovih pritisaka trebalo bi da budu jednaki "
+        ],
+        "Tacan": "Slojni pritisak trebalo bi da bude veci "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Navedite opremu koja se koristi za gusenje busotine ako postoji paker?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Cirkulaciona spojnica ",
+            " sigurnosni ventil ",
+            " nipl ",
+            " paker "
+        ],
+        "Tacan": "Cirkulaciona spojnica "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Osvajanje busotine koja radi eruptivno se vrsi na sledeci nacin:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni ",
+            " zamenom fluida za gusenje fluidom manje gustine ",
+            " ispumpavanjem fluida za gusenje klipovanjem (smanjenje nivoa) ",
+            " smanjenjem gustine radnog fluida za gusenje preko utiskivanja gasa"
+        ],
+        "Tacan": "Svi odgovori su tacni "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Glavna metoda analize efikasnosti rada busotine je sledeca:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nodal analiza ",
+            " strukturna analiza ",
+            " kriticna analiza ",
+            " sistematizovana analiza"
+        ],
+        "Tacan": "Nodal analiza "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Sa povecanjem pritiska na ustima eruptivne busotine desava se sledece:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se pritisak na dnu ",
+            " pritisak na dnu se smanjuje ",
+            " povecava se proizvodnja ",
+            " stvaraju se uslovi za formiranje konusa vode u sloj"
+        ],
+        "Tacan": "Povecava se pritisak na dnu "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije ",
+        "Pitanje": "Koja cinjenica sigurno definise mogucnost stabilnog eruptivnog rada? ",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kriva lifta ima rastuci karakter u tacki ukrstanja sa krivom dotoka ",
+            " neophodan napor za eruptiranje je manji od nule ",
+            " kriva lifta lezi ispod krive dotoka ",
+            " kriva lifta ima rastuci karakter u bilo kojoj tacki "
+        ],
+        "Tacan": "Kriva lifta ima rastuci karakter u tacki ukrstanja sa krivom dotoka "
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Koje od navedenih tvrdnji su tacne? postoje uslovi pod kojima je povecanje proizvodnje eruptivne busotine moguce na racun:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecanja pritiska u tubingu",
+            "Povecanja dubine ugradnje tubinga",
+            "Smanjenja unutrasnjeg precnika tubinga",
+            "Rasta skin-faktora"
+        ],
+        "Tacan": "Povecanja pritiska u tubingu"
+    },
+    {
+        "Sekcija": "Eruptivna metoda eksploatacije",
+        "Pitanje": "Posle povecanja precnika tubinga eruptivne busotine moze se desiti:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecanja proizvodnje busotine",
+            "Povecanje pritiska u tubingu",
+            "Povecanje pritiska na dnu busotine",
+            "Smanjenje pritiska u kezingu"
+        ],
+        "Tacan": "Povecanja proizvodnje busotine"
+    }
+]
