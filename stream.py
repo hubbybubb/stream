@@ -33,7 +33,8 @@ c = conn.cursor()
 
 # c.execute('INSERT INTO  admintable(username,password) VALUES ("BojanM","1234")')
 # conn.commit()
-
+# c.execute('CREATE TABLE IF NOT EXISTS rezultati(name TEXT ,datum TEXT,tacni INTEGER,netacni INTEGER,Osnove INTEGER,Zakonska INTEGER,Mehanicke INTEGER,Eruptivna INTEGER,Struktura INTEGER,Hemizacija INTEGER, Priprema INTEGER, PRIMARY KEY (name,datum))')
+# conn.commit()
 def admin_user(u,n):
   c.execute('SELECT * FROM admintable WHERE username =? AND password = ?',(u,n))
   data = c.fetchall()
@@ -349,19 +350,19 @@ def admin():
   col1,col2,col3,col4,col5=st.columns(5)
   with col1:
       st.write(":memo: Najbolje razvijena kompetencija je:")
-      st.subheader(naj1)
+      st.write(naj1)
   with col2:
       st.write(":chart_with_upwards_trend: Kompetencija na kojoj treba raditi je:")
-      st.subheader(najm1)
+      st.write(najm1)
   with col3:
       st.write(":date: Prosecna uspesnost tima je:")
       st.write(f"{prosecna_uspesnost} {star_prosecna_uspesnost}")
   with col4:
       st.write(":date: Trenutno najbolji rezultat ima:")
-      st.subheader(najbolji1)
+      st.write(najbolji1)
   with col5:
       st.write(":date: Svoje rezultate mora da popravi:")
-      st.subheader(najlosiji)
+      st.write(najlosiji)
     
   st.markdown('-----------')
   
@@ -522,13 +523,14 @@ def testy():
       prosecna_uspesnost=round(clean_db1["tacni"].mean(),1)
       zvezda=prosecna_uspesnost/10
       star_prosecna_uspesnost=":star:"*int(round(zvezda,0))
+      b=clean_db1[-1:]
+      datum=b["Datum"]
+      datum1=datum.to_string(index=False)
     else:
       star_prosecna_uspesnost=""
-      prosecna_uspesnost="Podaci ce se obnoviti nakon  prikaza rezultata"
+      prosecna_uspesnost="Podaci ce se obnoviti nakon prvog uradjenog testa"
+      datum1="Podaci ce se obnoviti nakon prvog uradjenog testa"
     
-    b=clean_db1[-1:]
-    datum=b["Datum"]
-    datum1=datum.to_string(index=False)
     
 
     col1,col2,col3=st.columns(3)
@@ -611,17 +613,13 @@ def testy():
                      
 #                   slanje_maila()
                   st.metric(label = "Ostvaren rezultat je:  ", value = score )
-                  for i in range (0,7):
-                    if Ls2[i]==0:
-                      Ls1[i]="NaN"
-                    else:
-                      Ls1[i]=math.trunc(Ls1[i]/Ls2[i]*100)   
+                   
                   create_r()
-                  add_userr(name1,date,math.trunc(score/10*100),math.trunc((10-score)/10*100),(Ls1[0]),str(Ls1[1]),(Ls1[2]),(Ls1[3]),(Ls1[4]),(Ls1[5]),(Ls1[6]))
+                  add_userr(name1,date,math.trunc(score/100*100),math.trunc(100-score),(Ls1[0]),(Ls1[1]),(Ls1[2]),(Ls1[3]),(Ls1[4]),(Ls1[5]),(Ls1[6]))
                    
                   st.legacy_caching.clear_cache()
                  
-                  a=((100*score)/10)
+                  
                   
                   
                   st.markdown('---------')
@@ -639,8 +637,8 @@ def testy():
       b2=b1["tacni"]
       b3=b2[:1].to_string(index=False)
       j=b["tacni"].to_string(index=False)
-      b4=int(b3)
-      j1=int(j)
+#       b4=int(b3)
+#       j1=int(j)
       
 
       
