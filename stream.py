@@ -509,7 +509,7 @@ def admin():
     
 
 def testy():
-    set_png_as_page_bg('//SNS06CFSH01/HomeFolderR/bojan.martinovic/Desktop/Test znanja APP/nova.jpg') 
+    set_png_as_page_bg('nova.jpg') 
     st.markdown(html_temp11, unsafe_allow_html = True)
    
     st.markdown('-----------')
