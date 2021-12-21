@@ -15,7 +15,7 @@ import datetime
 import base64
 import math
 from plotly.subplots import make_subplots
-import win32com.client as client
+# import win32com.client as client
 import plotly.graph_objects as go  
 import sqlite3
 
@@ -96,16 +96,16 @@ def rezultati_admin():
   clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema'])
   st.dataframe(clean_db)
 
-def slanje_maila():
-  outlook = client.Dispatch('Outlook.Application')
-  message = outlook.CreateItem(0) # 0 is the code for a mail item (see the enumerations)
-  message.Display()
-  message.To = 'bojan.martinovic@nis.rs'
+# def slanje_maila():
+#   outlook = client.Dispatch('Outlook.Application')
+#   message = outlook.CreateItem(0) # 0 is the code for a mail item (see the enumerations)
+#   message.Display()
+#   message.To = 'bojan.martinovic@nis.rs'
 
-  message.Subject = 'Naftna fiskultura'
-  message.Body = 'Postovani, \n\nZavrsio sam test!'
-  message.Save() # save to drafts folder
-  message.Send() # send to outbox
+#   message.Subject = 'Naftna fiskultura'
+#   message.Body = 'Postovani, \n\nZavrsio sam test!'
+#   message.Save() # save to drafts folder
+#   message.Send() # send to outbox
     
 # # stranica sa Testom, funkcija za Test-----------------------------------------------------------------
 
@@ -298,7 +298,7 @@ def display_app_header(main_txt,sub_txt):
 def admin():
   
   display_app_header("ADMIN ZONA","Ovde mozete pregledati sve rezultate ukupno i detaljno po svakom clanu tima ponaosob")
-  set_png_as_page_bg('//SNS06CFSH01/HomeFolderR/bojan.martinovic/Desktop/Test znanja APP/nova.jpg') 
+  set_png_as_page_bg('nova.jpg') 
   st.markdown('-----------')
   results=view_all_results()
   clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema'])
@@ -611,7 +611,7 @@ def testy():
               if st.form_submit_button('Kraj'):
                 
                      
-                  slanje_maila()
+#                   slanje_maila()
                   st.metric(label = "Ostvaren rezultat je:  ", value = score )
                   for i in range (0,7):
                     if Ls2[i]==0:
@@ -807,14 +807,14 @@ def testy():
                             
               st.plotly_chart(fig1,use_container_width=True)
 
-def animacija():
-  file_ = open("C:/Bojan Martinovic/22.gif", "rb")
-  contents = file_.read()
-  data_url = base64.b64encode(contents).decode("utf-8")
-  file_.close()
-  st.markdown(
-  f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
-  unsafe_allow_html=True,)
+# def animacija():
+#   file_ = open("C:/Bojan Martinovic/22.gif", "rb")
+#   contents = file_.read()
+#   data_url = base64.b64encode(contents).decode("utf-8")
+#   file_.close()
+#   st.markdown(
+#   f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
+#   unsafe_allow_html=True,)
 
 #funkcija sa sign in-------------------------------------------------
 
@@ -887,7 +887,7 @@ def load_lottiefile(filepath: str):
 def header(url):
      st.markdown(f'<p style="background-color:#0066cc;color:#33ff33;font-size:24px;border-radius:2%;">{url}</p>', unsafe_allow_html=True)
 
-image = Image.open("//SNS06CFSH01/HomeFolderR/bojan.martinovic/Desktop/Test znanja APP/1233.png")   
+image = Image.open("1233.png")   
 
 def main(): 
     
@@ -992,13 +992,13 @@ def set_png_as_page_bg(png_file):
     st.markdown(page_bg_img, unsafe_allow_html=True)
     return
 
-set_png_as_page_bg('//SNS06CFSH01/HomeFolderR/bojan.martinovic/Desktop/Test znanja APP/132.jpg')    
+set_png_as_page_bg('132.jpg')    
   
 st.markdown(
     """
     <style>
     .reportview-container {
-        background: '//SNS06CFSH01/HomeFolderR/bojan.martinovic/Desktop/Test znanja APP/nova.jpg")
+        background: 'nova.jpg")
     }
    .sidebar .sidebar-content {
         background: url("https://images.app.goo.gl/LFCobouKtT7oZ7Qv7")
