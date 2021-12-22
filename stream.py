@@ -615,7 +615,7 @@ def testy():
                   st.metric(label = "Ostvaren rezultat je:  ", value = score )
                    
                   create_r()
-                  add_userr(name1,date,math.trunc(score/100*100),math.trunc(100-score),(Ls1[0]),(Ls1[1]),(Ls1[2]),(Ls1[3]),(Ls1[4]),(Ls1[5]),(Ls1[6]))
+                  add_userr(name1,date,math.trunc(score/100*100),math.trunc(100-score),(Ls1[0]/20*100),(Ls1[1]/10*100),(Ls1[2]/20*100),(Ls1[3]/20*100),(Ls1[4]/10*100),(Ls1[5]/10*100),(Ls1[6]/10*100))
                    
                   st.legacy_caching.clear_cache()
                  
