@@ -1,0 +1,2330 @@
+[
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Pri smanjenju temperature nafte",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se njen viskozitet, stvaraju se naslage parafina",
+            "Povecava se korozivna agresivnost, pocinje aglomeracija asfaltena i smola",
+            "Pocinje talozenje soli kalcijuma, povecava se njena gustina",
+            "Smanjuje se verovatnoca talozenja asfaltno-smolastih i parafinskih naslaga, kao i kamenca, korozivna agresivnost se ne menja"
+        ],
+        "Tacan": "Povecava se njen viskozitet, stvaraju se naslage parafina"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U sklopu asfaltno-smolastih i parafinskih naslaga parafini se nalaze u vidu",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kristala",
+            "Tecnosti",
+            "Rastvora",
+            "Amorfnih primesa"
+        ],
+        "Tacan": "Kristala"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje su glavne komponente naslaga asp?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Parafini, nafta, smole, mehanicke cestice, voda, asfalteni",
+            "Hidrati, soli, mehanicke cestice",
+            "Voda, naftni mulj, produkti korozije",
+            "Neorganske soli, cerezini, hidrati, voda, gvozdje sulfid"
+        ],
+        "Tacan": "Parafini, nafta, smole, mehanicke cestice, voda, asfalteni"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sta predstavlja produkt vodonik-sulfidne korozije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Gvozdje sulfid",
+            "Vodonik-sulfid",
+            "Sumpor",
+            "Gvozdje oksid"
+        ],
+        "Tacan": "Gvozdje sulfid"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Cime se cesto odlikuje proces odvijanja bioloske korozije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Lokalnom korozijom zbog prisustva adheriranih formi bakterija",
+            "Povecanjem procenta ugljen-dioksida u fluidu",
+            "Spontanom pojavom i prekidom",
+            "Kocenjem ostalih korozivnih procesa, koji nisu povezani sa bioloskom korozijom"
+        ],
+        "Tacan": "Lokalnom korozijom zbog prisustva adheriranih formi bakterija"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se problematika moze prognozirati prilikom proizvodnje nafte metodom gas-lifta?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hidratni cepovi",
+            "Visoko viskozne emulzije",
+            "Naslage kamenca",
+            "Bioloska korozija"
+        ],
+        "Tacan": "Hidratni cepovi"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se metoda koristi za borbu protiv talozenja kamenca u proizvodnim busotinama?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Doziranje inhibitora kamenca u kezing busotine",
+            "Primena antikorozivnih prevlaka tubinga",
+            "Primena stabilizatora gvozdja u kiselinskim kompozicijama za vrsenje obrada pribusotinske zone",
+            "Koriscenje grejnog kabla"
+        ],
+        "Tacan": "Doziranje inhibitora kamenca u kezing busotine"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Biocidi se primenjuju za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Borbu sa bakterijama",
+            "Uklanjanje asfaltno-smolastih i parafinskih naslaga sa tubinga",
+            "Borbu protiv hidrata",
+            "Obaranje viskoziteta nafte"
+        ],
+        "Tacan": "Borbu sa bakterijama"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji je smisao termina \"inhibitor\"?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Supstanca koja bitno usporava odvijanje procesa",
+            "Supstanca koja bitno ubrzava odvijanje procesa",
+            "Supstanca bez koje odvijanje procesa nije moguce",
+            "Supstanca koja sasvim zaustavlja odvijanje procesa"
+        ],
+        "Tacan": "Supstanca koja bitno usporava odvijanje procesa"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja metoda tradicionalno zahteva najmanje troskove u borbi sa asfaltno-smolastim i parafinskim naslagama u proizvodnim busotinama i cevovodima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kracovanje (skrepovanje)",
+            "Toplotne obrade vrelom naftom",
+            "Termohemijske obrade (vrelim vodenim rastvorima povrsinski aktivnih materija)",
+            "Primena rastvaraca asfaltno-smolastih i parafinskih naslaga"
+        ],
+        "Tacan": "Kracovanje (skrepovanje)"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje se resenje primenjuje za gusenje busotina sa abnormalno visokim lezisnim pritiskom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Teski radni fluidi za gusenje",
+            "Porcije blok-sastava koji formiraju isplacni kolac",
+            "Emulzioni blok-sastavi",
+            "Blok-sastavi manje gustine (ispod 1 g/cm3)"
+        ],
+        "Tacan": "Teski radni fluidi za gusenje"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje se resenje primenjuje za gusenje busotina sa abnormalno niskim lezisnim pritiskom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Blok-sastavi manje gustine (ispod 1 g/cm3)",
+            "Radni fluidi za gusenje na bazi halita",
+            "Radni fluidi za gusenje na bazi kalcijum-hlorida",
+            "Teski radni fluidi za gusenje"
+        ],
+        "Tacan": "Blok-sastavi manje gustine (ispod 1 g/cm3)"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koju je hemikaliju najbolje koristiti za uspesno gusenje busotina sa ispucalim kolektorom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Blok-sastav veceg viskoziteta, koji ima tiksotropna svojstva",
+            "Radne fluide za gusenje na bazi kalcijum-hlorida, koji sadrze povrsinski aktivne materije",
+            "Tamponazni (izolacioni) cement niske gustine",
+            "Lezisnu vodu"
+        ],
+        "Tacan": "Blok-sastav veceg viskoziteta, koji ima tiksotropna svojstva"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Cime se postize obaranje korozivne agresivnosti sone kiseline za obradu pribusotinske zone?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Primenom inhibitora kiselinske korozije",
+            "Njenim cuvanjem u specijalnoj ambalazi otpornoj na kiselinu",
+            "Dodavanjem stabilizatora gvozdja",
+            "Kratkim periodom uzajamnog delovanja kiseline i opreme pri izvodjenju obrada pribusotinske zone"
+        ],
+        "Tacan": "Primenom inhibitora kiselinske korozije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "za borbu protiv stvaranja hidrata koristi se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitor hidrata",
+            "Rastvarac hidrata",
+            "Pam-hidrofobizator",
+            "Destruktor (brejker)"
+        ],
+        "Tacan": "Inhibitor hidrata"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "da bi se izbeglo odvijanje kiseonicne (oksidacione) korozije koristi se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Apsorbent kiseonika",
+            "Inhibitor kombinovanog dejstva",
+            "Oksidacioni biocidi",
+            "Inhibitor korozije"
+        ],
+        "Tacan": "Apsorbent kiseonika"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Pomocu koje hemikalije se razbijaju emulzije vode i nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Deemulgator",
+            "Hidrofobizator",
+            "Antipenusavac",
+            "Emulgator"
+        ],
+        "Tacan": "Deemulgator"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja kategorija hemikalija, pored svoje osnovne namene, cesto ispoljava baktericidna svojstva?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitori korozije",
+            "Inhibitori asfaltno-smolastih i parafinskih naslaga",
+            "Blok-sastavi",
+            "Inhibitori hidrata"
+        ],
+        "Tacan": "Inhibitori korozije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Test kuponi (uzorci) se koriste prilikom procene efikasnosti",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Iinhibitora korozije",
+            "Inhibitora kamenca",
+            "Iinhibitora parafina",
+            "Inhibitora hidrata"
+        ],
+        "Tacan": "Iinhibitora korozije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji fizicko-hemijski pokazatelj ukazuje na mogucnost primene hemikalije u zimskim uslovima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacka stinjavanja",
+            "Termostabilnost",
+            "Gustina na temperaturi od 20 C",
+            "Kinematicki viskozitet na temperaturi od 20 C"
+        ],
+        "Tacan": "Tacka stinjavanja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji je fizicko-hemijski pokazatelj univerzalan za sve hemikalije koje se koriste u proizvodnji nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Izgled",
+            "Gustina u rasutom stanju",
+            "Tacka stinjavanja",
+            "Kompatibilnost sa lezisnom vodom"
+        ],
+        "Tacan": "Izgled"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji pokazatelj odrazava efikasnost hemikalije u slucaju deemulgacije u samim cevovodima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Cmanjenje diferencijalnog pritiska u cevovodu",
+            "Smanjenje procenta vode u proizvedenom fluidu",
+            "Smanjenje sadrzaja produkata nafte u vodi",
+            "Maseni udeo organskih hlorida"
+        ],
+        "Tacan": "Cmanjenje diferencijalnog pritiska u cevovodu"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje hemikalije se moraju podvrgavati postupku ulazne kontrole?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve hemikalije koje stizu u zavisno drustvo",
+            "Samo one koje se isporucuju za probna testiranja na terenu, ako je tako navedeno u programu testiranja",
+            "Samo one koje u zavisno drustvo stizu radi industrijske primene",
+            "Sve hemikalije koje stizu u zavisno drustvo, izuzev soli za gusenje busotina"
+        ],
+        "Tacan": "Sve hemikalije koje stizu u zavisno drustvo"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sta treba uraditi da bi se donela odluka o mogucnosti koriscenja hemikalije sa isteklim rokom trajanja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Redovnu kontrolu kvaliteta",
+            "Takva hemikalija se ne sme koristiti",
+            "Eksternu procenu kvaliteta",
+            "Rashodovanje hemikalije na propisani nacin"
+        ],
+        "Tacan": "Redovnu kontrolu kvaliteta"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se oprema primenjuje za uklanjanje asfaltno-smolastih i parafinskih naslaga u busotinama?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Adpm",
+            "Dozir-pumpa",
+            "Hidrociklon",
+            "Busotinska dozir-pumpa"
+        ],
+        "Tacan": "Adpm"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se oprema koristi za utiskivanje hemikalija u pribusotinsku zonu sloja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Cementacioni agregat ca-320",
+            "Dpm",
+            "Dozir-pumpa",
+            "Mobilne isplacne baze"
+        ],
+        "Tacan": "Cementacioni agregat ca-320"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Doza koje hemikalije se izracunava prema kolicini tretirane vode?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitor kamenca",
+            "Inhibitor asfaltno-smolastih i parafinskih naslaga",
+            "Deemulgator",
+            "Emulgator"
+        ],
+        "Tacan": "Inhibitor kamenca"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Na osnovu kog pokazatelja se supstanca svrstava u lako zapaljive fluide?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacka paljenja",
+            "Maksimalna dozvoljena koncentracija u vazduhu radne zone",
+            "Donji koncentracijski limit sirenja plamena",
+            "Tacka stinjavanja"
+        ],
+        "Tacan": "Tacka paljenja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kakvu opasnost predstavlja metanol?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Jak je otrov za coveka",
+            "Jak je oksidant",
+            "Sa vazduhom obrazuje eksplozivne smese pri koncentraciji 0,1-52% masenih",
+            "Ima otrovno dejstvo zbog sposobnosti akumuliranja u organizmu"
+        ],
+        "Tacan": "Jak je otrov za coveka"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U slucaju pada temperature nafte",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se njen viskozitet, stvaraju se naslage parafina",
+            "Povecava se korozivna agresivnost, pocinje aglomeracija asfaltena i smola",
+            "Pocinje talozenje soli kalcijuma, povecava se njena gustina",
+            "Smanjuje se verovatnoca talozenja asfaltno-smolastih i parafinskih naslaga, kao i kamenca, korozivna agresivnost se ne menja"
+        ],
+        "Tacan": "Povecava se njen viskozitet, stvaraju se naslage parafina"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sta od nabrojanog spada u parafine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Alkani (pocev od s16 pa navise), cikloparafini koji sadrze bocne lance normalne i izo-gradje",
+            "Alkani, alkeni, aromaticni ugljovodonici, heterociklicna jedinjenja koja sadrze azot",
+            "Alkani, alkeni, alkini normalne gradje",
+            "Alkani (pocev od s20 pa navise), nezasiceni ugljovodonici"
+        ],
+        "Tacan": "Alkani (pocev od s16 pa navise), cikloparafini koji sadrze bocne lance normalne i izo-gradje"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sta treba uciniti sa hemikalijom prosutom na pod kontejnera u kom se nalazi dozir-pumpa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zasuti peskom",
+            "Sacekati da ispari",
+            "Oprati pod deterdzentskim sredstvom",
+            "Pazljivo pokupiti i prepumpati u pomocni rezervoar dozir-pumpe"
+        ],
+        "Tacan": "Zasuti peskom"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Cime se ne smeju gasiti fluidi nemesljivi sa vodom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vodom",
+            "Penom",
+            "Ugljen-dioksidom",
+            "Protivpozarnim cebetom"
+        ],
+        "Tacan": "Vodom"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Za gusenje busotina sa abnormalno niskim lezisnim pritiskom primenjuju se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Radni fluidi za gusenje, cija je gustina manja od 1 g/cm3",
+            "Teski radni fluidi za gusenje",
+            "Separisana lezisna voda",
+            "Slatka voda"
+        ],
+        "Tacan": "Radni fluidi za gusenje, cija je gustina manja od 1 g/cm3"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U slucaju porasta koncentracije soli u rastvoru, gustina mu",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Raste",
+            "Opada",
+            "Moze i da raste, i da opada u zavisnosti od vrste soli",
+            "Ne menja se"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Za gusenje busotina sa abnormalno visokim lezisnim pritiskom primenjuju se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Teski radni fluidi za gusenje",
+            "Radni fluidi za gusenje, cija je gustina manja od 1 g/cm3",
+            "Slojna voda",
+            "Slatka voda"
+        ],
+        "Tacan": "Teski radni fluidi za gusenje"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Da bi se sprecilo stvaranje kamenca prilikom mesanja radnog fluida za gusenje i lezisne vode, koriste se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitori kamenca",
+            "Hidrofobizatori",
+            "Inhibitori bubrenja glina",
+            "Emulgatori"
+        ],
+        "Tacan": "Inhibitori kamenca"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Da bi se smanjio negativan uticaj na produktivnost (propusnost za naftu) produktivnog sloja, u radni fluid za gusenje se dodaje",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hidrofobizatori",
+            "Emulgatori",
+            "Inhibitori bubrenja glina",
+            "Inhibitori korozije"
+        ],
+        "Tacan": "Hidrofobizatori"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Za obaranje korozivne agresivnosti radnih fluida za gusenje, u njihov sastav se dodaju",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitori korozije",
+            "Inhibitori kamenca",
+            "Inhibitori bubrenja glina",
+            "Emulgatori"
+        ],
+        "Tacan": "Inhibitori korozije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Priprema radnih fluida za gusenje na bazi kalcijum-hlorida vrsi se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na isplacnoj bazi",
+            "Neposredno pored same busotine prilikom pripreme za gusenje",
+            "Kod proizvodjaca soli, radni fluid za gusenje se isporucuje u gotovom obliku",
+            "Na skladistu"
+        ],
+        "Tacan": "Na isplacnoj bazi"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Blok-sastav se odlikuje.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Manjom pokretljivoscu (vecim viskozitetom)",
+            "Vecom pokretljivoscu (manjim viskozitetom)",
+            "Nizom tackom stinjavanja",
+            "Svojstvom da pogorsava propusnost produktivnog sloja"
+        ],
+        "Tacan": "Manjom pokretljivoscu (vecim viskozitetom)"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Nenjutnovski (tiksotropni) fluid je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Blok-sastav veceg viskoziteta",
+            "Rastvor kalcijum hlorida u separisanoj lezisnoj vodi",
+            "Rastvor kalcijum hlorida u separisanoj lezisnoj vodi sa dodatkom hidrofobizatora",
+            "Radni fluid za gusenje na bazi kalijum hlorida"
+        ],
+        "Tacan": "Blok-sastav veceg viskoziteta"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji se pokazatelj obavezno meri prilikom procene kvaliteta blok-sastava?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Dinamicki (uslovni) viskozitet",
+            "Tacka stinjavanja",
+            "Kinematicki viskozitet na temperaturi od 20 s",
+            "Kinematicki viskozitet na temperaturi od minus 40 s"
+        ],
+        "Tacan": "Dinamicki (uslovni) viskozitet"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U ulozi ugljovodonicne faze u emulzionom blok-sastavu koristi se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nafta",
+            "Gazolin",
+            "Primarni benzin",
+            "Rastvori soli koji sadrze povrsinski aktivne materije"
+        ],
+        "Tacan": "Nafta"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji proces je moguc u slucaju primene radnog fluida za gusenje, cija je gustina veca od proracunate?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Gubitak radnog fluida za gusenje u sloju",
+            "Dotok gasa i fluida",
+            "Korozija dubinske proizvodne opreme",
+            "Destrukcija radnog fluida za gusenje"
+        ],
+        "Tacan": "Gubitak radnog fluida za gusenje u sloju"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Pod nedestruktivnim gusenjem podrazumeva se.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Gusenje sa minimalnim negativnim uticajem na produktivni sloj",
+            "Gusenje busotina uz primenu radnih fluida za gusenje na bazi rastvora soli kalcijuma",
+            "Gusenje bez primene radnih masina",
+            "Gusenje u maksimalno kratkom roku"
+        ],
+        "Tacan": "Gusenje sa minimalnim negativnim uticajem na produktivni sloj"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Vansistemska jedinica mere za propusnost je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Darsi",
+            "Paskal",
+            "Amper",
+            "Bar"
+        ],
+        "Tacan": "Darsi"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Isplacna kiselina je.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Mesavina sone i fluorovodonicne kiseline",
+            "Sona kiselina, koja se koristi za obradu pribusotinske zone",
+            "Mesavina sone kiseline i gline",
+            "Sona kiselina sa visokim sadrzajem primesa"
+        ],
+        "Tacan": "Mesavina sone i fluorovodonicne kiseline"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "za obaranje korozivne agresivnosti trzisne forme sone kiseline u nju se dodaje",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitor korozije",
+            "Neutralizator",
+            "Pam-hidrofobizator",
+            "Natrijum-hidroksid"
+        ],
+        "Tacan": "Inhibitor korozije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja od kiselina najbrze reaguje sa karbonatnim kolektorom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sona",
+            "Hluorovodonicna",
+            "Sircetna",
+            "Limunska"
+        ],
+        "Tacan": "Sona"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kao alternativa fluorovodonicnoj kiselini za izvodjenje obrada isplacnom kiselinom moze posluziti",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Amonijum bifluorid",
+            "Kalcijum hlorid",
+            "Kalcijum fluorid",
+            "Sona kiselina"
+        ],
+        "Tacan": "Amonijum bifluorid"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kiselinske obrade uz formiranje pene u poredjenju sa tradicionalnim obradama sonom kiselinom odlikuju se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vecom dubinom prodiranja u sloj",
+            "Sposobnoscu uklanjanja soli kalcijuma iz pribusotinske zone sloja",
+            "Manjom dubinom prodiranja u sloj",
+            "Sposobnoscu uklanjanja produkata korozije iz pribusotinske zone sloja"
+        ],
+        "Tacan": "Vecom dubinom prodiranja u sloj"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se kiselina dodaje u sonu za izvodjenje kiselinskih obrada terigenih kolektora?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "HF",
+            "Cl",
+            "H2SO4",
+            "Nsoon"
+        ],
+        "Tacan": "HF"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Tehnologija izvodjenja kiselinskih obrada u kombinaciji sa hidraulickim frakturiranjem sloja",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zove se kiselinsko hidraulicko frakturiranje sloja i u primeni je danas",
+            "Ne primenjuje se zbog niske efikasnosti",
+            "Ne postoji",
+            "Zove se kiselinsko hidraulicko frakturiranje sloja i danas se primenjuje u 90% slucajeva izvodjenja hidraulickog frakturiranja"
+        ],
+        "Tacan": "Zove se kiselinsko hidraulicko frakturiranje sloja i u primeni je danas"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Tehnologija kod koje se kiselina upumpava na dno busotine i tamo ostavlja odredjeno vreme zove se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kiselinska kupka",
+            "Kiselinsko ispiranje",
+            "Kiselinsko hidraulicko frakturiranje sloja",
+            "Termokiselinska obrada"
+        ],
+        "Tacan": "Kiselinska kupka"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Isplacna kiselina sa dodatkom borne i isplacna kiselina su",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Razliciti nazivi jedne te iste kiselinske kompozicije, koja se sastoji od sone i fluorovodonicne kiseline",
+            "Podvrste kiselinskih kompozicija na bazi fluorovodonicne kiseline, koje se razlikuju po koncentraciji aktivne supstance",
+            "Isplacna kiselina sa dodatkom borne je kiselina koja sadrzi glinu, a isplacna je mesavina sone i fluorovodonicne kiseline",
+            "Jedno te isto, naziv za istrosenu sonu kiselinu zaprljanu nabusenim stenama"
+        ],
+        "Tacan": "Razliciti nazivi jedne te iste kiselinske kompozicije, koja se sastoji od sone i fluorovodonicne kiseline"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se hemikalija dodaje u kiselinsku kompoziciju da bi se sprecilo talozenje jedinjenja gvozdja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Stabilizator gvozdja",
+            "Rastvarac kamenca",
+            "Inhibitor korozije",
+            "Gvozdje vitriol (zelena galica)"
+        ],
+        "Tacan": "Stabilizator gvozdja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Znak nekompatibilnosti kiselinske kompozicije sa naftom je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Formiranje naftnih muljeva",
+            "Formiranje naslaga parafina (asp)",
+            "Formiranje hidrata",
+            "Znacajno smanjenje viskoziteta smese"
+        ],
+        "Tacan": "Formiranje naftnih muljeva"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Zbog cega se u kiselinsku kompoziciju dodaje deemulgator?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Da bi se sprecilo formiranje i obezbedila destrukcija stabilnih emulzija nafte i kiselinske kompozicije",
+            "Dodaje se samo u sastav naftno-kiselinske emulzije radi njene blagovremene destrukcije",
+            "Da bi se ubrzala reakcija kiseline sa lezisnom stenom",
+            "Da bi se smanjila verovatnoca formiranja naftnih muljeva u kontaktu nafte sa kiselinskom kompozicijom"
+        ],
+        "Tacan": "Da bi se sprecilo formiranje i obezbedila destrukcija stabilnih emulzija nafte i kiselinske kompozicije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Paket aditiva za kiselinsku kompoziciju bira",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Proizvodjac kompozicije",
+            "Proizvodni pogon pre probnog testiranja na terenu",
+            "Sluzba za nabavke na osnovu rezultata tenderskih postupaka",
+            "Paket aditiva se ne bira, vec je standardan za sve kiselinske kompozicije"
+        ],
+        "Tacan": "Proizvodjac kompozicije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Disperzant se u kiselinsku kompoziciju dodaje u cilju",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Uklanjanja asfaltno-smolastih i parafinskih naslaga iz pribusotinske zone",
+            "Povecanja dubine prodiranja kompozicije",
+            "Smanjenja korozivne agresivnosti kompozicije",
+            "Smanjenja cene kompozicije"
+        ],
+        "Tacan": "Uklanjanja asfaltno-smolastih i parafinskih naslaga iz pribusotinske zone"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Da bi se probno testiranje kiselinskih kompozicija na terenu odobrilo, laboratorijska ispitivanja",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vrse se obavezno",
+            ".mogu se vrsiti ako ih preporucuje dobavljac",
+            "Ne vrse se",
+            "Vrse se u izuzetnim slucajevima"
+        ],
+        "Tacan": "Vrse se obavezno"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sadrzaj koje komponente medijuma u proizvodnji nafte dovodi do korozije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ugljen-dioksid",
+            "Azot",
+            "Ugljen-monoksid",
+            "Vodonik"
+        ],
+        "Tacan": "Ugljen-dioksid"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Produkt kiseonicne (oksidacione) korozije je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Gvozdje oksid",
+            "Gvozdje sulfid",
+            "Gvozdje sulfat",
+            "Ugljen-dioksid"
+        ],
+        "Tacan": "Gvozdje oksid"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U slucaju ubrzavanja toka fluida u cevovodu brzina korozije",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se",
+            "Prakticno se ne menja",
+            "Smanjuje se",
+            "Smanjuje se proporcionalno kvadratu brzine"
+        ],
+        "Tacan": "Povecava se"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje od navedenih jedinjenja ima najvecu korozivnu agresivnost?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kiseonik",
+            "Ugljen-dioksid",
+            "Vodonik-sulfid",
+            "Metanol"
+        ],
+        "Tacan": "Kiseonik"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U kojim jedinicama se moze meriti brzina korozije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "M/god.",
+            "G/m3",
+            "Mol/l",
+            "Ppm (g/t)"
+        ],
+        "Tacan": "M/god."
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "O kojoj vrsti korozije svedoci prisustvo gvozdje-karbonata u produktima korozije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "CO2 korozija",
+            "Vodonik-sulfidna",
+            "Kiselinska (usled delovanja sone kiseline)",
+            "Kiseonicna (oksidaciona)"
+        ],
+        "Tacan": "CO2 korozija"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji se proces odigrava pri visokom sadrzaju mehanickih necistoca u transportovanom fluidu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Erozija",
+            "Talozenje soli",
+            "Talozenje parafina (asp)",
+            "Korozija pod naponom"
+        ],
+        "Tacan": "Erozija"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Svrha inhibitora korozije -",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sprecavanje ili znacajno smanjivanje korozije metala",
+            "Promena mehanizma odvijanja korozije",
+            "Delovanje na korozivni medijum smanjenjem njegove agresivnosti",
+            "Hemijska neutralizacija ugljen-dioksida i/ili vodonik-sulfida"
+        ],
+        "Tacan": "Sprecavanje ili znacajno smanjivanje korozije metala"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kontrola rezidualnog sadrzaja inhibitora korozije u busotinskom fluidu neophodna je radi",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Procene koncentracije inhibitora",
+            "Procene zastitnog efekta",
+            "Potvrdjivanja da dozir-pumpa radi",
+            "Provere doze inhibitora korozije obrnutim preracunavanjem"
+        ],
+        "Tacan": "Procene koncentracije inhibitora"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kod inhibitora korozije najrasprostranjenija je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tecna trzisna forma",
+            "Cvrsta trzisna forma u vidu kapsula",
+            "Cvrsta trzisna forma u vidu praha za pripremu rastvora",
+            "Trzisna forma u vidu suspenzije"
+        ],
+        "Tacan": "Tecna trzisna forma"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Nanosenje zastitnih prevlaka na unutrasnji deo tubinga se po pravilu vrsi",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U fabrici proizvodjaca",
+            "Neposredno pre ugradnje tubinga u busotinu",
+            "U busotini, kada je tubing vec ugradjen",
+            "Od strane izvodjaca pri vrsenju tkrb"
+        ],
+        "Tacan": "U fabrici proizvodjaca"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Doza inhibitora korozije, koja se preporucuje za industrijsku primenu na objektu preduzeca za proizvodnju nafte i gasa, odredjuje se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na osnovu rezultata probnih testiranja na terenu",
+            "Na osnovu rezultata laboratorijskih ispitivanja",
+            "Na osnovu iskustva sa primenom inhibitora drugih tipova u datom zavisnom drustvu",
+            ".na osnovu rezultata tehnickog sastanka u preduzecu"
+        ],
+        "Tacan": "Na osnovu rezultata probnih testiranja na terenu"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Obavezan postupak pre pocetka probnog testiranja inhibitora korozije na terenu je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ulazna kontrola partije inhibitora korozije",
+            ".provera sposobnosti isoljavanja inhibitora korozije",
+            "Provera kompatibilnosti sa osnovnim inhibitorom korozije",
+            "Provera kompatibilnosti sa koriscenim deemulgatorom"
+        ],
+        "Tacan": "Ulazna kontrola partije inhibitora korozije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Na kom se medijumu vrsi procena efikasnosti inhibitora korozije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na modelu vode konkretnog zavisnog drustva",
+            "Na standardnim korozivno aktivnim rastvorima",
+            "Na medijumu koji je maksimalno zasicen agresivnom komponentom",
+            "Na busotinskom fluidu konkretnog zavisnog drustva uz dodatak 10% radnog fluida za gusenje"
+        ],
+        "Tacan": "Na modelu vode konkretnog zavisnog drustva"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kako se procenjuje izdrzljivost inhibitora korozije u termobarickim uslovima temperature i pritiska busotine, na kojoj se planira primena inhibitora?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Termostabilnost pri busotinskoj temperaturi",
+            "Stabilnost pri busotinskom pritisku",
+            "Stabilnost pri maksimalnoj koncentraciji agresivnih komponenti",
+            "Kombinovana stabilnost pri busotinskoj temperaturi i pritisku"
+        ],
+        "Tacan": "Termostabilnost pri busotinskoj temperaturi"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U slucaju pada temperature, brzina stvaranja asfaltno-smolastih i parafinskih naslaga.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Raste",
+            ".opada",
+            "Prakticno se ne menja",
+            "Naglo pada"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U slucaju povecanja koncentracije jona kalcijuma, brzina talozenja kalcita",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Raste",
+            ".opada",
+            "Prakticno se ne menja",
+            "Naglo pada"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sa rastom pritiska brzina formiranja hidrata",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Raste",
+            ".opada",
+            "Prakticno se ne menja",
+            "Naglo pada"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Temperatura pocetka kristalizacije asfaltno-smolastih i parafinskih naslaga za svaki tip nafte",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Jedinstvena je i odredjuje se eksperimentalno",
+            "Jedinstvena je i odredjuje se proracunskom metodom",
+            "Nema odredjenu vrednost",
+            "Standardna je za svaku vrstu i tip nafte"
+        ],
+        "Tacan": "Jedinstvena je i odredjuje se eksperimentalno"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja je osnovna komponenta gasnih hidrata?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Metan",
+            "Etan",
+            "Etilen",
+            "Vodonik"
+        ],
+        "Tacan": "Metan"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja vrsta naslaga se uklanja koriscenjem vrelog vodenog rastvora?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Asfalteni, smole i parafini",
+            "Barit",
+            "Gvozdje sulfid",
+            "Kalcit"
+        ],
+        "Tacan": "Asfalteni, smole i parafini"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kako izgledaju hidrati?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Bela kristalasta masa poput snega",
+            "Amorfna masa sive boje",
+            "Viskozna plasticna masa od sive do crne boje",
+            "Kristali sive boje"
+        ],
+        "Tacan": "Bela kristalasta masa poput snega"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U slucaju povecanja temperature, a ukoliko su drugi uslovi podjednaki, verovatnoca talozenja kalcita.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Raste",
+            "Opada",
+            "Ostaje bez promene",
+            "Znatno se smanjuje"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Ppu se moze koristiti za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Uklanjanje asfaltno-smolastih i parafinskih naslaga",
+            "Inhibiranje stvaranja asfaltno-smolastih i parafinskih naslaga",
+            "Uklanjanje hidrata",
+            "Uklanjanje kamenca"
+        ],
+        "Tacan": "Uklanjanje asfaltno-smolastih i parafinskih naslaga"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Uzrok neravnomernog stvaranja naslaga asfaltena, smola i parafina (asp) duz tubinga predstavlja",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Promena temperature duz tubinga",
+            "Promena brzine protoka gasa i fluida tokom kretanja kroz busotinu",
+            "Naslage asp se stvaraju ravnomerno, samo sto ih tok fluida odnosi ka ustima busotine",
+            "Naslage asp se stvaraju ravnomerno, samo sto se pomeraju u donji deo busotine pod sopstvenom tezinom"
+        ],
+        "Tacan": "Promena temperature duz tubinga"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Usled talozenja kamenca u pribusotinskoj zoni sloja desava se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pad dnevne proizvodnje fluida",
+            "Porast koncentracije jona gvozdja u proizvedenom fluidu",
+            "Porast sadrzaja jona kalcijuma u proizvedenom fluidu",
+            "Porast preostalog sadrzaja inhibitora kamenca"
+        ],
+        "Tacan": "Pad dnevne proizvodnje fluida"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Veca hrapavost povrsine dovodi do",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Brzeg stvaranja asfaltno-smolastih i parafinskih naslaga",
+            "Sporijeg formiranja asfaltno-smolastih i parafinskih naslaga",
+            "Znacajno (visestruko) brzeg formiranja asfaltno-smolastih i parafinskih naslaga",
+            "Prakticno totalnog prestanka formiranja asfaltno-smolastih i parafinskih naslaga"
+        ],
+        "Tacan": "Brzeg stvaranja asfaltno-smolastih i parafinskih naslaga"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji proces se ubrzava u slucaju pada temperature?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Talozenje asfaltno-smolastih i parafinskih naslaga",
+            "Sastvaranje kamenca kiselinom",
+            "Deemulgacija",
+            "Korozija"
+        ],
+        "Tacan": "Talozenje asfaltno-smolastih i parafinskih naslaga"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Porast vrednosti kog pokazatelja moze zakomplikovati doziranje hemikalija pomocu dozir-pumpi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kinematicki viskozitet",
+            "Gustina",
+            "Temperatura paljenja",
+            "Temperatura spontanog paljenja"
+        ],
+        "Tacan": "Kinematicki viskozitet"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji je normativ za tacku stinjavanja kod tecnih formi inhibitora kamenca?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Najvise minus 50 s",
+            "Najvise minus 40 s",
+            "Minus 50 s",
+            "Najvise minus 30 s"
+        ],
+        "Tacan": "Najvise minus 50 s"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja hemikalija se ne primenjuje po tehnologiji kontinualnog doziranja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rastvarac kamenca",
+            "Inhibitor asfaltno-smolastih i parafinskih naslaga",
+            "Deemulgator",
+            "Inhibitor kamenca"
+        ],
+        "Tacan": "Rastvarac kamenca"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Inhibitor parafina se dozira prema kalkulaciji po",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Toni nafte",
+            "Toni fluida",
+            "Toni vode",
+            "Toni fluida uz korekciju za gasni faktor"
+        ],
+        "Tacan": "Toni nafte"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Laboratorijski uredjaj za odabir inhibitora parafina naziva se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hladni prst (Cold finger)",
+            "Gravimetrijski sto za ispitivanja",
+            "Kapilarni viskozimetar",
+            "Filtracioni uredjaj"
+        ],
+        "Tacan": "Hladni prst (Cold finger)"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja vrsta naslaga se uklanja koriscenjem hlorovodonicne kiseline?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kalcit",
+            "Asfalteni, smole i parafini",
+            "Barit",
+            "Hidrati"
+        ],
+        "Tacan": "Kalcit"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja vrsta naslaga se uklanja koriscenjem rastvora kalcijum hlorida?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hidrati",
+            "Asfalteni, smole i parafini",
+            "Barit",
+            "Kalcit"
+        ],
+        "Tacan": "Hidrati"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sta je uzrok formiranja naslaga gvozdje sulfida?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vodonik-sulfid",
+            "Ugljen-dioksid",
+            "Voda",
+            "Sumporna kiselina"
+        ],
+        "Tacan": "Vodonik-sulfid"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Usled talozenja kamenca u pribusotinskoj zoni sloja desava se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pad dnevne proizvodnje fluida",
+            "Porast koncentracije jona gvozdja u proizvedenom fluidu",
+            "Porast sadrzaja jona kalcijuma u proizvedenom fluidu",
+            "Porast preostalog sadrzaja inhibitora kamenca"
+        ],
+        "Tacan": "Pad dnevne proizvodnje fluida"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Hlorovodonicna kiselina se koristi za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Uklanjanje kalcita",
+            "Uklanjanje barita",
+            "Uklanjanje asfaltno-smolastih i parafinskih naslaga",
+            "Uklanjanje peska"
+        ],
+        "Tacan": "Uklanjanje kalcita"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Pokazatelj \"sposobnost isoljavanja\" odredjuje se za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rastvarac asfaltno-smolastih i parafinskih naslaga",
+            "Inhibitor korozije",
+            "Inhibitor kamenca",
+            "Inhibitor asfaltno-smolastih i parafinskih naslaga"
+        ],
+        "Tacan": "Rastvarac asfaltno-smolastih i parafinskih naslaga"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Pokazatelji efikasnosti \"sposobnost spiranja\" i \"sposobnost dispergovanja\" odredjuju se za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rastvarac asfaltno-smolastih i parafinskih naslaga",
+            "Biocid",
+            "Inhibitor kamenca",
+            "Inhibitor asfaltno-smolastih i parafinskih naslaga"
+        ],
+        "Tacan": "Rastvarac asfaltno-smolastih i parafinskih naslaga"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Opseg radnih doza inhibitora kamenca u g/m3 iznosi",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "0-50",
+            "100-500",
+            "100-1000",
+            "1000-2000"
+        ],
+        "Tacan": "0-50"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji pokazatelj svedoci o kompatibilnosti inhibitora kamenca i lezisne vode?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odsustvo stvaranja taloga",
+            "Postojanje zastitnog efekta",
+            "Smanjenje kinematickog viskoziteta fluida",
+            "Pojava raslojavanja na faze"
+        ],
+        "Tacan": "Odsustvo stvaranja taloga"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji pokazatelj karakterise efikasnost rastvaraca asfaltno-smolastih i parafinskih naslaga?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sposobnost spiranja",
+            "Smanjenje tacke stinjavanja",
+            "Dinamicki viskozitet",
+            "Brzina formiranja asfaltno-smolastih i parafinskih naslaga"
+        ],
+        "Tacan": "Sposobnost spiranja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sta od navedenog spada u vestacke metode povecanja koeficijenta iskoriscenja nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hidrodinamicke, fizicko-hemijske, gasne, toplotne, talasne, mikrobioloske",
+            "Idrodinamicke, fizicko-hemijske, gasne",
+            "Hidrodinamicke, fizicke, toplotne",
+            "Hidrodinamicke, fizicko-hemijske, nuklearne, mikrobioloske"
+        ],
+        "Tacan": "Hidrodinamicke, fizicko-hemijske, gasne, toplotne, talasne, mikrobioloske"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sta od navedenog moze biti izvor vode za sistem odrzavanja lezisne energije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Otvorene vodene povrsine (reke, jezera, mora), podzemne vode, slojna voda, voda iz vodonosnih slojeva nalazista.",
+            "Otvorene vodene povrsine (reke, jezera, mora) i podzemne vode",
+            "Vodonosni slojevi nalazista",
+            "Otvorene vodene povrsine (reke, jezera, mora) i industrijska otpadna voda"
+        ],
+        "Tacan": "Otvorene vodene povrsine (reke, jezera, mora), podzemne vode, slojna voda, voda iz vodonosnih slojeva nalazista."
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Hidrofobizator se koristi za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zadrzavanje propusnosti produktivnog sloja za naftu",
+            "Obezbedjivanje kompatibilnosti radnog fluida za gusenje i lezisne vode",
+            "Sprecavanje bubrenja glina u kolektorskoj steni",
+            "Pripremu emulzionih radnih fluida za gusenje"
+        ],
+        "Tacan": "Zadrzavanje propusnosti produktivnog sloja za naftu"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja od komponenti je neizostavan sastojak emulzionog blok-sastava?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Emulgator",
+            "Pam-hidrofobizator",
+            "Kolmatant",
+            "Halit"
+        ],
+        "Tacan": "Emulgator"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Od cega zavisi vrednost dozvoljenog odstupanja realne gustine radnog fluida za gusenje od proracunate?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Od dubine busotine",
+            "Od visine lezisnog pritiska",
+            "Od trajanja gusenja",
+            "Odstupanje gustine nije dozvoljeno"
+        ],
+        "Tacan": "Od dubine busotine"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Viskozitet blok-sastava se u terenskim uslovima odredjuje pomocu",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Marsovog levka",
+            "Prenosivog merila gustine",
+            "Konduktometra",
+            "Merne letve"
+        ],
+        "Tacan": "Marsovog levka"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kako se procenjuje efikasnost blok-sastava prilikom probnih testiranja na terenu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na osnovu kriterijuma koji se odnose na operacije gusenja",
+            "Na osnovu zadrzanih vrednosti uslovnog viskoziteta i termostabilnosti izvadjene kompozicije iz busotine",
+            "Na osnovu odsustva negativnog uticaja blok-sastava na dubinsku proizvodnu opremu",
+            "Na osnovu trajanja remonta busotine"
+        ],
+        "Tacan": "Na osnovu kriterijuma koji se odnose na operacije gusenja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Na koji se nacin odredjuje doza soli, potrebna za pripremu nedovoljno zasicenog (podzasicenog) rastvora?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pri laboratorijskom utvrdjivanju rastvorljivosti soli",
+            "Neposredno na samoj isplacnoj bazi, kada so prestaje da se rastvara",
+            "U skladu sa uputstvom za primenu, koje je sastavio dobavljac",
+            "Na osnovu tabelarnih vrednosti, navedenih u prirucniku"
+        ],
+        "Tacan": "Pri laboratorijskom utvrdjivanju rastvorljivosti soli"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Dopiranje emulzionih blok-sastava u busotinski fluid koji se proizvodi moze dovesti do",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Prekida u radu tokom pripreme nafte na stanici za pripremu nafte",
+            "Stvaranja asfaltno-smolastih i parafinskih naslaga u sabirnom sistemu",
+            "Korozije dubinske proizvodne opreme",
+            "Stvaranja naslaga kamenca u tubingu"
+        ],
+        "Tacan": "Prekida u radu tokom pripreme nafte na stanici za pripremu nafte"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Prema kojoj velicini se treba orijentisati prilikom odabira koncentracije povrsinski aktivne materije u sastavu radnog fluida za gusenje?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kriticna micelarna koncentracija",
+            "Temperatura zamucenja",
+            "Tacka stinjavanja",
+            "Granicna temperatura filtrabilnosti"
+        ],
+        "Tacan": "Kriticna micelarna koncentracija"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Nedovoljno zasiceni (podzasiceni) rastvor soli za gusenje je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rastvor soli cija gustina iznosi 0,9 od maksimalne",
+            "Rastvor soli neodgovarajuce gustine",
+            "Pripremljeni rastvor soli neodgovarajuce gustine koji je proglasen za skart",
+            "Rastvor soli maksimalne gustine koji zahteva dodatno zasicenje povrsinski aktivnim materijama"
+        ],
+        "Tacan": "Rastvor soli cija gustina iznosi 0,9 od maksimalne"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sa vecim brojem kiselinskih obrada na jednoj te istoj busotini, njihova efikasnost od obrade do obrade",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Opada",
+            "Ostaje na pocetnom nivou",
+            "Raste",
+            "Visestruko se povecava"
+        ],
+        "Tacan": "Opada"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Produkti reakcije kiselinske kompozicije sa kolektorskom stenom treba da budu.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rastvorljivi",
+            "Nerastvorljivi i sitno disperzni",
+            "Nerastvorljivi i krupno kristalasti",
+            "Rastvorljivi iskljucivo u slucaju niskih rn vrednosti"
+        ],
+        "Tacan": "Rastvorljivi"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U kojim kolektorima se obicno izvodi kiselinsko hidraulicko frakturiranje sloja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U karbonatnim",
+            "U terigenim",
+            "U nisko propusnim terigenim",
+            "U svim"
+        ],
+        "Tacan": "U karbonatnim"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Da bi se obezbedila sto bolja sposobnost prodiranja kiseline u tesko propusne delove formacije, koriste se.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sredstva za spustanje povrsinskog napona",
+            "Pam-hidrofobizatori",
+            "Antipenusavci",
+            "Deemulgatori"
+        ],
+        "Tacan": "Sredstva za spustanje povrsinskog napona"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Do cega moze dovesti odsustvo stabilizatora gvozdja u kiselinskoj kompoziciji?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Do kolmatacije pribusotinske zone sloja",
+            "Do formiranja emulzije",
+            "Do formiranja naslaga kamenca",
+            "Do povecanja dnevne proizvodnje nafte iz busotine"
+        ],
+        "Tacan": "Do kolmatacije pribusotinske zone sloja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sa povecanjem propusnosti karbonatnog kolektora, radna kolicina kiselinske kompozicije za izvodjenje obrade sonom kiselinom",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecava se",
+            "Smanjuje se",
+            "Ne menja se",
+            "Povecava se visestruko"
+        ],
+        "Tacan": "Povecava se"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se operacija izvodi nakon utiskivanja porcije isplacne kiseline?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Utiskivanje potisnog fluida",
+            "Utiskivanje porcije organskog rastvaraca",
+            "Uklanjanje utisnute isplacne kiseline",
+            "Utiskivanje porcije neutralizacionog rastvora"
+        ],
+        "Tacan": "Utiskivanje potisnog fluida"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Na koji se nacin odredjuje optimalna receptura kiselinske kompozicije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odabirom komponenti u zavisnosti od sastava sloja i lezisnih uslova",
+            "U skladu sa katalogom gotovih kiselinskih kompozicija koje nude proizvodjaci",
+            "Na osnovu raspolozivih rezultata industrijske primene postojecih kiselinskih kompozicija",
+            "Prema uspesnim/neuspesnim rezultatima probnih testiranja na terenu"
+        ],
+        "Tacan": "Odabirom komponenti u zavisnosti od sastava sloja i lezisnih uslova"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U slucaju povecanja koncentracije sone kiseline u kiselinskoj kompoziciji, verovatnoca formiranja naftnih muljeva zbog nekompatibilnosti kiselinske kompozicije sa naftom",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Raste",
+            "Opada",
+            "Ostaje na istom nivou",
+            "Naglo opada, zbog uzajamnog hemijskog delovanja kiseline sa visokomolekularnim komponentama nafte"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Brzina reakcije kiseline sa gasonosnim slojem u poredjenju sa naftonosnim je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Veca",
+            "Manja",
+            "Prakticno se ne razlikuje",
+            "Nije vrsena procena, zato sto se gasonosni slojevi ne podvrgavaju kiselinskim obradama"
+        ],
+        "Tacan": "Veca"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja od kiselina, pored sposobnosti da rastvara karbonate, ispoljava i svojstva stabilizatora gvozdja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Limunska",
+            "Sona",
+            "Isplacna",
+            "Fluorovodonicna"
+        ],
+        "Tacan": "Limunska"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Ukoliko u medijumu ima vise korozivno aktivnih komponenti, po pravilu",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Jedan korozivni proces pojacava drugi",
+            "Odigrava se onaj korozivni proces, koji je uslovljen korozivno aktivnijom komponentom",
+            "Korozivni procesi, uslovljeni svakom od komponenti, odvijaju se paralelno",
+            "Jedan korozivni proces koci odvijanje drugog"
+        ],
+        "Tacan": "Jedan korozivni proces pojacava drugi"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Prilikom odvijanja korozivnih procesa gvozdje",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Se oksiduje",
+            "Se redukuje",
+            "Menja agregatno stanje",
+            "Ne menja stepen oksidacije"
+        ],
+        "Tacan": "Se oksiduje"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja korozivno aktivna komponenta ne dolazi iz sloja tokom proizvodnje?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kiseonik",
+            "Vodonik-sulfid",
+            "Ugljen-dioksid",
+            "Metan"
+        ],
+        "Tacan": "Kiseonik"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Ispucalost usled sulfidne naponske korozije karakteristicna je za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vodonik-sulfidnu koroziju",
+            "Sve tipove korozije",
+            "Kiselinsku koroziju",
+            "Naslage gvozdje sulfida"
+        ],
+        "Tacan": "Vodonik-sulfidnu koroziju"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja metoda zastite od korozije podrazumeva najvece kapitalne troskove?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Koriscenje opreme u izvedbi otpornoj na koroziju",
+            "Periodicno doziranje inhibitora korozije",
+            "Kontinualno doziranje inhibitora korozije",
+            "Blagovremena zamena opreme kod koje je doslo do otkaza"
+        ],
+        "Tacan": "Koriscenje opreme u izvedbi otpornoj na koroziju"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Apsorpcija vodonika je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rastvaranje u metalu vodonika izdvojenog tokom elektrohemijske reakcije",
+            "Izdvajanje gasovitog vodonika pri odvijanju korozivnog procesa",
+            "Metoda zastite od korozije",
+            "Postupak koji omogucava povecanje mehanicke cvrstoce metalnih proizvoda"
+        ],
+        "Tacan": "Rastvaranje u metalu vodonika izdvojenog tokom elektrohemijske reakcije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja od korozivno aktivnih komponenti u normalnim uslovima ima najvecu rastvorljivost u vodi?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vodonik-sulfid",
+            "Ugljen-dioksid",
+            "Metan",
+            "Kiseonik"
+        ],
+        "Tacan": "Vodonik-sulfid"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Emulzioni rezim toka fluida u cevovodu",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjuje korozivnu agresivnost fluida kojim se manipulise",
+            "Pojacava korozivnu agresivnost fluida kojim se manipulise",
+            "Pojacava korozivnu agresivnost fluida kojim se manipulise, ali smanjuje erozivno habanje",
+            "Prakticno ne menja korozivnu agresivnost fluida kojim se manipulise"
+        ],
+        "Tacan": "Smanjuje korozivnu agresivnost fluida kojim se manipulise"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sa aspekta uticaja na korozivnu agresivnost fluida u naftnom sabirnom sistemu, prethodno odvajanje slobodne vode.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Obara korozivnu agresivnost",
+            "Pojacava korozivnu agresivnost",
+            "Ne utice na korozivnu agresivnost",
+            "Znatno pojacava korozivnu agresivnost"
+        ],
+        "Tacan": "Obara korozivnu agresivnost"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Gvozdje sulfid, koji se formira kao rezultat vodonik-sulfidne korozije",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Potpomaze formiranje skoljkastih ostecenja",
+            "Neutralna je supstanca, koja stiti povrsinu metala od agresivnih komponenti",
+            "Usporava brzinu korozije zbog sposobnosti da adsorbuje vodonik-sulfid",
+            "Raspada se na jone i prelazi u rastvor, pospesujuci samim tim dalje odvijanje korozije"
+        ],
+        "Tacan": "Potpomaze formiranje skoljkastih ostecenja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sulfat-redukujuce bakterije (srb) ispoljavaju svoju aktivnost:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U zonama stagnacije cevovoda i postrojenja",
+            "U vertikalnim celicnim rezervoarima za pripremljenu naftu",
+            "U opremi pumparnice na grmu busotina",
+            "U razmenjivacima toplote postrojenja za pripremu nafte"
+        ],
+        "Tacan": "U zonama stagnacije cevovoda i postrojenja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U slucaju porasta pritiska, brzina CO2 korozije",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Raste",
+            "Opada",
+            "Ne menja se",
+            "Najpre opada, a zatim raste"
+        ],
+        "Tacan": "Raste"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji deo cevovoda sabirnog sistema za naftu, po pravilu, u najvecoj meri biva ostecen korozijom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Donji deo",
+            "Gornji deo",
+            "Citava povrsina podjednako i ravnomerno",
+            "Korozivna ostecenja u istoj meri nastaju na bilo kom delu cevovoda i, po pravilu, lokalnog su karaktera"
+        ],
+        "Tacan": "Donji deo"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Porast rn vrednosti i temperature dovodi",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Porast rn vrednosti smanjuje, a porast temperature povecava brzinu korozije",
+            "Do povecanja brzine korozije",
+            "Do smanjenja brzine korozije",
+            "Porast rn vrednosti ubrzava, a porast temperature usporava koroziju"
+        ],
+        "Tacan": "Porast rn vrednosti smanjuje, a porast temperature povecava brzinu korozije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji se nacin borbe protiv hidrata uglavnom koristi na gasnim i gasno-kondenzatnim busotinama?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Primena metanola",
+            "Grejni kabl",
+            "Skrepovanje",
+            "Primena inhibitora hidrata kinetickog dejstva"
+        ],
+        "Tacan": "Primena metanola"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Antiaglomeranti (inhibitori hidrata)",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smanjuju dimenzije formiranih cestica hidrata",
+            "Usporavaju formiranje hidrata",
+            "Spustaju temperaturu pocetka formiranja hidrata",
+            "Podizu temperaturu pocetka formiranja hidrata"
+        ],
+        "Tacan": "Smanjuju dimenzije formiranih cestica hidrata"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji je razlog siroke rasprostranjenosti metanola kao inhibitora hidrata?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Visoka efikasnost uz nisku cenu",
+            "Mala doza i univerzalnost primene",
+            "Istorijski uhodana praksa",
+            "Pristupacnost i jednostavnost primene"
+        ],
+        "Tacan": "Visoka efikasnost uz nisku cenu"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja tehnologija pruza mogucnost zastite pribusotinske zone od kamenca?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Utiskivanje inhibitora u pribusotinsku zonu sloja",
+            "Periodicno doziranje inhibitora u kezing",
+            "Kontinualno doziranje inhibitora u kezing",
+            "Kontinualno doziranje inhibitora na usis pumpe"
+        ],
+        "Tacan": "Utiskivanje inhibitora u pribusotinsku zonu sloja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Postoje li rizici od stvaranja naslaga prilikom proizvodnje gasnog kondenzata sa visokim sadrzajem parafina (ako u sastavu prakticno uopste nema asfaltena i smola)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Formiranje naslaga je vrlo verovatno u slucaju pada temperature, pri cemu ce se taloziti upravo parafini",
+            "Stvaranje naslaga je malo verovatno, jer je za njihovo formiranje u sastavu ugljovodonicnih sirovina potrebno da postoje jos i asfalteni i smole",
+            "Verovatno je da ce doci do formiranja asfaltno-smolastih i parafinskih naslaga prilikom mesanja kondenzata sa naftom",
+            "Formiranje naslaga se nece dogoditi, zato sto se gasni kondenzat po sastavu bitno razlikuje od nafte"
+        ],
+        "Tacan": "Formiranje naslaga je vrlo verovatno u slucaju pada temperature, pri cemu ce se taloziti upravo parafini"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja je svrha povrsinski aktivnih materija (pam) u vodenom rastvoru za uklanjanje asfaltno-smolastih i parafinskih naslaga (asp) metodom termickih obrada?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pam potpomaze spiranje i odrzavanje cestica asp u stanju suspenzije",
+            "Pam potpomaze rastvaranje asp u vodenom rastvoru",
+            "Pam povecava toplotni kapacitet vodenog rastvora, sto mu odrzava visoku temperaturu duze vreme",
+            "Pam hemijski reaguje sa naslagama asp, cime ih uklanja"
+        ],
+        "Tacan": "Pam potpomaze spiranje i odrzavanje cestica asp u stanju suspenzije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Po zavrsenom kracovanju cevovoda, kojim se transportuje ugljovodonicna sirovina sa povecanim sadrzajem parafina, pritisak u cevovodu naglo opada, medjutim u kracerskoj slavini se prakticno ne registruju izvadjene naslage. sta nam to dokazuje?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "To znaci da se kracerom skinuti parafini ne lepe za kracer, vec se disperguju u fluidu i odnosi ih tok transportovane sirovine",
+            "To je malo verovatna situacija, posto se natalozeni i kracerom skinuti parafini moraju naci u kracerskoj slavini",
+            "To je znak da se natalozeni parafini opet rastvaraju u ugljovodonicnoj sirovini usled delovanja kracera",
+            "Verovatno je da kracer ne skida, vec kao da razmazuje parafine po zidovima cevi"
+        ],
+        "Tacan": "To znaci da se kracerom skinuti parafini ne lepe za kracer, vec se disperguju u fluidu i odnosi ih tok transportovane sirovine"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se analiza koristi za odredjivanje sastava asfaltno-smolastih i parafinskih naslaga (asp)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "SARA analiza",
+            "Komponentna analiza vode",
+            "Analiza sejanjem (na situ)",
+            "Rendgensko-fluorescentna analiza"
+        ],
+        "Tacan": "SARA analiza"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Rastvaraci hidrata su u sustini takodje i",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitori hidrata termodinamickog dejstva",
+            "Inhibitori asfaltno-smolastih i parafinskih naslaga",
+            "Rastvaraci asfaltno-smolastih i parafinskih naslaga",
+            "Inhibitori kamenca"
+        ],
+        "Tacan": "Inhibitori hidrata termodinamickog dejstva"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji je glavni nedostatak primene grejnog kabla u poredjenju sa kracovanjem u procesu borbe sa asfaltno-smolastim i parafinskim naslagama?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Visoki troskovi elektricne energije",
+            "Nuznost cestih zaustavljanja rada busotine",
+            "Komplikovana eksploatacija",
+            "Niska tehnoloska efikasnost"
+        ],
+        "Tacan": "Visoki troskovi elektricne energije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja metoda pojacava delovanje deemulgatora?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Podizanje temperature",
+            "Intenzivno mesanje",
+            "Spustanje pritiska u sistemu",
+            "Dodavanje sone kiseline"
+        ],
+        "Tacan": "Podizanje temperature"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja kategorija hemikalija pri znacajnom povecanju doze dovodi do porasta stabilnosti emulzija vode i nafte, te do prekida rada na objektima za pripremu nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitor korozije",
+            "Inhibitor kamenca",
+            "Rastvarac asfaltno-smolastih i parafinskih naslaga",
+            "Inhibitor asfaltno-smolastih i parafinskih naslaga"
+        ],
+        "Tacan": "Inhibitor korozije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U slucaju smanjenja kog parametra dolazi do povecanja ekonomske efikasnosti primene grejnog kabla u poredjenju sa kracovanjem u procesu borbe sa asfaltno-smolastim i parafinskim naslagama?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Perioda izmedju ciscenja",
+            "Temperature busotinskog fluida",
+            "Cene nafte",
+            "Dnevne proizvodnje nafte iz busotine"
+        ],
+        "Tacan": "Perioda izmedju ciscenja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sta pored molekula gasa ulazi u sastav gasnih hidrata?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Molekuli vode",
+            "Natrijum-hidroksid",
+            "Molekuli kiseonika",
+            "Nafta"
+        ],
+        "Tacan": "Molekuli vode"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja je glavna prednost kracovanja cevovoda u cilju ciscenja od asfaltno-smolastih i parafinskih naslaga u poredjenju sa doziranjem inhibitora?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Niza cena",
+            "Veca tehnoloska efikasnost",
+            "Znatno manji troskovi radne snage angazovane za obavljanje operacije",
+            "Nizi operativni troskovi"
+        ],
+        "Tacan": "Niza cena"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Hemikalija koje kategorije cesto predstavlja nenjutnovski fluid?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Blok-sastav",
+            "Deemulgator",
+            "Inhibitor kamenca",
+            "Inhibitor korozije"
+        ],
+        "Tacan": "Blok-sastav"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kod koje kategorije hemikalija, koriscenih u proizvodnji nafte, jednu od aktivnih osnova predstavljaju imidazolini?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitori korozije",
+            "Inhibitori hidrata",
+            "Inhibitori kamenca",
+            "Inhibitori asfaltno-smolastih i parafinskih naslaga"
+        ],
+        "Tacan": "Inhibitori korozije"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se od hemikalija moze 100% sastojati od aktivne osnove?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitor hidrata",
+            "Inhibitor korozije",
+            "Inhibitor asfaltno-smolastih i parafinskih naslaga",
+            "Kiselinska kompozicija"
+        ],
+        "Tacan": "Inhibitor hidrata"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji je uzrok talozenja kamenca prilikom mesanja razlicitih voda?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Proizvod koncentracija odgovarajucih jona je veci od proizvoda rastvorljivosti soli koje ulaze u njen sastav",
+            "Kriticna micelarna koncentracija dostize granicnu vrednost",
+            "Odvijanje oksidaciono-redukcionih reakcija izmedju odgovarajucih jona i molekula vode",
+            "Promena gustine formiranog rastvora"
+        ],
+        "Tacan": "Proizvod koncentracija odgovarajucih jona je veci od proizvoda rastvorljivosti soli koje ulaze u njen sastav"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje probleme izazivaju sulfat-redukujuce bakterije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Koroziju",
+            "Naslage gvozdje sulfida",
+            "Formiranje visoko viskoznih emulzija",
+            "Hidratne naslage"
+        ],
+        "Tacan": "Koroziju"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji faktori doprinose ubrzavanju korozije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Porast brzine protoka fluida cevovodima",
+            "Porast temperature",
+            "Smanjenje mineralizacije vode",
+            "Porast sadrzaja parafina u nafti"
+        ],
+        "Tacan": "Porast brzine protoka fluida cevovodima"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji faktori potpomazu formiranje hidrata?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rast pritiska",
+            "Pad temperature",
+            "Rast temperature",
+            "Pad pritiska"
+        ],
+        "Tacan": "Rast pritiska"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja resenja mogu da se koriste za cevovodni transport nafte sa visokom temperaturom stinjavanja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Termoizolacija cevovoda",
+            "Linijski grejaci na samom cevovodu",
+            "Elektrohemijska (katodna) zastita",
+            "Monitoring korozije i inteligentno kracovanje"
+        ],
+        "Tacan": "Termoizolacija cevovoda"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje se nehemijske metode primenjuju za uklanjanje asfaltno-smolastih i parafinskih naslaga?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kracovanje",
+            "Obrada vrelom naftom",
+            "Ispiranje inhibiranom sonom kiselinom",
+            "Primena tubinga sa zastitnom prevlakom"
+        ],
+        "Tacan": "Kracovanje"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koja se resenja primenjuju za sprecavanje problema korozije tubinga?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Primena tubinga u izvedbi otpornoj na koroziju",
+            "Primena tubinga sa zastitnom prevlakom",
+            "Primena savitljivog tubinga",
+            "Primena pakera"
+        ],
+        "Tacan": "Primena tubinga u izvedbi otpornoj na koroziju"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje se metode, pored deemulgatora, koriste na stanicama za pripremu nafte u cilju razbijanja emulzija vode i nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Primena elektro-dehidratora",
+            "Zagrevanje emulzije",
+            "Primena antipenusavaca",
+            "niskotemperaturna separacija"
+        ],
+        "Tacan": "Primena elektro-dehidratora"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje su tehnike primenjive za uklanjanje hidratnih naslaga?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Podizanje temperature",
+            "Obaranje pritiska",
+            "Podizanje pritiska",
+            "obaranje temperature"
+        ],
+        "Tacan": "Podizanje temperature"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje pokazatelje, pored fizicko-hemijskih, treba ocenjivati za inhibitore kamenca koji se doziraju u busotinu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kompatibilnost sa lezisnom vodom",
+            "Termostabilnost na lezisnoj temperaturi",
+            "Sposobnost rastvaranja u odnosu na kalcit",
+            "Sposobnost zadrzavanja gvozdja"
+        ],
+        "Tacan": "Kompatibilnost sa lezisnom vodom"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Specificni pokazatelji, koji se primenjuju za ocenjivanje rastvaraca asfaltno-smolastih i parafinskih naslaga, jesu",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Temperatura paljenja",
+            "Sposobnost isoljavanja",
+            "Maseni udeo osnovne supstance",
+            "Zastitni efekat"
+        ],
+        "Tacan": "Temperatura paljenja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje etape prethode industrijskoj primeni inhibitora asfaltno-smolastih i parafinskih naslaga?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Probno testiranje na terenu",
+            "Laboratorijska ispitivanja",
+            "Testovi na ispitnom stolu",
+            "Uporedna testiranja"
+        ],
+        "Tacan": "Probno testiranje na terenu"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Po kojim se pokazateljima vrsi procena tehnoloske efikasnosti deemulgatora na objektu za pripremu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Maseni udeo soli hlora u nafti",
+            "Maseni udeo vode u nafti",
+            "Maseni udeo parafina u nafti",
+            "Rezidualni sadrzaj hemikalije"
+        ],
+        "Tacan": "Maseni udeo soli hlora u nafti"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "\"vreme urezimljavanja\" je pokazatelj koji odrazava efikasnost sledecih kategorija hemikalija",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Radni fluidi za gusenje",
+            "Blok-sastavi",
+            "Inhibitori kamenca",
+            "Inhibitori korozije"
+        ],
+        "Tacan": "Radni fluidi za gusenje"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji pokazatelji svedoce o neefikasnom dejstvu inhibitora kamenca prilikom zastite potapajuce opreme?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pad dnevne proizvodnje iz busotine",
+            "Porast strujnih opterecenja na ESP",
+            "Otkaz busotine zbog parametra R-0",
+            "Rast pritiska u busotinskom vodu"
+        ],
+        "Tacan": "Pad dnevne proizvodnje iz busotine"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje se metode koriste za zastitu proizvodnih busotina od kamenca?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Doziranje na usis ESP pumpe pomocu kapilarne cevi",
+            "Kontinualno doziranje u kezing",
+            "Povremene udarne obrade visoko produktivnih busotina",
+            "Doziranje u busotinski vod"
+        ],
+        "Tacan": "Doziranje na usis ESP pumpe pomocu kapilarne cevi"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje tehnologije primene kapsuliranih hemikalija u busotinama vi znate?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povremeno (sarzno) doziranje hemikalija u kezing specijalnim uredjajima",
+            "Koriscenje busotinskih kontejnera",
+            "Primena kapilarnih cevi",
+            "Stavljanje u zumf (slobodan prostor) busotine"
+        ],
+        "Tacan": "Povremeno (sarzno) doziranje hemikalija u kezing specijalnim uredjajima"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji pokazatelji ukazuju na opasnost supstanci od pozara i eksplozija?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Temperatura spontanog paljenja",
+            "Temperatura paljenja",
+            "Temperatura pocetka stvaranja dima (dimna tacka)",
+            "Tacka stinjavanja"
+        ],
+        "Tacan": "Temperatura spontanog paljenja"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji fizicko-hemijski pokazatelji kiselinske kompozicije treba da se odrede prilikom laboratorijskih ispitivanja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Gustina",
+            "Tacka stinjavanja",
+            "Maseni udeo vode",
+            "Tacka bljeska (zapaljivosti)"
+        ],
+        "Tacan": "Gustina"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Najvazniji normirani fizicko-hemijski pokazatelji inhibitora korozije jesu",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kinematicki viskozitet na temperaturi od minus 40 s",
+            "Tacka stinjavanja",
+            "Dinamicki viskozitet na temperaturi od 20 s",
+            "Tacka paljenja u zatvorenom tiglu"
+        ],
+        "Tacan": "Kinematicki viskozitet na temperaturi od minus 40 s"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Toplotne metode se primenjuju za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Uklanjanje asfaltno-smolastih i parafinskih naslaga",
+            "Uklanjanje hidrata",
+            "Uklanjanje kamenca",
+            "Uklanjanje kalcita"
+        ],
+        "Tacan": "Uklanjanje asfaltno-smolastih i parafinskih naslaga"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji su osnovni nedostaci inhibitora hidrata - metanola?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Velike doze",
+            "Velika toksicnost",
+            "Niska efikasnost",
+            "Visoka cena"
+        ],
+        "Tacan": "Velike doze"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje osobine odlikuju naslage kalcita?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rastvorljivi su u hlorovodonicnoj kiselini",
+            "Imaju kristalnu strukturu",
+            "Nisu rastvorljivi u hlorovodonicnoj kiselini",
+            "Imaju amorfnu strukturu"
+        ],
+        "Tacan": "Rastvorljivi su u hlorovodonicnoj kiselini"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Od kojih faktora zavisi efikasnost rastvaraca asfaltno-smolastih i parafinskih naslaga (asp)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Od temperature",
+            "Od sastava asp",
+            "Od pritiska",
+            "Od doze inhibitora kamenca"
+        ],
+        "Tacan": "Od temperature"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Odabir kojih hemikalija se vrsi na realnim (ne modelovanim) medijumima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rastvarac asfaltno-smolastih i parafinskih naslaga",
+            "Inhibitor asfaltno-smolastih i parafinskih naslaga",
+            "Inhibitor kamenca",
+            "Inhibitor korozije"
+        ],
+        "Tacan": "Rastvarac asfaltno-smolastih i parafinskih naslaga"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Odabir kojih hemikalija se vrsi na modelovanom medijumu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitor kamenca",
+            "Inhibitor korozije",
+            "Inhibitor asfaltno-smolastih i parafinskih naslaga",
+            "Deemulgator"
+        ],
+        "Tacan": "Inhibitor kamenca"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Najverovatnija mesta formiranja gasnih hidrata su",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sabirni cevovodi za naftu",
+            "Tubing i erupcioni uredjaji proizvodnih busotina",
+            "Cevovodi sistema za odrzavanje lezisne energije",
+            "Razmenjivaci toplote na postrojenjima za pripremu nafte"
+        ],
+        "Tacan": "Sabirni cevovodi za naftu"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Za doziranje kojih hemikalija se primenjuju dozir-pumpe?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitor kamenca",
+            "Inhibitor talozenja parafina",
+            "Rastvarac kamenca",
+            "Rastvarac asfaltno-smolastih i parafinskih naslaga"
+        ],
+        "Tacan": "Inhibitor kamenca"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje od nabrojanih varijanti mogu biti svrstane u ciljeve delovanja na naftni sloj utiskivanjem vode?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecanje lezisnog pritiska",
+            "Povecanje iskoriscenja nafte iz sloja",
+            "Povecanje tempa degazacije proizvedenog fuida",
+            "Zbrinjavanje otpadnih"
+        ],
+        "Tacan": "Povecanje lezisnog pritiska"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Sta spada u prirodne emulgatore koje dovode do stvaranja stabilnih emulzija?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Smole",
+            "Asfalteni",
+            "Nafteni",
+            "Vodonik"
+        ],
+        "Tacan": "Smole"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "U procese preciscavanja radnih fluida za gusenje spadaju",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Flokulacija",
+            "Koagulacija",
+            "Rastvaranje",
+            "Kolmatacija"
+        ],
+        "Tacan": "Flokulacija"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Kod kojih se busotina primenjuju kiselinske obrade u cilju intenziviranja dotoka?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kod naftnih",
+            "Kod gasnih",
+            "Samo kod naftnih",
+            "Samo kod naftnih, proizvodnih i injekcionih"
+        ],
+        "Tacan": "Kod naftnih"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koje metode povecanja dubine prodiranja kiseline u sloj postoje, a da su primenjive na karbonatni kolektor?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Emulgacija kiseline u ugljovodonicnom medijumu",
+            "Povecanje viskoziteta kompozicije",
+            "Podizanje temperature obrade",
+            "Smanjenje viskoziteta kompozicije"
+        ],
+        "Tacan": "Emulgacija kiseline u ugljovodonicnom medijumu"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Koji su razlozi primene isplacne kiseline za kiselinsku obradu terigenog kolektora, umesto ciste HF?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Mesavina kiselina rastvara stenu bolje nego svaka kiselina pojedinacno",
+            "Odrzavanje neophodnog nivoa pH vrednosti i sprecavanje formiranja sekundarnih taloga",
+            "HCl se dodaje da bi se smanjila aktivnost kiselinske kompozicije i produzilo vreme reagovanja radi sto boljeg prodiranja u sloj",
+            "Niza cena, jer je HF visestruko skuplja od HCl"
+        ],
+        "Tacan": "Mesavina kiselina rastvara stenu bolje nego svaka kiselina pojedinacno"
+    },
+    {
+        "Sekcija": "Hemizacija",
+        "Pitanje": "Od kojih parametara zavisi efikasnost kiselinske obrade sloja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Od celokupnosti izvlacenja produkata reakcije kiseline iz sloja",
+            "Od dubine prodiranja kiseline u sloj",
+            "Od vremena sazrevanja pripremljene kiselinske kompozicije pred upotrebu",
+            "Od posedovanja paketa vazecih dozvola i saglasnosti za kiselinsku kompoziciju"
+        ],
+        "Tacan": "Od celokupnosti izvlacenja produkata reakcije kiseline iz sloja"
+    }
+]

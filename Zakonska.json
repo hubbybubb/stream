@@ -1,0 +1,386 @@
+[
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda u toku busenja i osvajanja i ispitivanja busotine, oko usca busotine zona opasnosti od pozara mora da iznosi najmanje:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "15 m",
+            "30 m",
+            "25 m",
+            "7.5 m"
+        ],
+        "Tacan": "30 m"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda pri eksploataciji nafte i zemnih gasova, oko usca busotine zona opasnosti od pozara mora da iznosi najmanje:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "30 m",
+            "15 m",
+            "7.5 m",
+            "25 m"
+        ],
+        "Tacan": "7.5 m"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda oko uredjaja za sabiranje i transport nafte i zemnih gasova za zatvoreni sistem, zona opasnosti od pozara mora da iznosi najmanje:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "7.5 m od tog uredjaja",
+            "25 m od tog uredjaja",
+            "15 m od tog uredjaja",
+            "30% od visine tornja"
+        ],
+        "Tacan": "15 m od tog uredjaja"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda oko prenosnih rezervoara za dizel-goriva, maziva i ulja u buradima, kapaciteta do 5 m3 za zatvoreni sistem, zona opasnosti od pozara mora da iznosi najmanje:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "10 m od ivice rezervoara",
+            "7.5 m od ivice rezervoara",
+            "5 m od ivice rezervoara",
+            "15 m od ivice rezervoara"
+        ],
+        "Tacan": "10 m od ivice rezervoara"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda posle zavrsene eksploatacije nafte, zemnih gasova i slojnih voda, radovima na likvidaciji busotine mora se obezbediti:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Medjusobna izolacija slojeva ugljovodonika i vodonosnih slojeva",
+            "Medjusobna izolacija slojeva ugljovodonika i vodonosnih slojeva, ispitivanje hermeticnosti eksploatacione kolone, ciscenje okoline busotine i omogucavanje da se zemljiste koristi za drugu namenu",
+            "Odsecanje kolone zastitnih cevi do dubine od najmanje 1,5 m i zatvaranje usca busotine zastitnom kapom, Medjusobna izolacija slojeva ugljovodonika i vodonosnih slojeva, ciscenje okoline busotine i omogucavanje da se zemljiste koristi za drugu namenu",
+            "Ciscenje okoline busotine i omogucavanje da se zemljiste koristi za drugu namenu, Medjusobna izolacija slojeva ugljovodonika i vodonosnih slojeva"
+        ],
+        "Tacan": "Odsecanje kolone zastitnih cevi do dubine od najmanje 1,5 m i zatvaranje usca busotine zastitnom kapom, Medjusobna izolacija slojeva ugljovodonika i vodonosnih slojeva, ciscenje okoline busotine i omogucavanje da se zemljiste koristi za drugu namenu"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda objekti za eksploataciju nafte, zemnih gasova i slojnih voda ne smeju biti udaljeni manje od:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "10 m - od ivice javnih objekata i stambenih zgrada;\n 30 m - od ivice pojasa, javnih saobracajnica i zastitnog pojasa dalekovoda i telefonskih linija.\n",
+            "30 m - od ivice javnih objekata i stambenih zgrada;\n 15 m - od ivice pojasa, javnih saobracajnica i zastitnog pojasa dalekovoda i telefonskih linija.\n",
+            "30 m - od ivice javnih objekata i stambenih zgrada;\n 10 m - od ivice pojasa, javnih saobracajnica i zastitnog pojasa dalekovoda i telefonskih linija.\n",
+            "15 m - od ivice javnih objekata i stambenih zgrada;\n 7.5 m - od ivice pojasa, javnih saobracajnica i zastitnog pojasa dalekovoda i telefonskih linija.\n"
+        ],
+        "Tacan": "30 m - od ivice javnih objekata i stambenih zgrada;\n 10 m - od ivice pojasa, javnih saobracajnica i zastitnog pojasa dalekovoda i telefonskih linija.\n"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda prenosni rezervoari za naftu ili naftne derivate, koji se koriste pri obradi busotina ili pri drugim rudarskim radovima u busotini, moraju biti:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pokriveni",
+            "Otkriveni",
+            "Opremljeni sigurnosnim ventilom",
+            "Izradjeni u EX izvedbi"
+        ],
+        "Tacan": "Pokriveni"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda ako se nepropusnost kolone zastitnih cevi ispituje metodom praznjenja busotine, ispitivanje se vrsi stvaranjem depresije koja iznosi:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "50% od pritiska koji stvara hidrostaticki stub fluida u busotini, a rezultat ispitivanja je zadovoljavajuci ako posle dva sata nije bilo dotoka fluida u busotinu",
+            "50% od pritiska koji stvara hidrostaticki stub fluida u busotini, a rezultat ispitivanja je zadovoljavajuci ako posle pola sata nije bilo dotoka fluida u busotinu",
+            "50% od pritiska koji stvara hidrostaticki stub fluida u busotini, a rezultat ispitivanja je zadovoljavajuci ako posle pola sata pad pritiska nije veci od 20%",
+            "20% od pritiska koji stvara hidrostaticki stub fluida u busotini, a rezultat ispitivanja je zadovoljavajuci ako posle dva sata nije bilo dotoka fluida u busotinu"
+        ],
+        "Tacan": "50% od pritiska koji stvara hidrostaticki stub fluida u busotini, a rezultat ispitivanja je zadovoljavajuci ako posle dva sata nije bilo dotoka fluida u busotinu"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda motori sa unutrasnjim sagorevanjem, koji se koriste pri busenju i osvajanju i ispitivanju busotina, moraju biti takve konstrukcije da:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svojim usisnim uredjajima ne mogu izazvati nepotpuno sagorevanje zapaljivih smesa gasova ili para",
+            "Svojim usisnim i izduvnim uredjajima i drugim svojim delovima mogu izazvati delimicno sagorevanje smesa gasova ili para",
+            "Svojim usisnim i izduvnim uredjajima i drugim svojim delovima ne mogu izazvati paljenje zapaljivih smesa gasova ili para",
+            "Sve navedeno"
+        ],
+        "Tacan": "Svojim usisnim i izduvnim uredjajima i drugim svojim delovima ne mogu izazvati paljenje zapaljivih smesa gasova ili para"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Sta je radno mesto sa povecanim rizikom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Radno mesto gde se obavlja tezak fizicki posao",
+            "Radno mesto sa kliznim povrsinama",
+            "Radno mesto na kojem nisu primenjene mere za BZR",
+            "Radno mesto, odnosno poslovi utvrdjeni Aktom o proceni rizika gde i pored primenjenih mera postoje okolnosti koje mogu da ugroze zdravlje i bezbednost zaposlenog"
+        ],
+        "Tacan": "Radno mesto, odnosno poslovi utvrdjeni Aktom o proceni rizika gde i pored primenjenih mera postoje okolnosti koje mogu da ugroze zdravlje i bezbednost zaposlenog"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Minimalna obavezna licna zastitna oprema koja je propisana na lokacijama NIS a.d. je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Slem, zastitne naocare, zastitno odelo i zastitne cipele",
+            "Slem, sigurnosni pojas, zastitne rukavice i maska",
+            "Slem, zastitno odelo i zastitne cipele",
+            "Slem, zastitne naocare i zastitne cipele"
+        ],
+        "Tacan": "Slem, zastitne naocare, zastitno odelo i zastitne cipele"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Zaposleni i odgovorna lica koja se ne pridrzavaju utvrdjenih mera bezbednosti i zdravlja na radu, zastite od pozara i drugih mera utvrdjenih zakonom, cine:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Gresku u radu i prekrsaj po zakonu",
+            "Krivicno delo",
+            "Tezu povredu radne obaveze",
+            "Tezu povredu radne obaveze, a u nekim slucajevima i krivicno delo"
+        ],
+        "Tacan": "Gresku u radu i prekrsaj po zakonu"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Pozare zapaljivih gasova mozemo gasiti:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svim raspolozivim sredstvima",
+            "Samo prahom i vodom",
+            "Samo prahom i ugljendioksidom",
+            "Samo penom"
+        ],
+        "Tacan": "Samo prahom i ugljendioksidom"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Koji gasovi se mogu detektovati rucnim gas detektorima koje posedujemo u UPS-u?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "H2S, CO, smesa zapaljivih ugljovodonika i koncentracija o2",
+            "Smesa zapaljivih ugljovodonika i koncentracija o2",
+            "CO2",
+            "Sve navedeno"
+        ],
+        "Tacan": "H2S, CO, smesa zapaljivih ugljovodonika i koncentracija o2"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Koje su karakteristike gasa CO?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tezi je od vazduha, zapaljiv i eksplozivan",
+            "Nije toksican, nastaje raspadanjem biomase",
+            "Gas bez boje, mirisa i ukusa. Laksi od vazduha. Izuzetno toksican jer se 300x brze i jace veze za hemoglobin od o2. Zapaljiv i eksplozivan. Produkt nepotpunog sagorevanja. Moze biti prisutan i u proizvodnim busotinama.",
+            "Nista od navedenog"
+        ],
+        "Tacan": "Gas bez boje, mirisa i ukusa. Laksi od vazduha. Izuzetno toksican jer se 300x brze i jace veze za hemoglobin od o2. Zapaljiv i eksplozivan. Produkt nepotpunog sagorevanja. Moze biti prisutan i u proizvodnim busotinama."
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Sta su i sta sadrze SDS liste?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "SDS lista je obavezni dokument koji se dobija pri sistematskom pregledu zaposlenih",
+            "To je isprava o kontrolisanju autodizalice koju izdaje ovlascena institucija",
+            "SDS liste su sigurnosno-tehnicki dokumenti za rad sa opasnim hemikalijama. Sadrze opis fizicko-tehnickih karakteristika hemikalija, nacin njihovog transporta, skladistenja, cuvanja i koriscenja kao i postupke u slucaju akcidenata/incidenata. Takodje sadrze i obaveznu LZO prilikom njihove manipulacije",
+            "Nista od navedenog"
+        ],
+        "Tacan": "SDS liste su sigurnosno-tehnicki dokumenti za rad sa opasnim hemikalijama. Sadrze opis fizicko-tehnickih karakteristika hemikalija, nacin njihovog transporta, skladistenja, cuvanja i koriscenja kao i postupke u slucaju akcidenata/incidenata. Takodje sadrze i obaveznu LZO prilikom njihove manipulacije"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Rad na visini predstavljaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve aktivnosti u prostorima u kojem je obavezna upotreba licnih zastitnih sredstava",
+            "Sve aktivnosti prilikom kojih postoji opasnost od pada lica sa visine vece od 1,8 metra od podloge usled toga sto radni prostor nije zasticen od pada sa visine",
+            "Sve aktivnosti u prostorima u kojima postoji opasnost pada ljudi, opreme i predmeta sa visine.",
+            "Sve aktivnosti prilikom kojih postoji opasnost od pada lica sa visine vece od 3 metra od podloge usled toga sto radni prostor nije zasticen od pada sa visine"
+        ],
+        "Tacan": "Sve aktivnosti prilikom kojih postoji opasnost od pada lica sa visine vece od 1,8 metra od podloge usled toga sto radni prostor nije zasticen od pada sa visine"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Zona 0 opasnosti od eksplozije predstavlja:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ugrozen prostor u kome eksplozivna smesa ne postoji trajno niti je ucestalost njenog postojanja velika, ali se ona ipak moze ocekivati i u normalnim pogonskim situacijama",
+            "Neugrozeni prostor je onaj prostor u kojem se ne ocekuje prisustvo eksplozivne atmosfere u kolicinama koje bi zahtevale posebne mere opreza",
+            "Ugrozeni prostor u kome eksplozivna smesa postoji trajno ili se pojavljuje cesto, ili traje duze od 100 i vise sati godisnje",
+            "Ugrozeni prostor u kome je verovatnoca postojanja eksplozivne smese samo u nenormalnim pogonskim situacijama (havarije, curenja i sl.)"
+        ],
+        "Tacan": "Ugrozeni prostor u kome eksplozivna smesa postoji trajno ili se pojavljuje cesto, ili traje duze od 100 i vise sati godisnje"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Pre izvodjenja radnih aktivnosti neophodno je sprovesti neposrednu procenu rizika?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Da, uvek",
+            "Da, ukoliko rukovodilac naglasi da je to neophodno, bez obzira da li je neophodno izdati DZR",
+            "Samo ako je u pitanju rad na visini ili izvodjenje toplih poslova",
+            "Samo za aktivnosti koje ukljucuju vise grupa izvrsilaca"
+        ],
+        "Tacan": "Da, uvek"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Saglasno pravilniku o tehnickim normativima pri istrazivanju i eksploataciji nafte, zemnih gasova i slojnih voda prenosni rezervoari za naftu ili naftne derivate, koji se koriste pri obradi busotina ili pri drugim rudarskim radovima u busotini, moraju biti:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pokriven",
+            "Otkriven",
+            "Opremljen sigurnosnim ventilom",
+            "Iradjen u EX izvedbi"
+        ],
+        "Tacan": "Pokriven"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Na koliko se vrsi kontrola i servisiranje uredjaja za gasenje pozara?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na svakih 6 meseci",
+            "Na svakih 3 meseci",
+            "Na svakih 9 meseci",
+            "Na svakih 12 meseci"
+        ],
+        "Tacan": "Na svakih 6 meseci"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Koliko iznosi zakonska sankcija za zaposlenog koji ne primenjuje propisane mere, nenamenski koristi sredstva i ukoliko ne obavesti poslodavca o nepravilnostima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Od 150 000 do 500 000 dinara",
+            "Od 80 000 do 100 000 dinara",
+            "Od 10 000 do 20 000 dinara",
+            "Od 15 000 do 50 000 dinara"
+        ],
+        "Tacan": "Od 10 000 do 20 000 dinara"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Vremenski period vazenja dozvole za rad i visokorizicne radne aktivnosti ?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ne duze od 24 h",
+            "48 h",
+            "12 h",
+            "Trajno za oblasti koje ne obuhvataju elektro radove"
+        ],
+        "Tacan": "Ne duze od 24 h"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Bez kog dokumenta izvodjac radova ne pocinje aktivnosti?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Aneksa ugovora",
+            "HSE Sporazuma",
+            "Ugovora o radu",
+            "Ugovora o sprovodjenju HSE aktivnosti"
+        ],
+        "Tacan": "HSE Sporazuma"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Sa kojim uputstvom zaposleni moraju biti upoznati za aktivnosti koje sprovode na svom radnom mestu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "UKP",
+            "URP",
+            "UZBR",
+            "UBR"
+        ],
+        "Tacan": "UBR"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Koje lice moze da vrsi Intervencije na elektricnoj instalaciji?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Moze da vrsi samo obuceni i ovlasceni elektricar",
+            "Moze da vrsi samo obuceni i ovlasceni Rukovodilac Brigade",
+            "Moze da vrsi samo obuceni i ovlasceni radnik BSS",
+            "Moze da vrsi samo obuceni i ovlasceni Tehnicar tehnolog"
+        ],
+        "Tacan": "Moze da vrsi samo obuceni i ovlasceni elektricar"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Korektivne mere nakon zavrsene HSE istrage saglasno BSCAT lancu proizilaze iz?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Utvrdjenih cinjenica (dokaza), Neposrednog uzroka, Osnovnog uzroka, Nalaza vestaka.",
+            "Utvrdjenih cinjenica (dokaza), Neposrednog uzroka, Osnovnog uzroka, Izvestaja glavnog istrazitelja.",
+            "Utvrdjenih cinjenica (dokaza), Neposrednog uzroka, Osnovnog uzroka, Rezultata tehnicke istrage.",
+            "Utvrdjenih cinjenica (dokaza), Neposrednog uzroka, Osnovnog uzroka, Sistemskog uzroka."
+        ],
+        "Tacan": "Utvrdjenih cinjenica (dokaza), Neposrednog uzroka, Osnovnog uzroka, Sistemskog uzroka."
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Navesti clanove komisije za istrazivanje HSE dogadjaja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Predsednik komisije, Glavni istrazivac, Direktor Bloka/Funkcije.",
+            "Predsednik komisije, Glavni istrazivac, HSE lice.",
+            "Predsednik komisije, Glavni istrazivac, clanovi.",
+            "Predsednik komisije, Glavni istrazivac, clanovi, Rudarski inspektor."
+        ],
+        "Tacan": "Predsednik komisije, Glavni istrazivac, clanovi."
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Na osnovu klasifikatora HSE dogadjaja koje kategorije HSE dogadjaja su obavezno predmet istrage?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Veliki, Srednji, HiPo, Po nalog inspekcije rada.",
+            "Veliki, Srednji, HiPo, Svaki nalog inspekcijskih organa.",
+            "Veliki, Srednji,  Po nalog rudarskog inspektora.",
+            "Veliki, Srednji, HiPo."
+        ],
+        "Tacan": "Veliki, Srednji, HiPo, Svaki nalog inspekcijskih organa."
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Kako se gasi osoba zahvacena plamenom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vodom",
+            "Apratom sa CO2",
+            "Aparatom tipa S-A",
+            "Prekrivacem ili delom odece"
+        ],
+        "Tacan": "Prekrivacem ili delom odece"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Desifrujte PEM 125-117:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Potapajuci elektromotor, sekcioni; Nominalni napon - 1250V; Precnik kucista -117mm",
+            "Potapajuci elektromotor, sekcioni; Nominalni napon - 1250V; Precnik vratila rotora -11.7mm",
+            "Potapajuci elektromotor, sekcioni; Snaga motora - 125kW; Precnik kucista -117mm",
+            "Potapajuci elektromotor, sekcioni; Precnik kucista - 125; Snaga motora-117mm"
+        ],
+        "Tacan": "Potapajuci elektromotor, sekcioni; Snaga motora - 125kW; Precnik kucista -117mm"
+    },
+    {
+        "Sekcija": "Zakonska regulativa i HSE",
+        "Pitanje": "Koja vrednost mikrotvrdoce tvrdih cestica je dozvoljena za ESP (Mosova skala)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "1",
+            "7",
+            "5",
+            "10"
+        ],
+        "Tacan": "5"
+    }
+]

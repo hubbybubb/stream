@@ -1,0 +1,1562 @@
+[
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "U Nodal Analizi jednacina za VLP krivu za resenje na dnu busotine je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Psep+deltaPhf+deltaPvf=Pwf",
+            "Psep+deltaPhf=Pwf",
+            "Pr-deltaPr+deltaPper=Pwf",
+            "Pr-deltaPr-deltaPper-deltaPwf=Pwf"
+        ],
+        "Tacan": "Psep+deltaPhf+deltaPvf=Pwf"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Na osnovu koje od ponudjenih korelacija se bira odgovarajuca granulacija zasipa za gravel pack sistem?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sumioto",
+            "Kazemi",
+            "Saucier",
+            "Dummy"
+        ],
+        "Tacan": "Saucier"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "U zavisnosti od mineralizacije vode (na standardnoj temperaturi i konstantnom parcijalnom pritisku CO2) za vode mineralizacije preko 40 g/l brzina korozije se?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ne menja se",
+            "Smanjuje se",
+            "Povecava se",
+            "Ne moze se odrediti"
+        ],
+        "Tacan": "Smanjuje se"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Ukoliko je parcijalni pritisak H2S 1 MPa brzina korozije u slucaju da je temperatura veca od 150 C  je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Srednja",
+            "Niska",
+            "Visoka",
+            "Temperatura nema uticaj na brzinu korozije"
+        ],
+        "Tacan": "Niska"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koji tip ispitivanja moze dati najkompletniju sliku o karakteristikama kolektora sa aspekta razrade lezista i proizvodnje?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Karotazna merenja",
+            "Hidrodinamicka ispitivanja",
+            "Analiza jezgra",
+            "Geohemijska ispitivanje"
+        ],
+        "Tacan": "Hidrodinamicka ispitivanja"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "U toku izvodjenja testa porasta pritiska u kolektorima koji su definisani kao slabovezani peskovi vreme stabilizacije pritiska u odnosu na kolektore koji su kategorisani kao brece je?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tip kolektora nema veze sa vremenom stabilizacije",
+            "Jednako",
+            "Duze",
+            "Krace"
+        ],
+        "Tacan": "Krace"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Kada postoje podaci samo 1-og merenja protoka i pritiska na dnu, koju metodu za odredjivanje IPR, ne mozemo koristiti?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vogel",
+            "PI",
+            "Fetkovic",
+            "Modifikovanu Vogel"
+        ],
+        "Tacan": "Fetkovic"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Interperatacijom HD merenja utvrdjeno je da je vrednost SKIN = +3, koju aktivnost treba preduzeti?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Reperforacija",
+            "Hidraulicko frakturiranje",
+            "Potvrditi vrednost pseudoskina",
+            "Kiselinska obrada"
+        ],
+        "Tacan": "Potvrditi vrednost pseudoskina"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "U slucaju niskog lezisnog pritiska koji je 80% od pocetnog lezisnog pritiska i povoljnog geotermalnog gradijenta 0.06 C /m pri eksploataciji gasa kao paker fluid moze se koristiti?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Slojna voda",
+            "Nije potreban paker fluid",
+            "Inertni gasovi",
+            "Nafta"
+        ],
+        "Tacan": "Inertni gasovi"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Radna (operativna) tacka sistema busotina-sloj u Nodal analizi je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Presek krive karakteristike utoka lezisnih fluida (IPR) i krive vertikalnog protoka (VLP)",
+            "Odnos optimalnog pritiska na dnu i ciljanog pritiska na dnu",
+            "Odnos depresije i indeksa produktivnosti",
+            "Odnos ciljanog pritiska na dnu i ocekivane proizvodnje"
+        ],
+        "Tacan": "Presek krive karakteristike utoka lezisnih fluida (IPR) i krive vertikalnog protoka (VLP)"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "U Nodal analizi koja od resenja se uzimaju najcesce za analizu rada sistema sloj-busotina-sabirni sistem:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Resenje na dnu i na dubinskoj dizni",
+            "Resenje na glavi i u sabirnom sistemu",
+            "Resenje na dnu i na glavi",
+            "Resenje na dnu i u sabirnom sistemu"
+        ],
+        "Tacan": "Resenje na dnu i na glavi"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koja od jednacina Darcy je tacna:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Q=k*A*deltaP/mi*L",
+            "Q=k2*A*deltaP/mi*L",
+            "Q=k*A*deltaP/mi*(L)3",
+            "Q=k2*A*deltaP/\u03c1*L"
+        ],
+        "Tacan": "Q=k*A*deltaP/mi*L"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Sta je GLR?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odnos proizvedene kolicine nafte i proizvedene kolicine gasa",
+            "Odnos proizvedene kolicine fluida i proizvedene kolicine gasa",
+            "Odnos proizvedene kolicine gasa i proizvedene kolicine nafte",
+            "Odnos proizvedene kolicine gasa i proizvedene kolicine fluida"
+        ],
+        "Tacan": "Odnos proizvedene kolicine gasa i proizvedene kolicine fluida"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Na kom pritisku dolazi do izdvajanja rastvorenog gasa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pritisku na dnu",
+            "Lezisnom pritisku",
+            "Pritisku zasicenja",
+            "Optimalnoj depresiji"
+        ],
+        "Tacan": "Pritisku zasicenja"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "PI Jednacina, jednacina produktivnosti je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "J = Q/(Pwf-Pr)",
+            "J = Q/(Pr-Pwf)",
+            "J = Q/(Pb-Pwf)",
+            "J = Q/(Pt-Pwf)"
+        ],
+        "Tacan": "J = Q/(Pr-Pwf)"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koji je uslov za koriscenje PI jednacine:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pr<=Pwf>=Pb",
+            "Pr>=Pwf>=Pb",
+            "Pr=Pwf>=Pb",
+            "Pr>=Pwf<=Pb"
+        ],
+        "Tacan": "Pr>=Pwf>=Pb"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Za proracun IPR krive po Vogelu koji je minimalan set podataka koji je potrebno izmeriti:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Lezisni pritisak, depresija, protok",
+            "Lezisni pritisak, pritisak zasicenja",
+            "Lezisni pritisak, pritisak na dnu, protok",
+            "Lezisni pritisak, depresija"
+        ],
+        "Tacan": "Lezisni pritisak, pritisak na dnu, protok"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koji test se najcesce koristi da bi se odredila vrednosti SKIN-a?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Limit test",
+            "Test interferemncije",
+            "Puls test",
+            "Test porasta pritiska"
+        ],
+        "Tacan": "Test porasta pritiska"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Interperatacijom HD merenja utvrdjeno je da je vrednost SKIN = - 7, koju aktivnost treba preduzeti?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hidraulicno frakturiranje",
+            "Kiselinsku obradu",
+            "Probni prijem sloja",
+            "Monitoring rada busotine"
+        ],
+        "Tacan": "Monitoring rada busotine"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "The higher the API gravity of a liquid, the higher its density",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "Zavisi od temperature",
+            "Zavisi od viskoziteta"
+        ],
+        "Tacan": "Netacno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Well produces 30 m3/day of oil and 20 m3/day of water. What is the water cut of the well?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            0.6,
+            0.4,
+            0.33,
+            0.75
+        ],
+        "Tacan": 0.4
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "In a deviated well, the Measured Depth (MD) is _____ the tacno Vertical Depth (TVD).",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Less than",
+            "Greater than",
+            "Equal to",
+            "Reciprocal to"
+        ],
+        "Tacan": "Greater than"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "1.01325 barg is the same as:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "0 bara",
+            "2.0265 bara",
+            "1 bara",
+            "2.066 bara"
+        ],
+        "Tacan": "2.0265 bara"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "0 barg is the same as:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "1 bara",
+            "1.01325 bara",
+            "0 bara",
+            "1.033 bara"
+        ],
+        "Tacan": "1.01325 bara"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Which of the following statements is tacno for a column of fluid? (select all that apply)",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pressure at the bottom depends on the cross-section of the column.",
+            "Shortening the height of the column by half will double the pressure.",
+            "The wider the column, the greater the pressure at the bottom.",
+            "Doubling the density of the fluid will double the pressure at the bottom."
+        ],
+        "Tacan": "Doubling the density of the fluid will double the pressure at the bottom."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Which is the correct measure to use when calculating hydrostatic pressure at the bottom of a well?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Measured depth.",
+            "Hydrostatic pressure does not depend on well depth.",
+            "Total annular capacity.",
+            "True vertical depth."
+        ],
+        "Tacan": "True vertical depth."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "What is the minimum pressure gradient needed to balance a formation pressure of 156 bar at the 1300 m level of a well?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "0.0097 bar/m",
+            "0.103 bar/m",
+            "0.12 bar/m",
+            "0.203 bar/m"
+        ],
+        "Tacan": "0.12 bar/m"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "High oil viscosity aids in reservoir flow.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "Zavisi od pritiska",
+            "Zavisi od temperature"
+        ],
+        "Tacan": "Netacno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Prior to saturation with oil and gas, a reservoir rock's porosity is saturated with:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Air",
+            "Water, usually salt water",
+            "Nothing (void)",
+            "Oil"
+        ],
+        "Tacan": "Water, usually salt water"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "What is the hydrocarbon saturation of a reservoir with 30% Sw?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            0.7,
+            0.3,
+            1.0,
+            0.0
+        ],
+        "Tacan": 0.7
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Porosity is defined as:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "The ability of fluids to move through a rock formation",
+            "The percentage of recoverable hydrocarbons",
+            "The void space within the formation rock matrix",
+            "The ability of water to move through a rock formation"
+        ],
+        "Tacan": "The void space within the formation rock matrix"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "The dew point curve on pressure-temperature diagram defines conditions when a mixture acts as a liquid and if pressure is reduced gas is liberated to form a two-phase system.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "Zavisi od viskoziteta",
+            "Zavisi od vlaznosti gasa"
+        ],
+        "Tacan": "Netacno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "In pressure-temperature diagram of a mixture, the point joining the bubble point and dew point curves is the critical point.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "Zavisi od polozaja tacke",
+            "Zavisi od tipa fluida"
+        ],
+        "Tacan": "Tacno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "\tIn pressure-temperature diagram of a mixture, the cricondentherm is defined as the maximum temperature above which no gas can be formed regardless of pressure.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "Zavisi od polozaja tacke",
+            "Zavisi od tipa fluida"
+        ],
+        "Tacan": "Netacno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Solution gas oil ratio (Rs) is increasing from initial reservoir pressure to saturation pressure.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "Prvo raste, a zatim opada",
+            "Prvo opada, a zatim raste"
+        ],
+        "Tacan": "Netacno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Oil formation volume factor (Bo) is increasing from initial reservoir pressure to saturation pressure.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "Prvo raste, a zatim opada",
+            "Prvo opada, a zatim raste"
+        ],
+        "Tacan": "Tacno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Pseudodamage is caused by: (select all that apply)",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nearwellbore zone restriction due to formation damage.",
+            "Partial penetration, perforation and turbulence.",
+            "Partial penetration and perforation.",
+            "Perforation and turbulence."
+        ],
+        "Tacan": "Partial penetration, perforation and turbulence."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "In collecting fluid samples at the surface for PVT analysis, separate volumes of oil and gas are taken at separator conditions and recombined to give a composite fluid sample.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "Tacno ukoliko je temperatura fluida manja od  15,556 \u00b0C",
+            "Netacno ukoliko je temperatura fluida manja od  15,556 \u00b0C"
+        ],
+        "Tacan": "Tacno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "If the bubble-point pressure is 150 bar and reservoir pressure is 220 bar, Vogel IPR could be used to calculate well inflow performance.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tacno",
+            "Netacno",
+            "Tacno ukoliko je merenje vrseno bar na 2 razlicita precnika dizne",
+            "Netacno ukoliko je merenje vrseno bar na 2 razlicita precnika dizne"
+        ],
+        "Tacan": "Tacno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "\t\nHow many test data is usually required for back pressure gas well IPR?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "One",
+            "Two",
+            "Three or four",
+            "Exactly five"
+        ],
+        "Tacan": "Three or four"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "How many active nodal points can be used for making system analysis?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "One",
+            "Two",
+            "Three or four",
+            "Exactly five"
+        ],
+        "Tacan": "One"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "What is a wellhead choke used for?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "To control flow rate and back pressure",
+            "To decrease bottom hole flowing pressure",
+            "To increase production rate",
+            "To decrease production rate"
+        ],
+        "Tacan": "To control flow rate and back pressure"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "What is range of critical pressure ratio for choke flow?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Downstream (P2) versus Upstream pressure (P1)  (P2/P1) > 0.6",
+            "Downstream versus Upstream pressure (P2/P1) = 0.5",
+            "Downstream (P2) versus Upstream pressure (P1) is P2/P1 = 1.0",
+            "Downstream (P2) versus Upstream pressure (P1) is P2/P1 = 2.0"
+        ],
+        "Tacan": "Downstream versus Upstream pressure (P2/P1) = 0.5"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "How to prevent hydrates forming in production system?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Use chemicals/Inhibitors",
+            "Increase pressure",
+            "Decrease pressure",
+            "Increase production rate"
+        ],
+        "Tacan": "Use chemicals/Inhibitors"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "What is required to predict liquid loading in gas well?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Calculate minimum bottom hole flowing pressure using data on surface.",
+            "Calculate gas velocity and critical gas rate.",
+            "Calculate gas velocity and critical liquid rate.",
+            "Calculate bubble point pressure using data on surface."
+        ],
+        "Tacan": "Calculate gas velocity and critical gas rate."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "ESP is what type of pump?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Centrifugal",
+            "Reciprocal",
+            "Positive displacement",
+            "None of these"
+        ],
+        "Tacan": "Centrifugal"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Sucker Rod Pump is what type of pump?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Centrifugal",
+            "Reciprocal",
+            "Positive displacement",
+            "None of these"
+        ],
+        "Tacan": "Positive displacement"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Perforation Gun phasing is defined as which of the following?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "The angle between charges",
+            "The angle of the gun deviation at the depth of perforating",
+            "The number of shots per meter",
+            "None of these answers"
+        ],
+        "Tacan": "The angle between charges"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Subsurface safety valves can be run in the well by which of the following means?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Wireline",
+            "Tubing, Wireline",
+            "Crane, Tubing, Wireline",
+            "None of these"
+        ],
+        "Tacan": "Tubing, Wireline"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Surface-controlled subsurface safety valves are normally operated by:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Electric wireline",
+            "Pneumatic control conduit",
+            "Hydraulic control conduit",
+            "None of these"
+        ],
+        "Tacan": "Hydraulic control conduit"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "\tWhich tool is used to isolate productions zones and protect the casing from high pressures?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Blowout preventer",
+            "Lubricator",
+            "Christmas tree",
+            "Packer"
+        ],
+        "Tacan": "Packer"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "What role does workover fluid play in well control?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Preventing the flow of formation fluids into the well bore.",
+            "Preventing downhole assembly of overheating.",
+            "Clearing away cuttings and bringing them up to the surface.",
+            "All of these."
+        ],
+        "Tacan": "Preventing the flow of formation fluids into the well bore."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Which of the following statements best describes the major objectives of a primary cementing job?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "To completely isolate the wellbore from oil, gas, and water zones.",
+            "To seal off sloughing formations.",
+            "To secure the pipe in the hole.",
+            "To seal off production formations."
+        ],
+        "Tacan": "To completely isolate the wellbore from oil, gas, and water zones."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Which method of perforating is recommendable for reservoir with low reservoir pressure:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Overbalance perforating",
+            "Underbalance perforating",
+            "Overbalance perforating with oil based mud",
+            "Underbalance perforating with oil based mud"
+        ],
+        "Tacan": "Underbalance perforating"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Which of following statements are tacno for Open Hole completion:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Entire reservoir section can be left open.",
+            "No formation damage from cement.",
+            "Easy to deepen well.",
+            "All of these."
+        ],
+        "Tacan": "All of these."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "\tWhich of following statements are tacno for Cased and perforated completions:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Good zonal isolation.",
+            "Good well integrity - if properly cemented.",
+            "Perforations by-pass the damaged zone (if engineered correctly).",
+            "All of these."
+        ],
+        "Tacan": "All of these."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "What means J-55 In tubing nomenclature:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Connection",
+            "Metallurgy",
+            "Grade",
+            "Weight"
+        ],
+        "Tacan": "Grade"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Packer setting mechanisms:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Mechanical, Hydraulic, Pneumatic",
+            "Hydraulic",
+            "Pneumatic",
+            "Electrical/wireline, Mechanical, Hydraulic"
+        ],
+        "Tacan": "Electrical/wireline, Mechanical, Hydraulic"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Which of devices/tools and techniques are available to allow communication between the annulus and the tubing:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sliding Side Door / Sliding Sleeve",
+            "All of these",
+            "Perforating tubing or tubing punch",
+            "Side Pocket Mandrels with gas lift valve, chemical injection valve or downhole choke"
+        ],
+        "Tacan": "All of these"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Effects which can occur if the well conditions change in tubing/packer system:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Piston, Bulleting",
+            "Ballooning, Bulleting, Buckling",
+            "Buckling, Piston, Ballooning",
+            "Bulleting"
+        ],
+        "Tacan": "Buckling, Piston, Ballooning"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "In tubing/packer system next effects can occur: the piston, buckling and ballooning effect and all are a result of _____ changes.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Temperature and pressure",
+            "Temperature",
+            "Pressure",
+            "Density"
+        ],
+        "Tacan": "Pressure"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "If tubing is free to move (packerless system) and hot fluid is pumped down tubing, tubing will:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Elongate",
+            "Shrink",
+            "None of these",
+            "Elongate than shrink"
+        ],
+        "Tacan": "Elongate"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "In which direction should you proceed if an H2S leak is detected?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Downwind (in the direction in which the wind is blowing)",
+            "Upwind (against the direction of the wind)",
+            "Stay where you are",
+            "None of these"
+        ],
+        "Tacan": "Upwind (against the direction of the wind)"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "H2S is:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Toxic",
+            "Flammable",
+            "Corrosive",
+            "All of these"
+        ],
+        "Tacan": "All of these"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "The effect of H2S on materials can be reduced by using:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Inhibitors",
+            "Corrosion resistant materials",
+            "Protective coatings",
+            "All of these"
+        ],
+        "Tacan": "All of these"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koja vrsta komplikacija se pojavljuje pri velikoj koncentraciji ugljen-dioksida u proizvedenom fluidu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "CO2 korozija",
+            "Xidratni cepovi",
+            "Naslage neorganskih soli",
+            "Sulfidne naslage"
+        ],
+        "Tacan": "CO2 korozija"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koji tip komplikacija se pretezno susrece u procesima proizvodnje gasa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Hidrati",
+            "Talozenje kamenca",
+            "Asfaltno-smolaste i parafinske naslage",
+            "Bioloska kontaminiranost"
+        ],
+        "Tacan": "Hidrati"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Glavni energeticar je odgovoran za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Neprekidno napajanje proizvodnih objekata elektricnom energijom",
+            "Neprekidno napajanje proizvodnih objekata vodnim resursima",
+            "Kontrolisanje evidencije proizvodnih sredstava",
+            "Sve nabrojano"
+        ],
+        "Tacan": "Neprekidno napajanje proizvodnih objekata elektricnom energijom"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Dajte definiciju monitoringa razrade lezista.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "To je kompleksni sistem pracenja stanja polja u cilju kako operativnog, tako i dugorocnog upravljanja procesom racionalne proizvodnje ugljovodonicnih sirovina.",
+            "To je periodicno prikupljanje informacija o stanju tehnoloskih objekata u sklopu polja.",
+            "To je analiza podataka o parametrima angazovane opreme, cevovoda, busotina i druge opreme.",
+            "To je sistem koji obezbedjuje upravljanje tehnoloskim procesima uz primenu principa davanja povratnih informacija."
+        ],
+        "Tacan": "To je kompleksni sistem pracenja stanja polja u cilju kako operativnog, tako i dugorocnog upravljanja procesom racionalne proizvodnje ugljovodonicnih sirovina."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Dajte definiciju pojma \"grupni sastav nafte\"",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "To je kolicinski odnos zasebnih grupa ugljovodonika i drugih jedinjenja u njoj.",
+            "To je spisak grupa supstanci, koje se sadrze u nafti.",
+            "To je spisak grupa supstanci, koje imaju istu temperaturu kljucanja.",
+            "To je spisak grupa supstanci, koje nemaju istu temperaturu kljucanja."
+        ],
+        "Tacan": "To je kolicinski odnos zasebnih grupa ugljovodonika i drugih jedinjenja u njoj."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Dajte definiciju gasnog faktora",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odnos tekuce proizvodnje gasa i tekuce proizvodnje nafte",
+            "Kolicina proizvedenog gasa",
+            "Procenat sadrzaja gasa u nafti",
+            "Procenat sadrzaja nafte u proizvedenom gasu"
+        ],
+        "Tacan": "Odnos tekuce proizvodnje gasa i tekuce proizvodnje nafte"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Dajte definiciju naftno-gasnog polja",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Naftno-gasno polje je naftno polje sa gasnom kapom",
+            "Naftno-gasno polje je naftno polje, u cijoj je nafti prisutna gasna komponenta",
+            "Naftno-gasno polje je polje koje sadrzi naftu i gas",
+            "Naftno-gasno polje je polje koje sadrzi naftu, gas i lezisnu vodu"
+        ],
+        "Tacan": "Naftno-gasno polje je naftno polje sa gasnom kapom"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Dajte definiciju naftno-gasnokondenzatnog polja",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Naftno-gasno-kondenzatno polje je naftno-gasno polje u cijem se gasnom delu nalazi znacajna kolicina kondenzata",
+            "Naftno-gasno-kondenzatno polje je naftno polje u cijoj nafti je rastvorena znacajna kolicina kondenzata i gasa",
+            "Naftno-gasno-kondenzatno polje je polje u cijem sastavu se nalaze: gas, neznatna kolicina kondenzata i nafta",
+            "Naftno-gasno-kondenzatno polje je prevashodno naftno polje u cijem sastavu se nalaze gas i kondenzat"
+        ],
+        "Tacan": "Naftno-gasno-kondenzatno polje je naftno-gasno polje u cijem se gasnom delu nalazi znacajna kolicina kondenzata"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Dajte definiciju ugljovodonicnog kondenzata",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ugljovodonicni kondenzat je proizvod koji, uglavnom, predstavlja smesu ugljovodonika s3\u2014s8, kao i tezih ugljovodonika.",
+            "Ugljovodonicni kondenzat je proizvod koji, uglavnom, predstavlja smesu ugljovodonika s3\u2014s8 sa naftom i gasom.",
+            "Ugljovodonicni kondenzat je proizvod koji predstavlja rastvor ugljovodonika s3\u2014s8 sa naftom i gasom.",
+            "Ugljovodonicni kondenzat je proizvod koji predstavlja mehanicku mesavinu nafte, vode i gasa."
+        ],
+        "Tacan": "Ugljovodonicni kondenzat je proizvod koji, uglavnom, predstavlja smesu ugljovodonika s3\u2014s8, kao i tezih ugljovodonika."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Za organizovanje i upravljanje poslovima u oblasti kapitalne izgradnje angazuje se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sektor kapitalne izgradnje",
+            "Sektor za planiranje i ekonomiku",
+            "Sektor glavnog masinskog inzenjera",
+            "Sektor glavnog inzenjera"
+        ],
+        "Tacan": "Sektor kapitalne izgradnje"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Za prevoz nafte vodom koriste se",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Barze i tankeri",
+            "Barze i motorni camci",
+            "Motorni camci i tankeri",
+            "Krstarice"
+        ],
+        "Tacan": "Barze i tankeri"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Zbog cega se vrsi injektiranje vode na naftnim poljima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Cilju istiskivanja nafte vodom iz slojeva i podrzavanja pri tome lezisne energije na zadatom nivou",
+            "U cilju razdvajanja naftne i gasnih komponenti",
+            "U cilju crpljenja gasne kape u prvoj fazi razrade naftno-gasnog polja",
+            "U cilju rastvaranja soli sadrzanih u nafti"
+        ],
+        "Tacan": "Cilju istiskivanja nafte vodom iz slojeva i podrzavanja pri tome lezisne energije na zadatom nivou"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Zivotni ciklus polja obuhvata:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pronalazenje, istrazivanje, izradu infrastrukture, proizvodnju, likvidaciju, konzervaciju",
+            "Izradu infrastrukture, proizvodnju, likvidaciju, konzervaciju",
+            "Ispitivanja, izradu infrastrukture, proizvodnju, likvidaciju, konzervaciju",
+            "Projektovanje, busenje, izradu infrastrukture, proizvodnju, likvidaciju"
+        ],
+        "Tacan": "Pronalazenje, istrazivanje, izradu infrastrukture, proizvodnju, likvidaciju, konzervaciju"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Iz kakvih izvora se vode utiskuju u sloj u cilju podrzavanja lezisne energije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Otkrivene vodene povrsine, podzemne vode, vodonosni horizonti, lezisne vode, atmosferske",
+            "Otkrivene vodene povrsine, podzemne vode, vodonosni horizonti, lezisne vode, atmosferske, destilovana voda",
+            "Podzemne vode, vodonosni horizonti, lezisne vode, atmosferske, destilovana voda",
+            "Vodonosni horizonti, lezisne vode"
+        ],
+        "Tacan": "Otkrivene vodene povrsine, podzemne vode, vodonosni horizonti, lezisne vode, atmosferske"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Kako rukovodi glavni inzenjer?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Preko sektora koji su mu direktno potcinjeni",
+            "Preko sektora glavnog masinskog inzenjera",
+            "Preko sektora glavnog energeticara",
+            "Preko proizvodnog sektora"
+        ],
+        "Tacan": "Preko sektora koji su mu direktno potcinjeni"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Kako se dele proizvodni gasni sabirni sistemi prema stepenu centralizacije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Individualni sabirni sistem; grupni sabirni sistem; centralizovani sabirni sistem",
+            "Individualni sabirni sistem; grupni sabirni sistem;",
+            "Grupni sabirni sistem; centralizovani sabirni sistem",
+            "Individualni sabirni sistem; centralizovani sabirni sistem"
+        ],
+        "Tacan": "Individualni sabirni sistem; grupni sabirni sistem; centralizovani sabirni sistem"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koje supstance, prisutne u proizvedenom fluidu, imaju najvecu agresivnost u odnosu na celicne cevi i opremu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rastvori vodonik-sulfida; ugljena kiselina; lezisna mineralizovana voda",
+            "Rastvori vodonik-sulfida; ugljena kiselina; parafini",
+            "Ugljena kiselina; lezisna mineralizovana voda; bitumeni",
+            "Rastvori vodonik-sulfida; ugljena kiselina; parafini; asfalti"
+        ],
+        "Tacan": "Rastvori vodonik-sulfida; ugljena kiselina; lezisna mineralizovana voda"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koje pumpe se koriste za pumpanje nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Centrifugalne",
+            "Vijcane",
+            "Potapajuce",
+            "Klipne"
+        ],
+        "Tacan": "Centrifugalne"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koje primese moze da sadrzi proizvedena nafta?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Asfalti, sumporna jedinjenja, parafinski ugljovodonici",
+            "Asfalti, soli, sumporna jedinjenja",
+            "Sumporna jedinjenja, sulfidi, ugljovodonici",
+            "Parafinski ugljovodonici, soli i sulfidi"
+        ],
+        "Tacan": "Asfalti, sumporna jedinjenja, parafinski ugljovodonici"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koje metode se koriste za sprecavanje parafinskih naslaga u busotinskim cevovodima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve navedeno",
+            "Unutrasnje oblaganje cevovoda (staklo, emajl itd.)",
+            "Mehanicko ciscenje sa primenom gumenih kuglica-razdelivaca",
+            "Uvodjenje rastvaraca, proparivanje"
+        ],
+        "Tacan": "Sve navedeno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koja sredstva se koriste za zastitu od korozije unutrasnjosti cevi i opreme na poljima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Unutrasnji zastitni premazi; tehnoloske metode",
+            "Spoljasnji zastitni premazi, inhibitori korozije, tehnoloske metode",
+            "Spoljasni i unutrasnji zastitni premazi, tehnoloske metode",
+            "Zastitni premazi, elektro hemijska zastita"
+        ],
+        "Tacan": "Unutrasnji zastitni premazi; tehnoloske metode"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koje tehnoloske metode se koriste za zastitu proizvodne opreme od korozije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odrzavanje rezima brzine protoka gasova i fluida; uklanjanje vodenih klastera (akumulirane vode); smanjenje sadrzaja vode u toku; primena materijala otpornih na koroziju",
+            "Odrzavanje laminarnog rezima strujanja gasova i fluida; uklanjanje produkata korozije sa unutrasnje povrsine zidova cevi",
+            "Primena materijala otpornih na koroziju koji se nanose na unutrasnju povrsinu cevi; primena neutralizatora aktivnih korozivnih supstanci",
+            "Primena termicke obrade nakon varenja spojeva cevi sa unutrasnjim polimernim premazima; stvaranje laminarnog rezima strujanja toka gasova i fluida"
+        ],
+        "Tacan": "Odrzavanje rezima brzine protoka gasova i fluida; uklanjanje vodenih klastera (akumulirane vode); smanjenje sadrzaja vode u toku; primena materijala otpornih na koroziju"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koji su procesni objekti ukljuceni u sistem pripreme rastvorenog gasa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sistemi separacije gasa, gasovodi, kompresorske stanice, objekti utilizacije i pomocni objekti",
+            "Gas-generatori, pumparnice, izmenjivaci toplote",
+            "Sistemi za utecnjavanje gasa, prikljucni cevovodi",
+            "Baklje, separatorske jedinice, gasna brojila"
+        ],
+        "Tacan": "Sistemi separacije gasa, gasovodi, kompresorske stanice, objekti utilizacije i pomocni objekti"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koji se tipovi busotina koriste prilikom razrade lezista?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Proizvodne, injekcione, opservacione, specijalne.",
+            "Proizvodne, injekcione, opservacione.",
+            "Konturno-istrazne, proizvodne, injekcione, opservacione.",
+            "Istrazne, konturno-istrazne, proizvodne, injekcione, opservacione, specijalne."
+        ],
+        "Tacan": "Proizvodne, injekcione, opservacione, specijalne."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koji se sistemi koriste za injektiranje vode u sloj?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pumparnice na grmu; punktovi za distribuciju vode; vodovodi visokog pritiska;  injekcione busotine.",
+            "Pumparnice na grmu i punktovi za distribuciju vode.",
+            "Vodovodi visokog pritiska;  injekcione busotine.",
+            "Pumparnice na grmu; punktovi za distribuciju vode; vodovodi visokog pritiska."
+        ],
+        "Tacan": "Pumparnice na grmu; punktovi za distribuciju vode; vodovodi visokog pritiska;  injekcione busotine."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koje kriterijume treba da ispunjavaju projektna resenja za podizanje infrastrukturnih objekata na naftnim i gasnim poljima?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "1)maksimalno smanjenje kapitalnih troskova i uticaja na zivotnu sredinu; 2)povecanje pouzdanosti eksploatacije; 3)uzimanje u obzir transportnih sema dopreme robe i seme snabdevanja strujom u procesu izrade infrastrukture i svih faza razrade lezista",
+            "1)maksimalno smanjenje kapitalnih troskova i uticaja na zivotnu sredinu; 2)uzimanje u obzir transportnih sema dopreme robe i seme snabdevanja strujom u procesu izrade infrastrukture i svih faza razrade lezista",
+            "1)maksimalno smanjenje kapitalnih troskova i uticaja na zivotnu sredinu; 2)povecanje pouzdanosti eksploatacije; 3)povecanje iskoriscenja fluida iz lezista; 4)uzimanje u obzir transportnih sema dopreme robe i seme snabdevanja strujom u procesu izrade infrastrukture i svih faza razrade lezista",
+            "1)maksimalno smanjenje kapitalnih troskova i uticaja na zivotnu sredinu; 2)povecanje pouzdanosti eksploatacije; 3)povecanje iskoriscenja fluida iz lezista"
+        ],
+        "Tacan": "1)maksimalno smanjenje kapitalnih troskova i uticaja na zivotnu sredinu; 2)povecanje pouzdanosti eksploatacije; 3)uzimanje u obzir transportnih sema dopreme robe i seme snabdevanja strujom u procesu izrade infrastrukture i svih faza razrade lezista"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koje zahteve treba da zadovoljava sistem za sabiranje i transport nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Mora obezbedjivati hermetizovano sabiranje i transportovanje proizvedenog busotinskog fluida u projektovanoj kolicini",
+            "Mora obezbedjivati sistem cevovoda za sve razradne busotine",
+            "Mora obezbedjivati kontrolu protoka proizvedenog fluida za svaku busotinu",
+            "Mora obezbedjivati maksimalno smanjenje gubitaka proizvedene nafte u procesu transporta"
+        ],
+        "Tacan": "Mora obezbedjivati hermetizovano sabiranje i transportovanje proizvedenog busotinskog fluida u projektovanoj kolicini"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koliki je maksimalni period probne eksploatacije naftnog ili gasnog polja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Najvise pet godina",
+            "Najvise tri godine",
+            "Zavisi od rezultata probne eksploatacije",
+            "Najvise cetiri godine"
+        ],
+        "Tacan": "Najvise pet godina"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koji je redosled faza proizvodnje nafte tokom eksploatacije busotine u zavisnosti od lezisnog pritiska (od najveceg ka najmanjem)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Eruptivno, gas-lift, pumpama",
+            "Gas-lift, eruptivno, pumpama",
+            "Gas-lift, pumpama, eruptivno",
+            "Pumpama, eruptivno, gas-lift"
+        ],
+        "Tacan": "Eruptivno, gas-lift, pumpama"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koja je uloga centralne sabirne stanice?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Obezbedjivanje pripreme nafte, gasa i vode za transport",
+            "Obezbedjivanje pripreme nafte, gasa i vode za transport, doziranja hemikalija.",
+            "Obezbedjivanje pripreme nafte zasicene gasom za transport, doziranja hemikalija.",
+            "Obezbedjivanje pripreme nafte, gasa i vode za transport, doziranja hemikalija, dovoda gasa na gasnu busotinu."
+        ],
+        "Tacan": "Obezbedjivanje pripreme nafte, gasa i vode za transport"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koji organizacioni deo organizuje i vrsi preventivno odrzavanje opreme?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sektor glavnog masinskog inzenjera",
+            "Geoloski sektor",
+            "Sektor kapitalne izgradnje",
+            "Sektor zastite na radu"
+        ],
+        "Tacan": "Sektor glavnog masinskog inzenjera"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Klasa supstanci, koje predstavljaju osnovne komponente nafte su:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ugljovodonici",
+            "Soli",
+            "Sulfidi",
+            "Ketoni"
+        ],
+        "Tacan": "Ugljovodonici"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Ko rukovodi radom svih pogona i laboratorija?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Glavni inzenjer",
+            "Glavni energeticar",
+            "Glavni geolog",
+            "Glavni masinski inzenjer"
+        ],
+        "Tacan": "Glavni inzenjer"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Na koliko se grupa dele cevovodi u proizvodnom pogonu prema karakteru transportovanog medijuma?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tri",
+            "Cetiri",
+            "Dve",
+            "Pet"
+        ],
+        "Tacan": "Tri"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Na koliko klasa se deli nafta prema sadrzaju sumpora?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na cetiri klase",
+            "Na dva klase",
+            "Na tri klase",
+            "Na pet klasa"
+        ],
+        "Tacan": "Na cetiri klase"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Preduzece za proizvodnju nafte i gasa je odgovorno za:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kolicinu, kvalitet proizvedenog fluida i bezbednost izvodjenja radova",
+            "Kolicinu proizvedenog fluida",
+            "Kvalitet proizvedenog fluida",
+            "Bezbednost izvodjenja radova"
+        ],
+        "Tacan": "Kolicinu, kvalitet proizvedenog fluida i bezbednost izvodjenja radova"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Neprekidan i kvalitetan rad opreme obezbedjuje",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Glavni masinski inzenjer",
+            "Glavni energeticar",
+            "Glavni geolog",
+            "Glavni inzenjer"
+        ],
+        "Tacan": "Glavni masinski inzenjer"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Operacije pripreme vode za utiskivanje u busotinu obuhvataju sledece:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Bistrenje (koagulacija); dekarbonizacija; deferizacija; inhibiranje",
+            "Bistrenje (koagulacija) i inhibiranje",
+            "Dekarbonizacija i deferizacija",
+            "Deferizacija i inhibiranje"
+        ],
+        "Tacan": "Bistrenje (koagulacija); dekarbonizacija; deferizacija; inhibiranje"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Osnovni zadatak tehnoloskog odeljenja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Razrada lezista",
+            "Izrada normativne dokumentacije",
+            "Snabdevanje elektricnom energijom",
+            "Zastita zivotne sredine"
+        ],
+        "Tacan": "Razrada lezista"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Osnovne metode proizvodnje nafte su:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve sto je gore navedeno",
+            "Eruptivna",
+            "Gas-lift",
+            "Mehanicka"
+        ],
+        "Tacan": "Sve sto je gore navedeno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Osnovne etape izrade infrastrukture polja",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve nabrojano",
+            "Rasporedjivanje busotina",
+            "Odredjivanje redosleda busenja",
+            "Uspostavljanje rezima eksploatacije"
+        ],
+        "Tacan": "Sve nabrojano"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Sektor glavnog energeticara definise mere za",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Povecanje cos ?",
+            "Smanjenje cos ?",
+            "Povecanje sin ?",
+            "Smanjenje sin ?"
+        ],
+        "Tacan": "Povecanje cos ?"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Sektor zastite na radu kontrolise postovanje",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Pravila bezbednosti na radu",
+            "Busackih radova",
+            "Transportnih operacija",
+            "Ocuvanosti mtr"
+        ],
+        "Tacan": "Pravila bezbednosti na radu"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Sektor za planiranje i ekonomiku",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Razradjuje tekuce i perspektivne planove",
+            "Vodi evidenciju novcanih troskova",
+            "Obracunava zarade",
+            "Sve nabrojano"
+        ],
+        "Tacan": "Razradjuje tekuce i perspektivne planove"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Stene koje sadrze naftu",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve nabrojano",
+            "Pescar",
+            "Krecnjak",
+            "Dolomiti"
+        ],
+        "Tacan": "Sve nabrojano"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Priprema gasa u pogonu obuhvata sledece tehnoloske procese:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ciscenje od mehanickih necistoca; separaciju teskih ugljovodonika, separaciju vodonik-sulfida, ugljen-dioksida i susenje",
+            "Ciscenje od mehanickih necistoca; separaciju teskih ugljovodonika",
+            "Separaciju vodonik sulfida i ugljen-dioksida",
+            "Ciscenje od mehanickih necistoca i susenje"
+        ],
+        "Tacan": "Ciscenje od mehanickih necistoca; separaciju teskih ugljovodonika, separaciju vodonik-sulfida, ugljen-dioksida i susenje"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "U koje svrhe se koristi rezervoarski prostor na centralnim sabirnim stanicama?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za obezbedjivanje potrebnog obima zaliha pripremljene nafte",
+            "Za sakupljanje gasa",
+            "Za cuvanje protivpozarnih zaliha vode",
+            "Za separaciju nafte"
+        ],
+        "Tacan": "Za obezbedjivanje potrebnog obima zaliha pripremljene nafte"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Sa kojim ciljem se vrsi probna eksploatacija konturno-istraznih busotina?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U cilju preciziranja njihovih proizvodnih mogucnosti, utvrdjivanja sastava i fizicko-hemijskih svojstava lezisnih fluida, procene eksploatacionih karakteristika slojeva i promene ocenjivanih parametara tokom vremena",
+            "U cilju preciziranja njihovih proizvodnih mogucnosti, utvrdjivanja sastava i fizicko-hemijskih svojstava lezisnih fluida, dobijanja probnog fluida",
+            "U cilju preciziranja njihovih proizvodnih mogucnosti, utvrdjivanja sastava i fizicko-hemijskih svojstava lezisnih fluida, procene promene ocenjivanih parametara tokom vremena",
+            "U cilju utvrdjivanja sastava i fizicko-hemijskih svojstava lezisnih fluida, procene eksploatacionih karakteristika slojeva i promene pravca filtracionih tokova"
+        ],
+        "Tacan": "U cilju preciziranja njihovih proizvodnih mogucnosti, utvrdjivanja sastava i fizicko-hemijskih svojstava lezisnih fluida, procene eksploatacionih karakteristika slojeva i promene ocenjivanih parametara tokom vremena"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koliko faza obuhvata proces razrade naftnog lezista?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Cetiri",
+            "Dve",
+            "Tri",
+            "Pet"
+        ],
+        "Tacan": "Cetiri"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Navedite osnovne faze razrade lezista?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rasporedjivanje busotina, odredjivanje redosleda busenja, utvrdjivanje rezima eksploatacije polja",
+            "Istrazivacki radovi, rasporedjivanje busotina",
+            "Odredjivanje redosleda busenja, izrada infrastrukture polja",
+            "Utvrdjivanje rezima eksploatacije polja, izrada projekta izvodjenja radova"
+        ],
+        "Tacan": "Rasporedjivanje busotina, odredjivanje redosleda busenja, utvrdjivanje rezima eksploatacije polja"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Navedite redosled sabiranja nafte na polju u slucaju nedovoljnog pritiska na ustima busotina?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Grm busotina-amu-sabirna stanica za podizanje pritiska u sistemu (medjustanica)-centralna sabirna stanica",
+            "Grm busotina-sabirna stanica za podizanje pritiska u sistemu (medjustanica)-centralna sabirna stanica",
+            "Grm busotina-primopredajna stanica-amu-centralna sabirna stanica",
+            "Grm busotina-amu-centralna sabirna stanica"
+        ],
+        "Tacan": "Grm busotina-amu-sabirna stanica za podizanje pritiska u sistemu (medjustanica)-centralna sabirna stanica"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Pogon za pripremu i transport nafte vodi evidenciju nafte koja se priprema",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svakodnevno",
+            "Nedeljno",
+            "Mesecno",
+            "Kvartalno"
+        ],
+        "Tacan": "Svakodnevno"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Pogon za pripremu i transport nafte kontrolise",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Kvalitet otpremljene nafte",
+            "Kolicinu rastvorenog gasa",
+            "Bezbednost radova",
+            "Zastitu na radu"
+        ],
+        "Tacan": "Kvalitet otpremljene nafte"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Na osnovu cega se odredjuje broj busotina za busenje, njihova lokacija, namena, konstrukcija, redosled pustanja u rad/zaustavljanja?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Projektne dokumentacije o razradi lezista",
+            "Zahteva normativno-tehnicke dokumentacije",
+            "Rezima i uslova eksploatacije polja",
+            "Pravila industrijske bezbednosti"
+        ],
+        "Tacan": "Projektne dokumentacije o razradi lezista"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Cime se povezuju amu i proizvodne busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotinskim cevovodima",
+            "Naftnim i gasnim sabirnim cevovodima",
+            "Cevovodima za transport dehidrirane nafte",
+            "Busacim cevima"
+        ],
+        "Tacan": "Busotinskim cevovodima"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Sta odrazava koeficijent iskoriscenja nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odnos proizvedenog dela nafte i njene pocetne kolicine",
+            "Odnos proizvedene nafte i ukupne kolicine fluida",
+            "Odnos proizvedenih kolicina gasa i nafte",
+            "Odnos kolicina proizvedene nafte i slojne vode"
+        ],
+        "Tacan": "Odnos proizvedenog dela nafte i njene pocetne kolicine"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koje su glavne fizicke karakteristike nafte pri transportu cevovodom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Viskozitet, gustina",
+            "Molekularna masa",
+            "Gustina",
+            "Specificni toplotni kapacitet"
+        ],
+        "Tacan": "Viskozitet, gustina"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Etape proizvodnje nafte su:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Sve nabrojano",
+            "Razrada lezista",
+            "Sabiranje proizvedenog fluida",
+            "Eksploatacija busotina"
+        ],
+        "Tacan": "Sve nabrojano"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Na kojim je mestima zabranjeno postavljati postrojenja za pripremu nafte i gasa?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zabranjeno je postavljati ih na niskim i drugim delovima terena sa losim prirodnim provetravanjem, kao i u rejonima gde preovladjuju vetrovi brzine do 1 m/s, sa dugotrajnim ili cestim periodima bez vetra, inverzijama i maglama (godisnje preko 30-40%, zimi preko 50-60% dana).",
+            "Zabranjeno je postavljati ih na niskim i drugim delovima terena sa losim prirodnim provetravanjem, kao i u rejonima gde preovladjuju vetrovi brzine do 1 m/s i na lokacijama sa neprestanim zavodnjavanjem.",
+            "Zabranjeno je postavljati ih na niskim i drugim delovima terena sa neprestanim zavodnjavanjem, kao i u rejonima sa cestim periodima bez vetra, inverzijama i maglama (godisnje preko 30-40%, zimi preko 50-60% dana).",
+            "Zabranjeno je postavljati ih na niskim i drugim delovima terena sa losim prirodnim provetravanjem, kao i u rejonima gde preovladjuju vetrovi brzine do 2 m/s."
+        ],
+        "Tacan": "Zabranjeno je postavljati ih na niskim i drugim delovima terena sa losim prirodnim provetravanjem, kao i u rejonima gde preovladjuju vetrovi brzine do 1 m/s, sa dugotrajnim ili cestim periodima bez vetra, inverzijama i maglama (godisnje preko 30-40%, zimi preko 50-60% dana)."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Istrazne busotine su:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje su buse u cilju pronalazenja novih lezista nafte i gasa.",
+            "Busotine namenjene za utvrdjivanje lezista UV na neistrazenim teritorijama.",
+            "Prve busotine iz kojih je dobijen komercijalni dotok nafte.",
+            "Busotine koje su buse u cilju pronalazenja granica lezista nafte i gasa."
+        ],
+        "Tacan": "Busotine koje su buse u cilju pronalazenja novih lezista nafte i gasa."
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Busotine se prema nameni dele na sledece kategorije:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Istrazne, konturno-istrazne, razradne",
+            "Naftne, injekcione, ocenske",
+            "Proizvodne, utisne, za odlaganje",
+            "Proizvodne, razrdne"
+        ],
+        "Tacan": "Istrazne, konturno-istrazne, razradne"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Sta predstavlja masovno hidraulicko frakturiranje?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Frakturiranje sa ucescem propanta u kolicinama vecim od 100 t",
+            "frakturiranje sa ucescem propanta u kolicinama vecim od 300 t",
+            "frakturiranje sa ucescem propanta u kolicinama vecim od 50 t",
+            "frakturiranje sa ucescem propanta u kolicinama vecim od 80 t"
+        ],
+        "Tacan": "Frakturiranje sa ucescem propanta u kolicinama vecim od 100 t"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Koja metoda obrade je najbolja za parafin koji se formirao u tubingu busotine opremljenom esp / pcp ( bez grejnog kabla )",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Obrada pomocu savitljivog tubinga",
+            "Obrada pomocu alata na zici",
+            "Obrada automatskim cistacem parafina",
+            "Obrada deemulgatorom"
+        ],
+        "Tacan": "Obrada pomocu savitljivog tubinga"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Gde se ugradjuje ispusni ventil pumpe ESP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Iznad PP ventila",
+            "Ispod motora",
+            "Ispod pumpi",
+            "Nema pravila"
+        ],
+        "Tacan": "Iznad PP ventila"
+    },
+    {
+        "Sekcija": "Osnove nafte i gasa",
+        "Pitanje": "Sta predstavlja osnovni razlog razaranja busotinskih i sabirnih cevovoda?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Korozija",
+            "Parafin",
+            "Emulzija",
+            "Sve ponudjeno"
+        ],
+        "Tacan": "Korozija"
+    }
+]

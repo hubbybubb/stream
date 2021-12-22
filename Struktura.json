@@ -1,0 +1,1022 @@
+[
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U slucaju zamene nadzemnog dela PO zaustavljanje busotine vodi se kao:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "ROB-p",
+            "ROB-o",
+            "RNO",
+            "Nista od navedenog"
+        ],
+        "Tacan": "RNO"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Ukoliko je busotina imala u kliznoj godini sledeca zaustavljanja, u avgustu 2020 Prekid klipnih sipki, u decembru 2020 Otkaz potisnog ventila, u martu 2021 Nehermetican tubing, kada izlazi iz CRF?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Maj 2021",
+            "Avgust 2021",
+            "Septembar 2021",
+            "Decembar 2021"
+        ],
+        "Tacan": "Septembar 2021"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Ukoliko je koeficijent eksploatacije veci od 1, sta to znaci?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Neoptimalan rad aktivnog fonda",
+            "Nista od navedenog",
+            "Optimalan rad aktivnog fonda",
+            "Gresku u proracunu"
+        ],
+        "Tacan": "Gresku u proracunu"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Po klasifikatoru otkaza koji tip otkaza od navedenog ulazi u proracun MRP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "GTM",
+            "Nista od navedenog",
+            "Nerentabilni fond",
+            "Otkaz u VNR"
+        ],
+        "Tacan": "Nista od navedenog"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Prevremeni otkaz je otkaz PO:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Koja je radila od 1 do 365 dan-a",
+            "Koja je radila od 3 do 180 dan-a",
+            "Koja je radila od momenta pustanja na VNR do 180 dan-a",
+            "Koja je otkazala na VNR"
+        ],
+        "Tacan": "Koja je radila od 3 do 180 dan-a"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Kako se racuna planirano vreme rada aktivnog fonda?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "T rada plan= Koeficient eksploatacije*Aktivni fond*MRP",
+            "T rada plan= Koeficient eksploatacije*Aktivni fond*NNO",
+            "T rada plan= Koeficient eksploatacije*Aktivni fond",
+            "T rada plan= Koeficient eksploatacije*Aktivni fond*Kalendarsko vreme rada"
+        ],
+        "Tacan": "T rada plan= Koeficient eksploatacije*Aktivni fond*Kalendarsko vreme rada"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Koji otkazi se ne uzimaju u proracun MRP i NNO?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "GTA i nerentabilni fond",
+            "PPR, RNO,OPI, GTA i nerentabilni fond",
+            "PPR, RNO i OPI",
+            "PPR, RNO, OPI i nerentabilni fond"
+        ],
+        "Tacan": "PPR, RNO,OPI, GTA i nerentabilni fond"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Objasniti oznaku PCP pumpe 13E1300-HR.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "13- kapacitet PCP pumpe pri 100 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima",
+            "13- kapacitet PCP pumpe pri 200 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima",
+            "13- kapacitet PCP pumpe pri 1000 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima",
+            "13- kapacitet PCP pumpe pri 1300 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima"
+        ],
+        "Tacan": "13- kapacitet PCP pumpe pri 100 rpm, E- elastomer, 1300- napor pumpe, HR- rotor sa hidraulickim regulatorima"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Gde se ugradjuje Tag bar-a i koja je njegova uloga u sastavu kompozicije PCP?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Tag bar se ugradjuje ispod statora i glavna uloga mu je da se omoguci pravilno pozicioniranje rotora unutar statora.",
+            "Tag bar se ugradjuje ispod rotora i glavna uloga mu je da se omoguci pravilno pozicioniranje statora.",
+            "Neugradjuje se",
+            "Tag bar se ugradjuje ispod statora i glavna uloga mu je da se omoguci napor"
+        ],
+        "Tacan": "Tag bar se ugradjuje ispod statora i glavna uloga mu je da se omoguci pravilno pozicioniranje rotora unutar statora."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Prosecni aktivni fond (sdf) je.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Karakteristika grupe busotina (polja) za odredjeni period, koja pokazuje prosecan broj busotina u aktivnom fondu.",
+            "Prosecan broj busotina aktivnog fonda za odredjeni period.",
+            "Prosecan broj busotina neaktivnog fonda za odredjeni period.",
+            "Karakteristika grupe busotina (polja) za odredjeni period, koja pokazuje maksimalan broj busotina u aktivnom fondu."
+        ],
+        "Tacan": "Karakteristika grupe busotina (polja) za odredjeni period, koja pokazuje prosecan broj busotina u aktivnom fondu."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U metod dubinskog pumpanja spadaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje se eksploatisu primenom elektricnih, klipnih i hidraulickih dubinskih pumpi svih konstrukcija.",
+            "Busotine koje se eksploatisu utiskivanjem  komprimovanog gasa ili vazduha i primenom dubinskih pumpi.",
+            "Busotine koje se eksploatisu primenom hidraulickih, mehanickih i elektricnih pumpi svih konstrukcija.",
+            "Busotine koje se eksploatisu eruptivnom metodom."
+        ],
+        "Tacan": "Busotine koje se eksploatisu primenom elektricnih, klipnih i hidraulickih dubinskih pumpi svih konstrukcija."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Smenski zastoj (vsp) je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Vremenski period tokom kojeg je busotina bila u zastoju kracem od 24 sata, u kalendarskim danima.",
+            "Period vremena busotina koje rade u rezimu automatskog ponovnog ukljucivanja (akumulacija busotinskog fluida).",
+            "Kalendarsko vreme fonda naftnih busotina koje nisu proizvodile produkciju tokom zastoja u ocekivanju remonta.",
+            "Vremenski period tokom kojeg je busotina bila u zastoju kracem od 48 sati, u kalendarskim danima."
+        ],
+        "Tacan": "Vremenski period tokom kojeg je busotina bila u zastoju kracem od 24 sata, u kalendarskim danima."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Osnovni fond busotina je?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Fond busotina koje su u aktivnom fondu na dan 1. januar tekuce  godine, kao i (u izuzetnim slucajevima) busotine koje su u toku godine pustene u rad iz neaktivnog fonda proslih godina bez sprovodjenja geolosko-tehnickih aktivnosti.",
+            "Fond busotina koje se nalaze u osnovnom fondu pred obustavu.",
+            "Fond busotina zaustavljenih radi sprovodjenja osnovnih remontnih radova.",
+            "Fond busotina koje se nalaze u rezervnom fondu pred obustavu."
+        ],
+        "Tacan": "Fond busotina koje su u aktivnom fondu na dan 1. januar tekuce  godine, kao i (u izuzetnim slucajevima) busotine koje su u toku godine pustene u rad iz neaktivnog fonda proslih godina bez sprovodjenja geolosko-tehnickih aktivnosti."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U neaktivnom fondu posebno se izdvajaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine zaustavljene u tekucoj godini od 1. decembra prosle godine (neaktivne u tekucoj godini) i do 1. decembra prethodne godine (neaktivne u proslim godinama).",
+            "Busotine zaustavljene iskljucivo od 1. decembra prethodne godine.",
+            "Busotine zaustavljene do 1.decembra prethodne godine.",
+            "Busotine koje su u zastoju u tekucem mesecu, u tekucoj godini od 1. decembra prosle godine, do 1. decembra prosle godine."
+        ],
+        "Tacan": "Busotine zaustavljene u tekucoj godini od 1. decembra prosle godine (neaktivne u tekucoj godini) i do 1. decembra prethodne godine (neaktivne u proslim godinama)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U aktivnom fondu izdvajaju se:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Fond busotina koje proizvode (aktivni injekcioni fond), fond busotina u zastoju.",
+            "Fond razradnih busotina, konzervacioni fond.",
+            "Fond bustona koje proizvode (aktivni injekcioni fond), neaktivni fond.",
+            "Fond razradnih busotina, aktivni fond."
+        ],
+        "Tacan": "Fond busotina koje proizvode (aktivni injekcioni fond), fond busotina u zastoju."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Proizvodni fond je?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje su na kraju poslednjeg dana izvestajnog perioda proizvodile naftu i kaptazni gas ili samo naftu, ukljucujuci busotine koje su se nalazile u rezimu akumulacije fluida (kod periodicne eksploatacije).",
+            "Aktivne busotine koje proizvode naftu i kaptazni gas ili samo naftu, a nalazile su se u razradnom fondu.",
+            "Neaktivne busotine koje proizvode naftu i kaptazni gas ili samo naftu, a nalazile su se u razradnom fondu.",
+            "Likvidirane busotine koje proizvode naftu i kaptazni gas ili samo naftu, a nalazile su se u razradnom fondu."
+        ],
+        "Tacan": "Busotine koje su na kraju poslednjeg dana izvestajnog perioda proizvodile naftu i kaptazni gas ili samo naftu, ukljucujuci busotine koje su se nalazile u rezimu akumulacije fluida (kod periodicne eksploatacije)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Cemu sluze proizvodne (naftne i gasne)  busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za crpljenje nafte, naftnog i prirodnog gasa, gasnog kondenzata i drugih pratecih komponenata iz lezista.",
+            "Za crpljenje vodo-naftne tecnosti sa polja.",
+            "Za formiranje projektovanog nivoa proizvodnje ugljovodonika.",
+            "Za formiranje stvarnog nivoa proizvodnje ugljovodonika."
+        ],
+        "Tacan": "Za crpljenje nafte, naftnog i prirodnog gasa, gasnog kondenzata i drugih pratecih komponenata iz lezista."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U neaktivni fond spadaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje nisu proizvodile (nisu koriscene za utiskivanje) u poslednjem mesecu obracunskog perioda.",
+            "Busotine neaktivnog fonda u toku tekuce godine.",
+            "Busotine zaustavljene do decembra prosle godine.",
+            "Busotine aktivnog fonda u toku tekuce godine."
+        ],
+        "Tacan": "Busotine koje nisu proizvodile (nisu koriscene za utiskivanje) u poslednjem mesecu obracunskog perioda."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U metod eksploatacije gasliftom spadaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje se eksploatisu utiskivanjem komprimovanog gasa ili vazduha (gas lift i air lift).",
+            "Busotine koje se eksploatisu eruptivnom metodom zahvaljujuci energiji lezista(sloja).",
+            "Busotine koje se eksploatisu prirodnom eruptivnom metodom zahvaljujuci koriscenju energije lezista (sloja).",
+            "Busotine koje se eksploatisu gasnom pumpom."
+        ],
+        "Tacan": "Busotine koje se eksploatisu utiskivanjem komprimovanog gasa ili vazduha (gas lift i air lift)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U aktivne naftne busotine spadaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje proizvode produkciju u poslednjem mesecu izvestajnog perioda nezavisno od broja dana njihovog rada u tom mesecu.",
+            "Busotine proizvodnog fonda sa rezidualnom amortizacionom vrednoscu.",
+            "Busotine koje su u radu u naftnom i injekcionom fondu.",
+            "Busotine proizvodnog fonda sa amortizacionom vrednoscu."
+        ],
+        "Tacan": "Busotine koje proizvode produkciju u poslednjem mesecu izvestajnog perioda nezavisno od broja dana njihovog rada u tom mesecu."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U konzervirane busotine spadaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje ne funkcionisu iz razloga neefikasnosti ili nemogucnosti njihove eksploatacije (nezavisno od njihove namene).",
+            "Busotine koje su duze vreme u zastoju.",
+            "Busotine koje su zaustavljene pred izvodjenje remontnih radova.",
+            "Busotine koje cekaju brigade za tekuci i kapitalni remont busotina, a zaustavljene su radi sprovodjenja remonta podzemne opreme."
+        ],
+        "Tacan": "Busotine koje ne funkcionisu iz razloga neefikasnosti ili nemogucnosti njihove eksploatacije (nezavisno od njihove namene)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U neaktivni fond u okviru razradnog fonda spadaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni.",
+            "Busotine koje se nalaze u neaktivnom fondu.",
+            "Busotine iz fonda u zastoju.",
+            "Busotine iz fonda osvajanja i ocekivanja osvajanja."
+        ],
+        "Tacan": "Svi odgovori su tacni."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U busotine koje su u osvajanju spadaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni.",
+            "Busotine koje su preuzete od busackih kompanija i nalaze se u osvajanju nakon busenja.",
+            "Busotine cija je izgradnja zavrsena i nisu proizvele fluid (nisu bile u rezimu utiskivanja).",
+            "U fond busotina u osvajanju mogu ulaziti busotine  koje prelaze na drugi metod eksploatacije."
+        ],
+        "Tacan": "Svi odgovori su tacni."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U eruptivni metod eksploatacije spadaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje se eksploatisu prirodnom eruptivnom metodom zahvaljujuci koriscenju energije lezista.",
+            "Busotine koje se eksploatisu utiskivanjem u njih komprimovanog gasa ili vazduha.",
+            "Busotine koje se eksploatisu  prirodnom erupcijom koriscenjem pritiska stenskih formacija i energije rastvorenog gasa.",
+            "Busotine koje se eksploatisu EPS pumpom."
+        ],
+        "Tacan": "Busotine koje se eksploatisu prirodnom eruptivnom metodom zahvaljujuci koriscenju energije lezista."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U koji fond prelazi busotina po zavrsetku perioda konzervacije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ako ne podleze likvidaciji, trebalo bi da bude prevedena u odgovarajuci razradni fond u zavisnosti od namene.",
+            "Ne postoje kriticni rokovi pocetka i zavrsetka konzervacije busotina.",
+            "Samo u razradni fond.",
+            "Samo ne u razradni fond."
+        ],
+        "Tacan": "Ako ne podleze likvidaciji, trebalo bi da bude prevedena u odgovarajuci razradni fond u zavisnosti od namene."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Da li mogu proizvodne busotine u toku razrade biti prebacene u grupu injekcionih?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U toku razrade lezista proizvodne busotine se mogu prebaciti u grupu injekcionih u cilju prenosa utiskivanja, stvaranja dodatnih i razvoja postojecih linija blokova, organizovanja selektivnog zavodnjenja.",
+            "Mogu, u slucaju pada lezisnog pritiska, a u cilju kompenzovanja proizvodnje fluida utiskivanjem.",
+            "Ne mogu.",
+            "Nista od navedenog"
+        ],
+        "Tacan": "U toku razrade lezista proizvodne busotine se mogu prebaciti u grupu injekcionih u cilju prenosa utiskivanja, stvaranja dodatnih i razvoja postojecih linija blokova, organizovanja selektivnog zavodnjenja."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Da li se injekcione busotine mogu koristiti kao proizvodne?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Deo injekcionih busotina se moze privremeno koristiti kao proizvodne.",
+            "Deo injekcionih busotina se ne moze koristiti kao proizvodne.",
+            "Deo injekcionih busotina, po nahodjenju geoloske sluzbe, s obzirom na specifiku konstrukcije, se moze koristiti iskljucivo kao opservacione busotine.",
+            "Sve injekcionih busotina se ne moze koristiti kao proizvodne."
+        ],
+        "Tacan": "Deo injekcionih busotina se moze privremeno koristiti kao proizvodne."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Da li se u toku godine busotina moze nalaziti u razlicitim kategorijama razradnog fonda?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Moze.",
+            "Ne moze.",
+            "Moze ako je gasna.",
+            "Moze ako je naftna."
+        ],
+        "Tacan": "Moze."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Da li busotina moze izaci iz razradnog fonda?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Moze.",
+            "Ne moze.",
+            "Moze ako je gasna.",
+            "Moze ako je naftna."
+        ],
+        "Tacan": "Moze."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Na koje kategorije se dele busotine po vremenu pustanja u rad?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na stare (prelazne) i nove.",
+            "Na rane i kasne.",
+            "Na remontne i busotine u fazi urezimljavanja (vnr).",
+            "Na one koje su pustene u rad pre vremena i sa zakasnjenjem."
+        ],
+        "Tacan": "Na stare (prelazne) i nove."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Injekcione busotine koriste se za:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za injektiranje u sloj razlicitih radnih agenasa ili kombinacija agenasa \u2013 vode, gasa, vruce nafte, sflu (siroka frakcija lakih ugljovodonika), vode sa dodatkom razlicitih reagenasa \u2013 kiselina, povrsinski aktivnih materija, inhibitora.",
+            "Za odrzavanje prvobitnog lezisnog pritiska putem utiskivanja vode ili gasa.",
+            "Za injektiranje vode proizvedene na poljima u procesu razrade u vodonosne slojeve.",
+            "Za povecanje prvobitnog lezisnog pritiska putem utiskivanja vode ili gasa."
+        ],
+        "Tacan": "Za injektiranje u sloj razlicitih radnih agenasa ili kombinacija agenasa \u2013 vode, gasa, vruce nafte, sflu (siroka frakcija lakih ugljovodonika), vode sa dodatkom razlicitih reagenasa \u2013 kiselina, povrsinski aktivnih materija, inhibitora."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Injekcione busotine sluze za:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za stimulaciju produktivnih slojeva utiskivanjem vode, gasa, pare i drugih radnih agenasa.",
+            "Za injektiranje vode u sloj.",
+            "Za odrzavanje prvobitnog lezisnog pritiska putem utiskivanja vode ili gasa.",
+            "Za utiskivanje proizvodnih (lezisnih) voda sa polja u proizvodnji u slojeve."
+        ],
+        "Tacan": "Za stimulaciju produktivnih slojeva utiskivanjem vode, gasa, pare i drugih radnih agenasa."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Pod eksploatacijom busotina podrazumeva se:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Njihovo koriscenje u tehnoloskim procesima liftovanja fluida (nafte, kondenzata, vode) i gasa iz sloja na povrsinu.",
+            "Citav vremenski period koriscenja busotine od pocetka izgradnje do likvidacije.",
+            "Ukupno vreme rada, nezavisno od namene busotine.",
+            "Ukupno vreme rada, bez VSP kod obrade busotina."
+        ],
+        "Tacan": "Njihovo koriscenje u tehnoloskim procesima liftovanja fluida (nafte, kondenzata, vode) i gasa iz sloja na povrsinu."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Izbuseni fond busotina obuhvata:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Proizvodne, injekcione, kontrolne, specijalne, istrazne, konturno-istrazne, konzervirane, likvidirane, busotine koje cekaju na likvidaciju.",
+            "Neaktivne busotine naftnog fonda, koje su preuzete od busackih kompanija i nalaze se u rezimu osvajanja nakon busenja.",
+            "Proizvodne i injekcione busotine, cija je izgradnja zavrsena, ali nisu pustene u rad.",
+            "Aktivne busotine naftnog fonda, koje su preuzete od busackih kompanija i nalaze se u rezimu osvajanja nakon busenja."
+        ],
+        "Tacan": "Proizvodne, injekcione, kontrolne, specijalne, istrazne, konturno-istrazne, konzervirane, likvidirane, busotine koje cekaju na likvidaciju."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Fond busotina u zastoju je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine iz kategorije onih koje su proizvodile fluid (nalazile se u rezimu injektiranja), a koje su posle u prethodnom mesecu zaustavljene  iz bilo kojeg razloga ili u cilju sprovodjenja odredjene mere i koje na danasnji dan ne rade.",
+            "Busotine koje cekaju na remont, zaustavljene u tekucem mesecu.",
+            "Busotine zaustavljene od decembra prosle godine, koje u tekucoj godini nisu pustene u rad.",
+            "Busotine koje cekaju na likvidaciju, zaustavljene u tekucem mesecu."
+        ],
+        "Tacan": "Busotine iz kategorije onih koje su proizvodile fluid (nalazile se u rezimu injektiranja), a koje su posle u prethodnom mesecu zaustavljene  iz bilo kojeg razloga ili u cilju sprovodjenja odredjene mere i koje na danasnji dan ne rade."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Remontni zastoj je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine iz zaustavljenog fonda koje su u remontu od strane brigada za tekuci i kapitalni remont busotina, sto ukljucuje osnovni zastoj, zastoj radi prevodjenja u rezim odrzavanja lezisnog pritiska i zastoj u vezi sa sprovodjenjem gta (od trenutka pocetka pa do zavrsetka remonta).",
+            "Naftne busotine iz fonda u zastoju, koje cekaju na remont od strane brigada za tekuci i kapitalni remont busotina.",
+            "Naftne busotine iz aktivnog fonda, koje cekaju na remont od strane brigada za tekuci i kapitalni remont busotina.",
+            "Naftne busotine iz neaktivnog fonda, koje cekaju na remont od strane brigada za tekuci i kapitalni remont busotina."
+        ],
+        "Tacan": "Busotine iz zaustavljenog fonda koje su u remontu od strane brigada za tekuci i kapitalni remont busotina, sto ukljucuje osnovni zastoj, zastoj radi prevodjenja u rezim odrzavanja lezisnog pritiska i zastoj u vezi sa sprovodjenjem gta (od trenutka pocetka pa do zavrsetka remonta)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Zastoj radi urezimljavanja (VNR) je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine iz fonda u zastoju (ukljucujuci busotine zaustavljene radi izvodjenja gta), koje su u fazi urezimljavanja (od trenutka zavrsetka remonta do zvanicnog pustanja busotine u rad).",
+            "Busotine iz fonda u zastoju (ukljucujuci busotine zaustavljene radi izvodjenja gta), koje su u fazi urezimljavanja (od trenutka pocetka  remonta do postizanja parametara rezima rada).",
+            "Busotine iz aktivnog fonda (ukljucujuci busotine zaustavljene radi izvodjenja gta), koje su u fazi urezimljavanja (od trenutka pocetka  remonta do postizanja parametara rezima rada).",
+            "Busotine iz neaktivnog fonda (ukljucujuci busotine zaustavljene radi izvodjenja gta), koje su u fazi urezimljavanja (od trenutka pocetka  remonta do postizanja parametara rezima rada)."
+        ],
+        "Tacan": "Busotine iz fonda u zastoju (ukljucujuci busotine zaustavljene radi izvodjenja gta), koje su u fazi urezimljavanja (od trenutka zavrsetka remonta do zvanicnog pustanja busotine u rad)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Zastoj radi prevodjenja u rezim odrzavanja lezisne energije su",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine iz fonda naftnih busotina koje proizvode, zaustavljene radi prevodjenja u injekcioni fond (ove busotine u roku od 24 sata nakon obustave na nivou fonda moraju biti prevedene u injekcioni  fond (osvajanje odrzavanja lezisne energije).",
+            "Busotine konzervacionog fonda, za koje se pretpostavlja da ce biti prevedene u injekcioni fond (ove busotine u roku od sledecih 24 sata nakon izlaska iz konzervacije moraju biti prevedene u injekcioni fond (osvajanje odrzavanja lezisne energije).",
+            "Busotine aktivnog fonda, za koje se pretpostavlja da ce biti prevedene u injekcioni fond (ove busotine u roku od sledecih 24 sata nakon izlaska iz konzervacije moraju biti prevedene u injekcioni fond (osvajanje odrzavanja lezisne energije).",
+            "Busotine neaktivnog fonda, za koje se pretpostavlja da ce biti prevedene u injekcioni fond (ove busotine u roku od sledecih 24 sata nakon izlaska iz konzervacije moraju biti prevedene u injekcioni fond (osvajanje odrzavanja lezisne energije)."
+        ],
+        "Tacan": "Busotine iz fonda naftnih busotina koje proizvode, zaustavljene radi prevodjenja u injekcioni fond (ove busotine u roku od 24 sata nakon obustave na nivou fonda moraju biti prevedene u injekcioni  fond (osvajanje odrzavanja lezisne energije)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Zastoj radi prelaska na mehanicku metodu eksploatacije su",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine proizvodnog fonda, koje se eksploatisu eruptivnom metodom, zaustavljene radi prelaska na mehanicku metodu eksploatacije zbog prestanka eruptiranja.",
+            "Busotine proizvodnog fonda, koje se eksploatisu eruptivnom ili gaslift metodom, zaustavljene radi prelaska na metodu eksploatacije pomocu klipnih pumpi.",
+            "Busotine koje se eksploatisu primenom ESP, zaustavljene radi prelaska na metodu eksploatacije pomocu klipnih pumpi zbog smanjenog dotoka fluida.",
+            "Busotine neaktivnog fonda, koje se eksploatisu eruptivnom ili gaslift metodom, zaustavljene radi prelaska na metodu eksploatacije pomocu klipnih pumpi."
+        ],
+        "Tacan": "Busotine proizvodnog fonda, koje se eksploatisu eruptivnom metodom, zaustavljene radi prelaska na mehanicku metodu eksploatacije zbog prestanka eruptiranja."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Zastoj radi sprovodjenja geolosko-tehnickih aktivnosti je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Ciljano zaustavljene busotine iz proizvodnog fonda  radi izvodjenja geolosko-tehnickih aktivnosti.",
+            "Ciljano zaustavljene busotine radi izvodjenja istraznih radova.",
+            "Ciljano zaustavljene busotine osnovnog fonda radi izvodjenja remontnih radova.",
+            "Ciljano pokretanje busotine osnovnog fonda radi izvodjenja remontnih radova."
+        ],
+        "Tacan": "Ciljano zaustavljene busotine iz proizvodnog fonda  radi izvodjenja geolosko-tehnickih aktivnosti."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Prosecni fond busotina u zastoju (za mesec) je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Prosecni fond u zastoju za dati mesec.",
+            "Prosecni fond u zastoju za prosli mesec.",
+            "Prosecni fond u zastoju u ocekivanju remonta za odredjeni period.",
+            "Fond u zastoju u ocekivanju remonta za odredjeni period."
+        ],
+        "Tacan": "Prosecni fond u zastoju za dati mesec."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Sta se koristi pri odredjivanju vremena eksploatacije i zastoja busotina?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Koristi se bilans kalendarskog vremena razradnog fonda busotina.",
+            "Koriste se fiksni pokazatelji vremena razradnog fonda busotina.",
+            "Koriste se podaci sa pokazateljima vremena razradnog fonda busotina, koji se dobijaju iz operativnih izvestaja.",
+            "Koriste se promenljivi pokazatelji vremena razradnog fonda busotina."
+        ],
+        "Tacan": "Koristi se bilans kalendarskog vremena razradnog fonda busotina."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Sta obuhvata kalendarsko vreme razradnog fonda naftnih busotina?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni.",
+            "Kalendarsko vreme aktivnog fonda naftnih busotina.",
+            "Kalendarsko vreme fonda naftnih busotina koje nisu proizvodile u poslednjem mesecu izvestajnog perioda u slucaju evidencije vremena rada i zastoja busotina (neaktivnih) po mesecima.",
+            "Kalendarsko vreme fonda naftnih busotina koje cekaju na osvajanje ili su u fazi osvajanja nakon busenja."
+        ],
+        "Tacan": "Svi odgovori su tacni."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Eksploatacija busotina se vrsi sledecim osnovnim metodama:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Eruptivnom metodom, metodom gaslifta i metodom dubinskog pumpanja (pumpe sa klipnim sipkama i bez klipnih sipki i dr.).",
+            "Eruptivnom metodom, primenom ESP i dubinskih klipnih pumpi.",
+            "Eruptivnom i mehanickom metodom.",
+            "Hidraulickom, mehanickom i elektricnom metodom."
+        ],
+        "Tacan": "Eruptivnom metodom, metodom gaslifta i metodom dubinskog pumpanja (pumpe sa klipnim sipkama i bez klipnih sipki i dr.)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Kako se odredjuje prosecni aktivni fond (sdf)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odredjuje se kao odnos vremena aktivnog fonda (zbir vremena rada i vremena zastoja) za dati period i kalendarskog vremena tog perioda.",
+            "Odredjuje se kao odnos vremena razradnog fonda za dati period i kalendarskog vremena tog perioda.",
+            "Odredjuje se kao odnos vremena provedenog u radu (zbir perioda rada) i kalendarskog vremena tog perioda.",
+            "Odredjuje se kao odnos vremena neaktivnog fonda za dati period i kalendarskog vremena tog perioda."
+        ],
+        "Tacan": "Odredjuje se kao odnos vremena aktivnog fonda (zbir vremena rada i vremena zastoja) za dati period i kalendarskog vremena tog perioda."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "S kojim ciljem se injekciona busotina stavlja u probnu proizvodnju?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za crpljenje nafte iz sloja i u cilju smanjenja lezisnog pritiska pre pocetka injektiranja.",
+            "Za crpljenje nafte iz sloja u cilju kompenzacije troskova nastalih u toku busenja.",
+            "Do izmene projekta busotine u vezi sa prenamenom.",
+            "Do izmene projekta busotine u vezi sa metodom eksploatacije."
+        ],
+        "Tacan": "Za crpljenje nafte iz sloja i u cilju smanjenja lezisnog pritiska pre pocetka injektiranja."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Fond likvidiranih busotina je:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Fond busotina cija je likvidacija zavrsena.",
+            "Fond busotina prevedenih u likvidirani fond.",
+            "Fond busotina na kojima se u perspektivi planira izvodjenje radova likvidacije.",
+            "Fond busotina na kojima se u perspektivi planira priprema radova likvidacije."
+        ],
+        "Tacan": "Fond busotina cija je likvidacija zavrsena."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Fond busotina u ocekivanju likvidacije je :",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Fond busotina cija likvidacija nije zavrsena, ali se u perspektivi planira izvodjenje radova na likvidaciji busotina.",
+            "Fond busotina prevedenih u fond busotina koje cekaju na likvidaciju.",
+            "Ako rok konzervacije istice, a busotina iz bilo kojeg razloga ne moze biti prevedena u odgovarajuci razradni fond prema njenoj nameni.",
+            "Fond busotina prevedenih u fond busotina koje cekaju na remont."
+        ],
+        "Tacan": "Fond busotina cija likvidacija nije zavrsena, ali se u perspektivi planira izvodjenje radova na likvidaciji busotina."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Koje busotine spadaju u stare (prelazne)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje su prvi put pustene u rad u prethodnim godinama, tjdo januara izvestajne godine.",
+            "Busotine koje su pustene u rad iz neaktivnog fonda prosle godine, tjdo januara izvestajne godine.",
+            "Busotine koje su pustene u rad iz busenja i konzervacije do januara izvestajne godine.",
+            "Busotine koje su pustene u rad iz busenja i konzervacije do marta izvestajne godine."
+        ],
+        "Tacan": "Busotine koje su prvi put pustene u rad u prethodnim godinama, tjdo januara izvestajne godine."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Koje busotine spadaju u nove?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje se pustaju u rad iz reda busotina izbusenih u izvestajnoj (planskoj) godini ili iz reda busotina koje su na dan januara u fazi osvajanja ili ocekivanja osvajanja posle busenja.",
+            "Busotine koje su pustene u rad iz neaktivnog fonda u tekucoj godini, tjposle januara izvestajne godine.",
+            "Busotine koje su pustene u rad iz busenja i konzervacije posle januara izvestajne godine.",
+            "Busotine koje su pustene u rad iz busenja i konzervacije do marta izvestajne godine."
+        ],
+        "Tacan": "Busotine koje se pustaju u rad iz reda busotina izbusenih u izvestajnoj (planskoj) godini ili iz reda busotina koje su na dan januara u fazi osvajanja ili ocekivanja osvajanja posle busenja."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U kojim slucajevima se busotine iz konzervacionog fonda svrstavaju u nove?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine pustene u rad iz reda busotina koje su bile u konzervaciji, ako ranije nisu proizvodile naftu ili gas, tjcija je kumulativna proizvodnja jednaka nuli.",
+            "Sve busotine koje se pustaju u rad iz reda busotina koje su bile u konzervaciji spadaju u kategoriju \"novih\".",
+            "Busotine iz konzervacionog fonda, koje su pustene u rad u tekucoj godini, tjposle januara izvestajne godine.",
+            "Busotine iz neaktivnog fonda, koje su pustene u rad u tekucoj godini, tjposle januara izvestajne godine."
+        ],
+        "Tacan": "Busotine pustene u rad iz reda busotina koje su bile u konzervaciji, ako ranije nisu proizvodile naftu ili gas, tjcija je kumulativna proizvodnja jednaka nuli."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Da li se prilikom podele na kategorije  \"stare-nove\" uzima u obzir rezim rada busotina?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Uzima se u obzir.",
+            "Ne, ne uzima se u obzir.",
+            "Uzima se u obzir samo u naftnom fondu.",
+            "Rezim rada busotine se ne uzima u obzir prilikom podele na kategorije \"stare-nove\"."
+        ],
+        "Tacan": "Uzima se u obzir."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Koje busotine spadaju u busotine koje su izasle iz razradnog fonda naftnih busotina?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje su u izvestajnoj godini prevedene u druge fondove (grupe) busotina (gasne busotine, vodozahvatne - bunari, injekcione, kontrolne, busotine za odlaganje vode, busotine koje su u konzervaciji i cekanju likvidacije, likvidirane busotine).",
+            "Busotine koje sluze za zamenu likvidiranih busotina.",
+            "Busotine koje su u izvestajnoj godini prevedene u neaktivni fond.",
+            "Busotine koje su u izvestajnoj godini prevedene u aktivni fond."
+        ],
+        "Tacan": "Busotine koje su u izvestajnoj godini prevedene u druge fondove (grupe) busotina (gasne busotine, vodozahvatne - bunari, injekcione, kontrolne, busotine za odlaganje vode, busotine koje su u konzervaciji i cekanju likvidacije, likvidirane busotine)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U fondu busotina u fazi osvajanja posebno se izdvajaju:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine u fazi osvajanja u tekucoj godini i osvajanja u proslim godinama - u zavisnosti od datuma pocetka osvajanja.",
+            "Busotine nakon busenja u tekucoj godini.",
+            "Sve busotine, bez obzira na datum pocetka osvajanja.",
+            "Busotine nakon busenja u prosloj godini."
+        ],
+        "Tacan": "Busotine u fazi osvajanja u tekucoj godini i osvajanja u proslim godinama - u zavisnosti od datuma pocetka osvajanja."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Fond busotina koje proizvode to su .",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje su na kraju poslednjeg dana izvestajnog perioda proizvodile naftu i kaptazni gas ili samo naftu, ukljucujuci busotine koje su se nalazile u rezimu akumulacije fluida (kod periodicne eksploatacije).",
+            "Aktivne busotine koje proizvode naftu i kaptazni gas ili samo naftu, a nalazile su se u razradnom fondu.",
+            "Neaktivne busotine koje proizvode naftu i kaptazni gas ili samo naftu, a nalazile su se u razradnom fondu.",
+            "Istrazne busotine koje proizvode naftu i kaptazni gas ili samo naftu, a nalazile su se u razradnom fondu."
+        ],
+        "Tacan": "Busotine koje su na kraju poslednjeg dana izvestajnog perioda proizvodile naftu i kaptazni gas ili samo naftu, ukljucujuci busotine koje su se nalazile u rezimu akumulacije fluida (kod periodicne eksploatacije)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Cemu sluze vodozahvatne busotine (bunari)?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za snabdevanje vodom prilikom busenja busotina, kao i snabdevanje vodom sistema za odrzavanje lezisnog pritiska u procesu razrade.",
+            "Za zahvatanje podinske vode i utiskivanje u sistem za injektiranje na pumparnicama na grmu.",
+            "Za proizvodnju vode iz produktivnih slojeva u cilju izjednacavanja profila injektivnosti injekcionih busotina.",
+            "Za zahvatanje podinske vode i utiskivanje u sistem za injektiranje u busotinu."
+        ],
+        "Tacan": "Za snabdevanje vodom prilikom busenja busotina, kao i snabdevanje vodom sistema za odrzavanje lezisnog pritiska u procesu razrade."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Cemu sluze pijezometarske busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za sistematsko merenje lezisnog pritiska u zoni van konture lezista, u gasnoj kapi i u naftnoj zoni sloja.",
+            "Za povremeni monitoring promene polozaja kontakta voda-nafta, gas-nafta i gas-voda, promene zasicenosti sloja naftom, vodom i gasom u procesu razrade lezista.",
+            "Za sistematsko merenje dinamike lezisnog pritiska u naftnoj zoni sloja.",
+            "Za povremeni monitoring promene pokazatelja u procesu razrade lezista."
+        ],
+        "Tacan": "Za sistematsko merenje lezisnog pritiska u zoni van konture lezista, u gasnoj kapi i u naftnoj zoni sloja."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Kako se deli fond busotina u zastoju prema statusu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U ocekivanju remontau remontuna urezimljavanjuostalo.",
+            "U ispitivanju tokom probne proizvodnjeza brigaduza gusenjeza pustanje u rad.",
+            "U ocekivanju prelaska u neaktivni fondu obustavina urezimljavanjuostalo.",
+            "U ocekivanju prelaska u istrazni fondu obustavina urezimljavanjuostalo."
+        ],
+        "Tacan": "U ocekivanju remontau remontuna urezimljavanjuostalo."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Kako se racuna kalendarsko vreme aktivnog fonda naftnih busotina?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Racuna se za svaku busotinu od trenutka (dan i sat) njenog pustanja u rad do prevodjenja iz aktivnog u neaktivni fond ili izlaska iz razradnog fonda (busotine u konzervaciji, injekcione, kontrolne itd.).",
+            "Racuna se za svaku busotinu od trenutka njenog pustanja u rad do prevodjenja iz razradnog fonda u konzervacioni fond ili izlaska iz izbusenog fonda.",
+            "Racuna se za neke busotine od trenutka njenog pustanja u rad do prevodjenja iz razradnog fonda u konzervacioni fond ili izlaska iz izbusenog fonda.",
+            "Racuna se za odredjene busotine od trenutka (dan i sat) njenog pustanja u rad do prevodjenja iz aktivnog u neaktivni fond ili izlaska iz razradnog fonda (busotine u konzervaciji, injekcione, kontrolne itd.)."
+        ],
+        "Tacan": "Racuna se za svaku busotinu od trenutka (dan i sat) njenog pustanja u rad do prevodjenja iz aktivnog u neaktivni fond ili izlaska iz razradnog fonda (busotine u konzervaciji, injekcione, kontrolne itd.)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Koliko se cesto busotina prevodi iz jedne kategorije po vremenu pustanja u rad u drugu?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Jednom na pocetku godine.",
+            "Kvartalno.",
+            "Svakog meseca.",
+            "Neogranicen broj puta."
+        ],
+        "Tacan": "Jednom na pocetku godine."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Kakve mogu biti injekcione busotine polazeci od usvojenog sistema stimulacije?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Rubne, marginalne i sredisnje.",
+            "Vodene, parne i gasne.",
+            "Ciklicne, staticne i fleksibilne.",
+            "Gasne i staticne."
+        ],
+        "Tacan": "Rubne, marginalne i sredisnje."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Koeficijent iskoriscenja fonda je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Oba odgovora su tacna.",
+            "Odnos broja busotina aktivnog fonda i broja busotina razradnog fonda na odredjeni datum.",
+            "Odnos ukupnog vremena eksploatacije busotine i kalendarskog vremena rada busotina razradnog fonda.",
+            "Nista od navedenog."
+        ],
+        "Tacan": "Oba odgovora su tacna."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Koeficijent eksploatacije fonda je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Odnos ukupnog vremena rada busotina iz aktivnog fonda i ukupnog kalendarskog vremena tokom kojeg se busotina nalazi u aktivnom fondu za posmatrani period.",
+            "Odnos vremena tokom kojeg se busotina nalazi u razradnom fondu i ukupnog kalendarskog vremena tokom kojeg se busotina nalazi u aktivnom fondu za posmatrani period.",
+            "Odnos kumulativnog vremena eksploatacije izbusenog fonda i ukupnog kalendarskog vremena tokom kojeg se busotina nalazi u razradnom fondu za posmatrani period.",
+            "Nista od navedenog."
+        ],
+        "Tacan": "Odnos ukupnog vremena rada busotina iz aktivnog fonda i ukupnog kalendarskog vremena tokom kojeg se busotina nalazi u aktivnom fondu za posmatrani period."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Da li busotina iz jedne kategorije po vremenu pustanja u rad  (\"nove\" ili \"stare\" (prelazne)) u toku godine moze preci u drugu kategoriju?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svaka busotina se u toku godine vodi samo u jednoj kategoriji.",
+            "Svaka busotina se u toku godine moze voditi u razlicitim kategorijama.",
+            "Oba odgovora su tacna.",
+            "Nista od navedenog."
+        ],
+        "Tacan": "Svaka busotina se u toku godine vodi samo u jednoj kategoriji."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Na koje grupe se dele razradne busotine pri projektovanju i razradi lezista nafte?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Oba odgovora su tacna.",
+            "Osnovni fond proizvodnih i injekcionih busotina.",
+            "Rezervni fond busotina.",
+            "Kontrolne (opservacione i pijezometarske) busotine."
+        ],
+        "Tacan": "Oba odgovora su tacna."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Fond u zastoju na 1. datum u mesecu je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Oba odgovora su tacna.",
+            "Busotine koje ne rade na kraju izvestajnog meseca, ali su bile u rezimu proizvodnje ili injektiranja u izvestajnom mesecu.",
+            "Busotine koje su posle 1 u izvestajnom mesecu zaustavljene iz bilo kog razloga ili u cilju sprovodjenja neke mere, a bile su u grupi busotina koje su proizvodile fluid (nalazile se u rezimu injektiranja) u tom mesecu.",
+            "Nista od navedenog."
+        ],
+        "Tacan": "Oba odgovora su tacna."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Zastoj u ocekivanju remonta je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine iz fonda u zastoju, koje cekaju na remont (od trenutka obustave do pocetka remonta).",
+            "Zaustavljene busotine naftnog fonda, koje cekaju brigade za tekuci i kapitalni remont busotina.",
+            "Zaustavljene busotine naftnog fonda koje cekaju na remont nadzemne i podzemne opreme.",
+            "Nista od navedenog."
+        ],
+        "Tacan": "Busotine iz fonda u zastoju, koje cekaju na remont (od trenutka obustave do pocetka remonta)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Zastoj radi prevodjenja u rezim odrzavanja lezisnog pritiska su",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine iz fonda naftnih busotina koje proizvode, zaustavljene radi prevodjenja u injekcioni fond (ove busotine u roku od 24 sata nakon obustave na nivou fonda moraju biti prevedene u injekcioni  fond (osvajanje odrzavanja lezisnog pritiska).",
+            "Busotine konzervacionog fonda, za koje se pretpostavlja da ce biti prevedene u injekcioni fond (ove busotine u roku od sledecih 24 sata nakon izlaska iz konzervacije moraju biti prevedene u injekcioni fond (osvajanje odrzavanjem lezisnog pritiska).",
+            "Oba odgovora su tacna.",
+            "Nista od navedenog."
+        ],
+        "Tacan": "Busotine iz fonda naftnih busotina koje proizvode, zaustavljene radi prevodjenja u injekcioni fond (ove busotine u roku od 24 sata nakon obustave na nivou fonda moraju biti prevedene u injekcioni  fond (osvajanje odrzavanja lezisnog pritiska)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Od kog trenutka se likvidacija smatra zavrsenom?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nakon potpisivanja zapisnika o likvidaciji od strane korisnika mineralnih resursa i nadleznog drzavnog organa .",
+            "Nakon sto korisnik mineralnih resursa dostavi zapisnik o likvidaciji nadleznom organu .",
+            "Po zavrsetku radova na likvidaciji busotine.",
+            "Nista od navedenog."
+        ],
+        "Tacan": "Nakon potpisivanja zapisnika o likvidaciji od strane korisnika mineralnih resursa i nadleznog drzavnog organa ."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Busotine u akumulaciji - to je.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Fond busotina u akumulaciji (u diskontinuiranom rezimu rada) obuhvata fond busotina koje rade u rezimu automatskog ponovnog ukljucivanja (akumulacija busotinskog fluida) i fond busotina koje rade u rezimu automatskog ponovnog ukljucivanja, visokozavodnjeni i sa niskim kapacitetom proizvodnje nafte, (akumulacija nafte).",
+            "Fond akumuliranih busotina u zastoju, koje cekaju na pustanje u rad.",
+            "Nista od navedenog.",
+            "Fond aktivnih busotina u zastoju, koje cekaju na pustanje u rad."
+        ],
+        "Tacan": "Fond busotina u akumulaciji (u diskontinuiranom rezimu rada) obuhvata fond busotina koje rade u rezimu automatskog ponovnog ukljucivanja (akumulacija busotinskog fluida) i fond busotina koje rade u rezimu automatskog ponovnog ukljucivanja, visokozavodnjeni i sa niskim kapacitetom proizvodnje nafte, (akumulacija nafte)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Prosecni fond busotina u zastoju (duzem od jednog meseca) je",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Prosecni statisticki fond u zastoju za odredjeni period.",
+            "Prosecni fond u zastoju za prosli mesec.",
+            "Prosecni fond u zastoju u ocekivanju remonta za odredjeni period.",
+            "Aktivni fond u zastoju za prosli mesec."
+        ],
+        "Tacan": "Prosecni statisticki fond u zastoju za odredjeni period."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Sta karakterise koeficijent eksploatacije aktivnog fonda busotina?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nivo iskoriscenja aktivnih busotina u vremenu.",
+            "Nivo iskoriscenja aktivnih busotina u vremenu.",
+            "Nivo iskoriscenja razradnog fonda u vremenu.",
+            "Efikasnost koriscenja izbusenog fonda za period eksploatacije."
+        ],
+        "Tacan": "Nivo iskoriscenja aktivnih busotina u vremenu."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Sipke sa strugacima-centralizerima koriste se za:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Zastitu kolone tubinga od habanja na krivinama trajektorije, zastite od naslaga parafina",
+            "Skidanje parafina sa zidova tubinga",
+            "Preventivno, da ne dodje do loma kompozicije klipnih sipki",
+            "Nema pravilnog odgovora"
+        ],
+        "Tacan": "Zastitu kolone tubinga od habanja na krivinama trajektorije, zastite od naslaga parafina"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Za konekciju balansne grede dubinske pumpe sa dve paralelne kretace koje rade je potrebna:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Traverza",
+            "Stojka",
+            "Krivaja",
+            "Vesalica glatke sipke"
+        ],
+        "Tacan": "Traverza"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "U koje svrhe se buse potvrdne busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U cilju definisanja parametara i rezima rada slojeva, identifikovanja i definisanja granica izdvojenih produktivnih polja, procene iscrpljenosti rezervi u pojedinim delovima lezista u okviru granica rezervi kategorije A + B + C1.",
+            "Za procenu preostalih rezervi u cilju utvrdjivanja svrsishodnosti daljeg razradnog busenja osnovnog fonda busotina.",
+            "Za procenu energetskog stanja lezista.",
+            "Za procenu potrosenih rezervi u cilju utvrdjivanja svrsishodnosti daljeg razradnog busenja osnovnog fonda busotina."
+        ],
+        "Tacan": "U cilju definisanja parametara i rezima rada slojeva, identifikovanja i definisanja granica izdvojenih produktivnih polja, procene iscrpljenosti rezervi u pojedinim delovima lezista u okviru granica rezervi kategorije A + B + C1."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Da li busotine koje su ustupljene drugim pravnim licima koja obavljaju delatnost proizvodnje nafte spadaju u busotine koje su izasle iz razradnog fonda?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Da",
+            "Ne",
+            "Da, ako su gradjani Republike Srbije",
+            "Da, ako su strani drzavljani"
+        ],
+        "Tacan": "Da"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Gde se buse potvrdne busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Na poljima (lezistima) koja su u razradi ili se pripremaju za probnu eksploataciju.",
+            "Na poljima na kojima je potvrdjena komercijalna naftonosnost i gasonosnost u cilju pripreme rezervi nafte i gasa komercijalne kategorije u potrebnom odnosu.",
+            "Na poljima (lezistima) koja su u eksploataciju.",
+            "Na poljima (lezistima) koja nisu u eksploataciju."
+        ],
+        "Tacan": "Na poljima (lezistima) koja su u razradi ili se pripremaju za probnu eksploataciju."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Cemu sluze busotine za odlaganje?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Za utiskivanje proizvodnih (lezisnih) voda sa polja u proizvodnji u slojeve sa gubicima cirkulacije.",
+            "Za utilizaciju (odlaganje) podinske vode.",
+            "Za svodjenje energije sloja na nivo izvornog lezisnog pritiska.",
+            "Nista od navedenog."
+        ],
+        "Tacan": "Za utiskivanje proizvodnih (lezisnih) voda sa polja u proizvodnji u slojeve sa gubicima cirkulacije."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Koje busotine se nazivaju konturno-istraznim busotinama?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Konturno-istraznim se nazivaju one busotine koje se izradjuju na lokacijama sa potvrdjenim komercijalnim naftnim i gasnim potencijalom.",
+            "Konturno-istraznim se nazivaju one busotine koje sluze za utvrdjivanje efektivne granice lezista  (nalazista).",
+            "Busotine izbusene radi procene preostalih rezervi u cilju utvrdjivanja opravdanosti daljeg razradnog busenja.",
+            "Busotine koje sluze za definisanje lezista ugljovodonika na neistrazenim podrucjima."
+        ],
+        "Tacan": "Konturno-istraznim se nazivaju one busotine koje se izradjuju na lokacijama sa potvrdjenim komercijalnim naftnim i gasnim potencijalom."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Koje busotine podlezu likvidaciji?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Busotine koje su ispunile svoju svrhu i cija dalja eksploatacija nije svrsishodna ili nije moguca.",
+            "Busotine preuzete od organizacija koje se bave busenjem, na kojima je prisutna pojava gasa, vode i nafte.",
+            "Busotine preuzete od organizacija koje se bave busenjem, a nalaze se u fazi osvajanja posle busenja i nisu proizvodile produkciju (nisu bile u rezimu injektiranja).",
+            "Nista od navedenog."
+        ],
+        "Tacan": "Busotine koje su ispunile svoju svrhu i cija dalja eksploatacija nije svrsishodna ili nije moguca."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Obelezite tacne kategorije razloga za likvidaciju.",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni.",
+            "Busotine koje su ispunile svoju svrhu.",
+            "Busotine koje se likvidiraju iz geoloskih razloga.",
+            "Busotine koje se likvidiraju iz tehnickih razloga."
+        ],
+        "Tacan": "Svi odgovori su tacni."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "S kojim ciljem se buse konturno-istrazne busotine?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U cilju pripreme rezervi nafte i gasa komercijalnih kategorija u potrebnom odnosu i prikupljanja polaznih podataka za izradu projekta (seme) razrade lezista (polja).",
+            "Za procenu preostalih rezervi u cilju utvrdjivanja svrsishodnosti daljeg razradnog busenja.",
+            "U cilju definisanja lezista ugljovodonika na neistrazenim podrucjima.",
+            "Nista od navedenog."
+        ],
+        "Tacan": "U cilju pripreme rezervi nafte i gasa komercijalnih kategorija u potrebnom odnosu i prikupljanja polaznih podataka za izradu projekta (seme) razrade lezista (polja)."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Za koje svrhe je predvidjen rezervni fond busotina?",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "U cilju ukljucivanja u proizvodnju pojedinih masnih slojeva, zona isklinjenja i neaktivnih zona u okviru svojih granica, a koje nisu ukljucene u proizvodnju pomocu busotina u granicama kontura gde se nalaze.",
+            "Za povremeni monitoring promene pokazatelja u procesu razrade lezista.",
+            "Za odrzavanje osnovnog fonda koji se smanjuje usled likvidacije busotina iz proizvodnog fonda.",
+            "U cilju obaveznog ostvarenja projektovanog nivoa proizvodnje, kada to nije moguce ostvariti pomocu osnovnog fonda."
+        ],
+        "Tacan": "U cilju ukljucivanja u proizvodnju pojedinih masnih slojeva, zona isklinjenja i neaktivnih zona u okviru svojih granica, a koje nisu ukljucene u proizvodnju pomocu busotina u granicama kontura gde se nalaze."
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Osvajanje busotine koja radi eruptivno se vrsi na sledeci nacin:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Svi odgovori su tacni",
+            "Zamenom fluida za gusenje fluidom manje gustine",
+            "Ispumpavanjem fluida za gusenje klipovanjem (smanjenje nivoa)",
+            "Smanjenjem gustine radnog fluida za gusenje preko utiskivanja gasa"
+        ],
+        "Tacan": "Svi odgovori su tacni"
+    },
+    {
+        "Sekcija": "Struktura fonda busotina",
+        "Pitanje": "Glavna metoda analize efikasnosti rada busotine je sledeca:",
+        "Ponudeni": [
+            "Odaberite odgovor:",
+            "Nodal analiza",
+            "Strukturna analiza",
+            "Kriticna analiza",
+            "Sistematizovana analiza"
+        ],
+        "Tacan": "Nodal analiza"
+    }
+]
