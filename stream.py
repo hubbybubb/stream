@@ -826,7 +826,7 @@ def testy():
                      orientation = "v")) 
               fig1.add_trace(go.Bar(name="Netacni odgovori",x = n.index,
                      y = n1["Procenat"],
-                     text=n["Procenat"],
+                     text=n1["Procenat"],
                      textposition='auto',
                     marker_color='rgb(158,202,225)', marker_line_color='rgb(8,48,107)',
                   marker_line_width=0.2, opacity=0.6,
@@ -840,14 +840,14 @@ def testy():
                             
               st.plotly_chart(fig1,use_container_width=True)
 
-def animacija():
-  file_ = open("C:/Bojan Martinovic/22.gif", "rb")
-  contents = file_.read()
-  data_url = base64.b64encode(contents).decode("utf-8")
-  file_.close()
-  st.markdown(
-  f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
-  unsafe_allow_html=True,)
+# def animacija():
+#   file_ = open("C:/Bojan Martinovic/22.gif", "rb")
+#   contents = file_.read()
+#   data_url = base64.b64encode(contents).decode("utf-8")
+#   file_.close()
+#   st.markdown(
+#   f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
+#   unsafe_allow_html=True,)
 
 #funkcija sa sign in-------------------------------------------------
 
