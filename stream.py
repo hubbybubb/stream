@@ -775,6 +775,7 @@ def testy():
               sekcija=st.selectbox("Prikaz rezultata po sekciji",menu)
 
               date=clean_db1[["Datum",sekcija]]
+              date.reset_index(drop=True, inplace=True)
               fig1 = go.Figure()
               # fig1.add_trace(go.Scatter(x = date.index,
               #        y = date[sekcija]))
