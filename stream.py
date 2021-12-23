@@ -7,7 +7,7 @@ import datetime
 import base64
 import math
 from plotly.subplots import make_subplots
-import win32com.client as client
+# import win32com.client as client
 import plotly.graph_objects as go  
 import sqlite3
 
@@ -90,16 +90,16 @@ def rezultati_admin():
   clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Osnovenetacni','Zakonska',"Zakonskanetacni",'Mehanicke',"Mehanickenetacni",'Eruptivna',"Eruptivnanetacni",'Struktura',"Strukturanetacni",'Hemizacija',"Hemizacijanetacni",'Priprema',"Pripremanetacni"])
   st.dataframe(clean_db)
 
-def slanje_maila():
-  outlook = client.Dispatch('Outlook.Application')
-  message = outlook.CreateItem(0) # 0 is the code for a mail item (see the enumerations)
-  message.Display()
-  message.To = 'bojan.martinovic@nis.rs'
+# def slanje_maila():
+#   outlook = client.Dispatch('Outlook.Application')
+#   message = outlook.CreateItem(0) # 0 is the code for a mail item (see the enumerations)
+#   message.Display()
+#   message.To = 'bojan.martinovic@nis.rs'
 
-  message.Subject = 'Naftna fiskultura'
-  message.Body = 'Postovani, \n\nZavrsio sam test!'
-  message.Save() # save to drafts folder
-  message.Send() # send to outbox
+#   message.Subject = 'Naftna fiskultura'
+#   message.Body = 'Postovani, \n\nZavrsio sam test!'
+#   message.Save() # save to drafts folder
+#   message.Send() # send to outbox
     
 # # stranica sa Testom, funkcija za Test-----------------------------------------------------------------
 
@@ -292,7 +292,7 @@ def display_app_header(main_txt,sub_txt):
 def admin():
   
   display_app_header("ADMIN ZONA","Ovde mozete pregledati sve rezultate ukupno i detaljno po svakom clanu tima ponaosob")
-  set_png_as_page_bg('//SNS06CFSH01/HomeFolderR/bojan.martinovic/Desktop/Test znanja APP/nova.jpg') 
+  set_png_as_page_bg('nova.jpg') 
   st.markdown('-----------')
   results=view_all_results()
   clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Osnovenetacni','Zakonska',"Zakonskanetacni",'Mehanicke',"Mehanickenetacni",'Eruptivna',"Eruptivnanetacni",'Struktura',"Strukturanetacni",'Hemizacija',"Hemizacijanetacni",'Priprema',"Pripremanetacni"])
@@ -503,7 +503,7 @@ def admin():
     
 
 def testy():
-    set_png_as_page_bg('//SNS06CFSH01/HomeFolderR/bojan.martinovic/Desktop/Test znanja APP/nova.jpg') 
+    set_png_as_page_bg('nova.jpg') 
     st.markdown(html_temp11, unsafe_allow_html = True)
    
     st.markdown('-----------')
@@ -611,7 +611,7 @@ def testy():
               if st.form_submit_button('Kraj'):
 
                    
-                  slanje_maila()
+#                   slanje_maila()
                   st.info("Test je zavrsen, idite na vrh stranice i kliknite na Rezultati")
                     
                   create_r()
