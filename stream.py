@@ -1,13 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-import xlrd as xl
-import xlsxwriter
-import os
-from PIL import Image
-import plotly.figure_factory as ff
-import streamlit as st
-import pandas as pd
 from PIL import Image
 import json
 import random
@@ -15,7 +7,7 @@ import datetime
 import base64
 import math
 from plotly.subplots import make_subplots
-# import win32com.client as client
+import win32com.client as client
 import plotly.graph_objects as go  
 import sqlite3
 
@@ -33,7 +25,8 @@ c = conn.cursor()
 
 # c.execute('INSERT INTO  admintable(username,password) VALUES ("BojanM","1234")')
 # conn.commit()
-# c.execute('CREATE TABLE IF NOT EXISTS rezultati(name TEXT ,datum TEXT,tacni INTEGER,netacni INTEGER,Osnove INTEGER,Zakonska INTEGER,Mehanicke INTEGER,Eruptivna INTEGER,Struktura INTEGER,Hemizacija INTEGER, Priprema INTEGER, PRIMARY KEY (name,datum))')
+
+# c.execute('CREATE TABLE IF NOT EXISTS rezultati(name TEXT ,datum TEXT,tacni INTEGER,netacni INTEGER,Osnove INTEGER,Osnovenetacni INTEGER , Zakonska INTEGER,Zakonskanetacni INTEGER,Mehanicke INTEGER,Mehanickenetacni INTEGER,Eruptivna INTEGER,Eruptivnanetacni INTEGER,Struktura INTEGER,Strukturanetacni INTEGER,Hemizacija INTEGER, Hemizacijanetacni INTEGER,Priprema INTEGER,Pripremanetacni INTEGER, PRIMARY KEY (name,datum))')
 # conn.commit()
 def admin_user(u,n):
   c.execute('SELECT * FROM admintable WHERE username =? AND password = ?',(u,n))
@@ -44,10 +37,10 @@ def create_usertable():
   c.execute('CREATE TABLE IF NOT EXISTS userstable(username TEXT PRIMARY KEY,password TEXT,ime TEXT,prezime TEXT,email TEXT,broj_telefona TEXT, sap_broj TEXT,naziv_pozicije TEXT)')
        
 def create_r():
-  c.execute('CREATE TABLE IF NOT EXISTS rezultati(name TEXT ,datum TEXT,tacni INTEGER,netacni INTEGER,Osnove INTEGER,Zakonska INTEGER,Mehanicke INTEGER,Eruptivna INTEGER,Struktura INTEGER,Hemizacija INTEGER, Priprema INTEGER, PRIMARY KEY (name,datum))')
+  c.execute('CREATE TABLE IF NOT EXISTS rezultati(name TEXT ,datum TEXT,tacni INTEGER,netacni INTEGER,Osnove INTEGER,Osnovenetacni INTEGER , Zakonska INTEGER,Zakonskanetacni INTEGER,Mehanicke INTEGER,Mehanickenetacni INTEGER,Eruptivna INTEGER,Eruptivnanetacni INTEGER,Struktura INTEGER,Strukturanetacni INTEGER,Hemizacija INTEGER, Hemizacijanetacni INTEGER,Priprema INTEGER,Pripremanetacni INTEGER, PRIMARY KEY (name,datum))')
 
-def add_userr(name,datum,rezultati,netacni,Osnove,Zakonska,Mehanicke,Eruptivna,Struktura,Hemizacija, Priprema):
-  c.execute('INSERT INTO rezultati(name,datum,tacni,netacni,Osnove,Zakonska,Mehanicke,Eruptivna,Struktura,Hemizacija, Priprema) VALUES (?,?,?,?,?,?,?,?,?,?,?)',(name,datum,rezultati,netacni,Osnove,Zakonska,Mehanicke,Eruptivna,Struktura,Hemizacija, Priprema))
+def add_userr(name,datum,tacni,netacni,Osnove,Osnovenetacni,Zakonska,Zakonskanetacni,Mehanicke,Mehanickenetacni,Eruptivna,Eruptivnanetacni,Struktura,Strukturanetacni,Hemizacija,Hemizacijanetacni, Priprema,Pripremanetacni):
+  c.execute('INSERT INTO rezultati(name,datum,tacni,netacni,Osnove,Osnovenetacni,Zakonska,Zakonskanetacni,Mehanicke,Mehanickenetacni,Eruptivna,Eruptivnanetacni,Struktura,Strukturanetacni,Hemizacija,Hemizacijanetacni, Priprema,Pripremanetacni) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',(name,datum,tacni,netacni,Osnove,Osnovenetacni,Zakonska,Zakonskanetacni,Mehanicke,Mehanickenetacni,Eruptivna,Eruptivnanetacni,Struktura,Strukturanetacni,Hemizacija,Hemizacijanetacni, Priprema,Pripremanetacni))
   conn.commit()
 
 def add_userdata(username,password,ime,prezime,email,broj_telefona,sap_broj,naziv_pozicije):
@@ -80,13 +73,13 @@ name1=""
 
 def total_broj_testa():
   results=view_all_results()
-  clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema'])
+  clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Osnovenetacni','Zakonska',"Zakonskanetacni",'Mehanicke',"Mehanickenetacni",'Eruptivna',"Eruptivnanetacni",'Struktura',"Strukturanetacni",'Hemizacija',"Hemizacijanetacni",'Priprema',"Pripremanetacni"])
   clean_db1=clean_db[clean_db['Name']==name1]
   total=clean_db1.shape[0]
 
 def rezultati1():
   results=view_all_results()
-  clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema'])
+  clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Osnovenetacni','Zakonska',"Zakonskanetacni",'Mehanicke',"Mehanickenetacni",'Eruptivna',"Eruptivnanetacni",'Struktura',"Strukturanetacni",'Hemizacija',"Hemizacijanetacni",'Priprema',"Pripremanetacni"])
   clean_db1=clean_db[clean_db['Name']==name1]
   st.dataframe(clean_db1)
   
@@ -94,19 +87,19 @@ def rezultati1():
 
 def rezultati_admin():
   results=view_all_results()
-  clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema'])
+  clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Osnovenetacni','Zakonska',"Zakonskanetacni",'Mehanicke',"Mehanickenetacni",'Eruptivna',"Eruptivnanetacni",'Struktura',"Strukturanetacni",'Hemizacija',"Hemizacijanetacni",'Priprema',"Pripremanetacni"])
   st.dataframe(clean_db)
 
-# def slanje_maila():
-#   outlook = client.Dispatch('Outlook.Application')
-#   message = outlook.CreateItem(0) # 0 is the code for a mail item (see the enumerations)
-#   message.Display()
-#   message.To = 'bojan.martinovic@nis.rs'
+def slanje_maila():
+  outlook = client.Dispatch('Outlook.Application')
+  message = outlook.CreateItem(0) # 0 is the code for a mail item (see the enumerations)
+  message.Display()
+  message.To = 'bojan.martinovic@nis.rs'
 
-#   message.Subject = 'Naftna fiskultura'
-#   message.Body = 'Postovani, \n\nZavrsio sam test!'
-#   message.Save() # save to drafts folder
-#   message.Send() # send to outbox
+  message.Subject = 'Naftna fiskultura'
+  message.Body = 'Postovani, \n\nZavrsio sam test!'
+  message.Save() # save to drafts folder
+  message.Send() # send to outbox
     
 # # stranica sa Testom, funkcija za Test-----------------------------------------------------------------
 
@@ -299,10 +292,10 @@ def display_app_header(main_txt,sub_txt):
 def admin():
   
   display_app_header("ADMIN ZONA","Ovde mozete pregledati sve rezultate ukupno i detaljno po svakom clanu tima ponaosob")
-  set_png_as_page_bg('nova.jpg') 
+  set_png_as_page_bg('//SNS06CFSH01/HomeFolderR/bojan.martinovic/Desktop/Test znanja APP/nova.jpg') 
   st.markdown('-----------')
   results=view_all_results()
-  clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema'])
+  clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Osnovenetacni','Zakonska',"Zakonskanetacni",'Mehanicke',"Mehanickenetacni",'Eruptivna',"Eruptivnanetacni",'Struktura',"Strukturanetacni",'Hemizacija',"Hemizacijanetacni",'Priprema',"Pripremanetacni"])
   
   c=clean_db[['Osnove','Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema']]
   m1=pd.to_numeric(c['Osnove'], errors='coerce')
@@ -410,6 +403,8 @@ def admin():
         with col1:
 
           
+       
+          
           table = result_final
 
           sales=table[["Osnove",'Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema']]
@@ -423,7 +418,7 @@ def admin():
                           textposition='auto',
                           marker_color='#F1AB86',
                           orientation = "v")) 
-          fig1.add_trace(go.Bar(name="Prosek po kompetenciji",x = df["Sekcija"],
+          fig1.add_trace(go.Bar(name="Prosek tima",x = df["Sekcija"],
           y = df["Bodovi"],
           text=df["Bodovi"],
                           textposition='auto',
@@ -508,7 +503,7 @@ def admin():
     
 
 def testy():
-    set_png_as_page_bg('nova.jpg') 
+    set_png_as_page_bg('//SNS06CFSH01/HomeFolderR/bojan.martinovic/Desktop/Test znanja APP/nova.jpg') 
     st.markdown(html_temp11, unsafe_allow_html = True)
    
     st.markdown('-----------')
@@ -516,7 +511,7 @@ def testy():
     date=now.strftime("%d %b %Y %I:%M%p")
     
     results=view_all_results()
-    clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema'])
+    clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Osnovenetacni','Zakonska',"Zakonskanetacni",'Mehanicke',"Mehanickenetacni",'Eruptivna',"Eruptivnanetacni",'Struktura',"Strukturanetacni",'Hemizacija',"Hemizacijanetacni",'Priprema',"Pripremanetacni"])
     clean_db1=clean_db[clean_db['Name']==name1]
     total=clean_db1.shape[0]
     if total != 0:
@@ -528,8 +523,8 @@ def testy():
       datum1=datum.to_string(index=False)
     else:
       star_prosecna_uspesnost=""
-      prosecna_uspesnost="Podaci ce se obnoviti nakon prvog uradjenog testa"
-      datum1="Podaci ce se obnoviti nakon prvog uradjenog testa"
+      prosecna_uspesnost="Podaci ce se obnoviti nakon  prvog uradjenog testa!"
+      datum1="Podaci ce se obnoviti nakon  prvog uradjenog testa!"
     
     
 
@@ -573,11 +568,14 @@ def testy():
       
     if box and box1:
         st.warning('Mozete obeleziti samo jedno polje')
+
     elif box:
-          
+      
         col1,col2=st.columns([2,1]) 
         with col1:
-          with st.form("2"):
+          with st.form("2",clear_on_submit=True):
+           
+           
               L2=get_osnove()
               L3=get_Zakonska()
               L4=get_mehanicke()
@@ -602,25 +600,27 @@ def testy():
                   for i in range (0,7):
                     if Ls[i]==obj.get_section():
                       Ls1[i]+=1
-                  st.success('Tacno')
+                      
+                  # st.success('Tacno')
                 
+
                 if not (choice == 'Odaberite odgovor:') : 
-                    st.info('Tacan odgovor je '+ obj.get_answer())
+                    # st.info('Tacan odgovor je '+ obj.get_answer())
                     empty.empty()             
                     
               if st.form_submit_button('Kraj'):
-                
-                     
-#                   slanje_maila()
-                  st.metric(label = "Ostvaren rezultat je:  ", value = score )
+
                    
+                  slanje_maila()
+                  st.info("Test je zavrsen, idite na vrh stranice i kliknite na Rezultati")
+                    
                   create_r()
-                  add_userr(name1,date,math.trunc(score/100*100),math.trunc(100-score),(Ls1[0]/20*100),(Ls1[1]/10*100),(Ls1[2]/20*100),(Ls1[3]/20*100),(Ls1[4]/10*100),(Ls1[5]/10*100),(Ls1[6]/10*100))
+                  add_userr(name1,date,math.trunc(score/100*100),math.trunc(100-score),(Ls1[0]/20*100),100-(Ls1[0]/20*100),(Ls1[1]/10*100),100-(Ls1[1]/10*100),(Ls1[2]/20*100),100-(Ls1[2]/20*100),(Ls1[3]/20*100),100-(Ls1[3]/20*100),(Ls1[4]/10*100),100-(Ls1[4]/10*100),(Ls1[5]/10*100),100-(Ls1[5]/10*100),(Ls1[6]/10*100),100-(Ls1[6]/10*100))
+                  
                    
                   st.legacy_caching.clear_cache()
-                 
                   
-                  
+                   
                   
                   st.markdown('---------')
         with col2:
@@ -630,37 +630,51 @@ def testy():
     elif box1:
       
       results=view_all_results()
-      clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema'])
+      clean_db=pd.DataFrame(results, columns=['Name','Datum','tacni','netacni','Osnove','Osnovenetacni','Zakonska',"Zakonskanetacni",'Mehanicke',"Mehanickenetacni",'Eruptivna',"Eruptivnanetacni",'Struktura',"Strukturanetacni",'Hemizacija',"Hemizacijanetacni",'Priprema',"Pripremanetacni"])
       clean_db1=clean_db[clean_db['Name']==name1]
       b=clean_db1[-1:]
-      b1=clean_db1[-2:]
-      b2=b1["tacni"]
-      b3=b2[:1].to_string(index=False)
+      
+      
+      
       j=b["tacni"].to_string(index=False)
-#       b4=int(b3)
-#       j1=int(j)
       
-
-      
-      # razlika=((j1-b4)/j1)*100
-      
+     
 
       sales=b[["Osnove",'Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema']]
+      netacni=b[["Osnovenetacni","Zakonskanetacni","Mehanickenetacni","Eruptivnanetacni","Strukturanetacni", "Hemizacijanetacni","Pripremanetacni"]]
+
       sales.reset_index(drop=True, inplace=True)
       m=sales.T
+      netacni.reset_index(drop=True, inplace=True)
+      net=netacni.T
       
       n=m.rename(columns={0:"Procenat"},index={0:"Sekcije"})
+      n2=net.rename(columns={0:"Procenat"},index={0:"Sekcije"})
           
-      sales1=b[['tacni','netacni']]
+      sales1=b[['tacni']]
       sales1.reset_index(drop=True, inplace=True)
       m1=sales1.T
       n1=m1.rename(columns={0:"Procenat"},index={0:"Sekcije"})
+
+      sales11=b[['netacni']]
+      sales11.reset_index(drop=True, inplace=True)
+      m11=sales11.T
+      n11=m11.rename(columns={0:"Procenat"},index={0:"Sekcije"})
+
       fig1111 = go.Figure()
-      fig1111.add_trace(go.Bar(x = n1.index,
+      fig1111.add_trace(go.Bar(name="Tacni odgovori",x = n1.index,
                      y = n1["Procenat"],
                      text=n1["Procenat"],
                      textposition='auto',
                      marker_color="#F1AB86",
+                     orientation = "v")) 
+      fig1111.add_trace(go.Bar(name="Netacni odgovori",x = n11.index,
+                     y = n11["Procenat"],
+                     text=n11["Procenat"],
+                     textposition='auto',
+                     marker_color='rgb(158,202,225)', marker_line_color='rgb(8,48,107)',
+                  marker_line_width=0.2, opacity=0.6
+                     ,
                      orientation = "v")) 
       fig1111.update_layout(plot_bgcolor = "white",
                     font = dict(color = "#909497"),
@@ -672,12 +686,20 @@ def testy():
       st.write(":pencil: Rezultati testa")
 
       fig111 = go.Figure()
-      fig111.add_trace(go.Bar(x = n.index,
+      fig111.add_trace(go.Bar(name="Tacni odgovori",x = n.index,
                      y = n["Procenat"],
                      text=n["Procenat"],
                      textposition='auto',
                      marker_color='#F1AB86',
                      orientation = "v")) 
+      fig111.add_trace(go.Bar(name="Netacni odgovori",x = n.index,
+                     y = n2["Procenat"],
+                     text=n2["Procenat"],
+                     textposition='auto',
+                     marker_color='rgb(158,202,225)', marker_line_color='rgb(8,48,107)',
+                  marker_line_width=0.2, opacity=0.6
+                     ,
+                     orientation = "v"))               
       fig111.update_layout(plot_bgcolor = "white",
                     font = dict(color = "#909497"),
                     title = dict(text = "Rezultati poslednjeg testa po kompetencijama"),
@@ -783,16 +805,31 @@ def testy():
               table = result_final
 
               sales=table[["Osnove",'Zakonska','Mehanicke','Eruptivna','Struktura','Hemizacija','Priprema']]
+              sales1=table[["Osnovenetacni","Zakonskanetacni","Mehanickenetacni","Eruptivnanetacni","Strukturanetacni", "Hemizacijanetacni","Pripremanetacni"]]
+
+     
               sales.reset_index(drop=True, inplace=True)
               m=sales.T
               n=m.rename(columns={0:"Procenat"},index={0:"Sekcije"})
 
+              sales1.reset_index(drop=True, inplace=True)
+              m1=sales1.T
+              n1=m1.rename(columns={0:"Procenat"},index={0:"Sekcije"})
+              
+
               fig1 = go.Figure()
-              fig1.add_trace(go.Bar(x = n.index,
+              fig1.add_trace(go.Bar(name="Tacni odgovori",x = n.index,
                      y = n["Procenat"],
                      text=n["Procenat"],
                      textposition='auto',
                      marker_color='#F1AB86',
+                     orientation = "v")) 
+              fig1.add_trace(go.Bar(name="Netacni odgovori",x = n.index,
+                     y = n1["Procenat"],
+                     text=n["Procenat"],
+                     textposition='auto',
+                    marker_color='rgb(158,202,225)', marker_line_color='rgb(8,48,107)',
+                  marker_line_width=0.2, opacity=0.6,
                      orientation = "v")) 
               fig1.update_layout(plot_bgcolor = "white",
                     font = dict(color = "#909497"),
@@ -803,14 +840,14 @@ def testy():
                             
               st.plotly_chart(fig1,use_container_width=True)
 
-# def animacija():
-#   file_ = open("C:/Bojan Martinovic/22.gif", "rb")
-#   contents = file_.read()
-#   data_url = base64.b64encode(contents).decode("utf-8")
-#   file_.close()
-#   st.markdown(
-#   f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
-#   unsafe_allow_html=True,)
+def animacija():
+  file_ = open("C:/Bojan Martinovic/22.gif", "rb")
+  contents = file_.read()
+  data_url = base64.b64encode(contents).decode("utf-8")
+  file_.close()
+  st.markdown(
+  f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
+  unsafe_allow_html=True,)
 
 #funkcija sa sign in-------------------------------------------------
 
@@ -994,7 +1031,7 @@ st.markdown(
     """
     <style>
     .reportview-container {
-        background: 'nova.jpg")
+        background: 'nova.jpg')
     }
    .sidebar .sidebar-content {
         background: url("https://images.app.goo.gl/LFCobouKtT7oZ7Qv7")
@@ -1027,4 +1064,5 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 if __name__=='__main__':
     main()
+
 
