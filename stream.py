@@ -504,6 +504,7 @@ def admin():
 
 def testy():
     set_png_as_page_bg('nova.jpg') 
+    st.markdown("""<a id="top"></a>""", unsafe_allow_html=True)
     st.markdown(html_temp11, unsafe_allow_html = True)
    
     st.markdown('-----------')
@@ -601,11 +602,18 @@ def testy():
                     if Ls[i]==obj.get_section():
                       Ls1[i]+=1
                       
-                  # st.success('Tacno')
+                  st.info(obj.get_question())
+                  st.info("Vas odgovor: " + choice)
+                  st.success('Tacno')
+                  
+                if choice!= obj.get_answer() and choice!= 'Odaberite odgovor:' :
+                  st.info(obj.get_question())
+                  st.info("Vas odgovor: " + choice)
+                  st.error('Netacno')
                 
 
                 if not (choice == 'Odaberite odgovor:') : 
-                    # st.info('Tacan odgovor je '+ obj.get_answer())
+                    
                     empty.empty()             
                     
               if st.form_submit_button('Kraj'):
@@ -619,6 +627,8 @@ def testy():
                   
                    
                   st.legacy_caching.clear_cache()
+                  href=f"""<a href="#top"> Povratak na vrh stranice</a>"""
+                  st.markdown(href,unsafe_allow_html=True)
                   
                    
                   
