@@ -608,6 +608,7 @@ def testy():
                   
                 if choice!= obj.get_answer() and choice!= 'Odaberite odgovor:' :
                   st.info(obj.get_question())
+                  st.info("Tacan odgovor je: " + obj.get_answer())
                   st.info("Vas odgovor: " + choice)
                   st.error('Netacno')
                 
